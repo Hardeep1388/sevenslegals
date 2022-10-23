@@ -1,5 +1,8 @@
-{{ define "main" }} 
-<section>    
+{{ define "main" }}
+<section>
+    <div style="height: 500px;background: url(/img/Sevens-Legal-Criminal-Defense-lawyers.jpg) center / cover;"></div>
+        {{ partial "cards" . }}
+    </div>
 </section>
 <section class="text-center photo-gallery py-4 py-xl-5" style="width: 100%;height: 100%;background: #353535;">
     <div class="container-fluid p-0" style="height: 100%;">
@@ -9,4 +12,5 @@
         </div>
     </div>
 </section>
+{{- block "home-content" . -}}{{- end -}}
 {{ end }}
