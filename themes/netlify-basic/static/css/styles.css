@@ -1,5 +1,5 @@
 @font-face {
-    font-family: CalibriRegular;
+    font-family: Calibri;
     src: url(../../fonts/calibri/Calibri.ttf) format('ttf');
     font-weight: 400;
     font-style: normal;
@@ -10,4 +10,7 @@
 .highlited {
     background-color: #d6a354;
     color: inherit;
+}
+p, a{
+ font-family: Calibri;
 }
