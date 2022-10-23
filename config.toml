@@ -2,4 +2,3 @@ baseURL = 'http://hugo-quickstart-template.netlify.com'
 languageCode = 'en-us'
 title = 'Sevens Legal'
 theme = 'netlify-basic'
-sectionPagesMenu = "main"
