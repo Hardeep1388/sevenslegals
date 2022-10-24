@@ -17,3 +17,22 @@ p, a{
 h1,h2,h3,h4,h5,{
    font-family: 'Oswald', sans-serif !important;
 }
+div#navcol-1 ul li a {
+    line-height: 31px;
+    text-align: center;
+    font-size: 16px;
+    color: #000;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+div#navcol-1 ul li::after {
+    content: "";
+    background: url( https://www.sevenslegal.com/wp-content/themes/sevenlegals/images/davider.jpg);
+    height: 46px;
+    width: 2px;
+    display: block;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+}
