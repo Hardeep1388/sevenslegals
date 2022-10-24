@@ -37,3 +37,6 @@ div#navcol-1 ul li::after {
     position: absolute;
     top: 0;
 }
+header .align-content-center span {
+    font-family: 'Oswald';
+}
