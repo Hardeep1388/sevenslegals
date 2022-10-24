@@ -50,3 +50,7 @@ section.text-center.photo-gallery.py-4.py-xl-5 {
 .practice-areas span {
     font-family: Calibri;
 }
+.practice-areas {
+    background: #ededed;
+    padding-bottom: 20px;
+}
