@@ -14,8 +14,9 @@
 p, a{
  font-family: Calibri;
 }
-h1, h2, h3, h4, h5,{
+h1, h2, h3, h4, h5{
    font-family: 'Oswald', sans-serif !important;
+   font-weight: 500 !important;
 }
 div#navcol-1 ul li a {
     line-height: 31px;
