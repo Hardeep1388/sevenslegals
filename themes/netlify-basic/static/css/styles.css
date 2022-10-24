@@ -54,3 +54,7 @@ section.text-center.photo-gallery.py-4.py-xl-5 {
     background: #ededed;
     padding-bottom: 20px;
 }
+.header-container.emotional-sec h4 {
+    font-family: Calibri !important;
+    font-size: 21px;
+}
