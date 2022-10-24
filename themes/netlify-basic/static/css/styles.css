@@ -28,7 +28,7 @@ div#navcol-1 ul li a {
 
 div#navcol-1 ul li::after {
     content: "";
-    background: url( https://www.sevenslegal.com/wp-content/themes/sevenlegals/images/davider.jpg);
+    background: url(img/davider.jpg);
     height: 46px;
     width: 2px;
     display: block;
