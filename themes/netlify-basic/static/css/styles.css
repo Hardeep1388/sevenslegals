@@ -16,7 +16,7 @@ p, a{
 }
 h1, h2, h3, h4, h5{
    font-family: 'Oswald', sans-serif !important;
-   font-weight: 500 !important;
+  font-weight: 400 !important;
 }
 div#navcol-1 ul li a {
     line-height: 20px;
@@ -41,4 +41,5 @@ div#navcol-1 ul li::after {
 }
 header .align-content-center span {
     font-family: 'Oswald';
+    font-weight: 400 !important;
 }
