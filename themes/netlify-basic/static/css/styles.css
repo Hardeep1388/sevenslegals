@@ -43,3 +43,7 @@ header .align-content-center span {
     font-family: 'Oswald';
     font-weight: 400 !important;
 }
+section.text-center.photo-gallery.py-4.py-xl-5 {
+    padding-top: 20px !important;
+    padding-bottom: 10px !important;
+}
