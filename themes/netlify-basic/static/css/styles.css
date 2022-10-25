@@ -301,4 +301,18 @@ textarea.form-control {
 .video-sec{
    padding-right: 15px;
     padding-left: 15px; 
+}ul.list-sevenss li {
+    list-style: none;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Calibri;
+    background: url(https://www.sevenslegal.com/wp-content/uploads/2018/01/1tick.png) left top no-repeat;
+    margin: 0;
+    padding: 0 0 0 40px;
+    line-height: 22px;
+}
+
+ul.list-sevenss {
+    margin: 0;
+    padding: 0;
 }
