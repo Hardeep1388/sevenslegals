@@ -262,4 +262,11 @@ textarea.form-control {
     width: 33%;
 }.action-call:hover {
     top: -179px;
+}.action-call.first {
+    left: 0;
+}.action-call.middle {
+    left: 327px;
+    top: -125px;
+}.action-call.last {
+    right: 0;
 }
