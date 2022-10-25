@@ -88,11 +88,11 @@ section.text-center.photo-gallery.py-4.py-xl-5 {
     vertical-align: middle;
     background: url(../img/input.webp) repeat-x !important;
     border: 2px solid #4f4e4d !important;
-    border-radius: 4px;
-    -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
-    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
-    -webkit-transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    border-radius: 4px !important;
+    -webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%) !important;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%) !important;
+    -webkit-transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out !important;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s !important;
 }
 textarea.form-control {
     height: auto;
@@ -109,4 +109,9 @@ textarea.form-control {
     background-color: #d7a556;
     border-bottom: 7px solid #9b773e;
     display: inline-block;
+}
+.submit-now:hover {
+    color: #fff;
+    background-color: #9b773e;
+    border-color: #d7a556;
 }
