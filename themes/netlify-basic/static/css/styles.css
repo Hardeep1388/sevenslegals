@@ -24,8 +24,21 @@ h1, h2, h3, h4, h5{
 .header {
     background-color: #353535;
 	width: 100%;
-    
+    box-sizing: border-box;
+    color: #fff;
+    float: right;
+    font-family: CalibriRegular;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0px;
     min-height: 84px;
+    padding: 0px;
+    transition: all 0.5s ease 0s;
+    width: 100%;
+}
+.top-content {
+    width: auto;
+    float: right;
 }
 div#navcol-1 ul li a {
     line-height: 20px;
