@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5{
    font-family: 'Oswald', sans-serif !important;
   font-weight: 400 !important;
 }
-.container {
+.container, .container-fluid {
     max-width: 1005px;
 }
 div#navcol-1 ul li a {
