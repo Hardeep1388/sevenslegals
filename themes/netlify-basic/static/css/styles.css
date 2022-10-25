@@ -44,12 +44,21 @@ h1, h2, h3, h4, h5{
     margin-top: 15px;
 }
 .header p {
-    font-size: 18.36px;
+    font-size: 16px;
     margin: 6px 0 0;
     color: #fff;
     text-align: center;
     text-transform: uppercase;
-    font-family: GnuolaneFree;
+     font-family: 'Oswald', sans-serif !important;
+}
+.header span {
+    background: #e2b165;
+    color: #333;
+    padding: 0 2px;
+}
+a {
+    color: #ae7a27;
+    text-decoration: none;
 }
 .header h2 {
     font-size: 46.36px;
