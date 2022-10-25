@@ -76,6 +76,34 @@ section.text-center.photo-gallery.py-4.py-xl-5 {
     font-family: Calibri !important;
     font-size: 21px;
 }
+.dis {
+        position: relative;
+    }
+
+    .dis .text {
+        position: absolute;
+        display: flex;
+        top: 50%;
+        left: 40%;
+        color: white;
+		background: rgba(0,0,0,0.8);
+        visibility: hidden;
+        font-weight: bold;
+		opacity: 0;
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform: scale(0);
+    -webkit-transition: .35s ease-in-out;
+    -moz-transition: .35s ease-in-out;
+    transition: all .35s ease-in-out;
+    border: 1px solid #000;
+    }
+
+    .dis:hover .text {
+        visibility: visible;
+    }
 .form-control {
     display: block;
     width: 100%;
