@@ -215,4 +215,10 @@ textarea.form-control {
 }
 .cards-sections {
     margin-top: -148px;
+}.cards-sections .col {
+    background: #121518e0;
+    padding: 10px;
+    border-style: solid;
+    border-top-width: 5px;
+    border-top-color: #e0ae61;
 }
