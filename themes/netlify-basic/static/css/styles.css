@@ -271,4 +271,15 @@ textarea.form-control {
     top: -125px;
 }.action-call.last {
     right: 0;
+}.practice-areas h1 {
+    font-size: 30.36px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 61px;
+    background: #c69446;
+    margin: 0 0 20px;
+    font-weight: 400;
+    position: relative;
+    padding: 0;
 }
