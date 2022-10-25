@@ -31,6 +31,9 @@ div#navcol-1 ul li a {
     font-family: Calibri;
     text-transform: uppercase;
 }
+div#navcol-1 ul li:last-child>a {
+    background: 0 0;
+}
 div#navcol-1 ul li a:hover, div#navcol-1 ul li a.nav-link.active {
 	color: #fff;
 	background: linear-gradient(to bottom,#bb8a3e 0,#a77423 100%);
