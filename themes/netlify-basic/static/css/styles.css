@@ -210,3 +210,6 @@ textarea.form-control {
     color: #fff !important;
     background: linear-gradient(to bottom,#bb8a3e 0,#a77423 100%) !important;
 }
+.banner img {
+    width: 100%;
+}
