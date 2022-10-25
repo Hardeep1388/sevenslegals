@@ -200,3 +200,7 @@ textarea.form-control {
     background-color: #9b773e;
     border-color: #d7a556;
 }
+.navigation-main {
+    clear: both;
+    background: #e2b164;
+}
