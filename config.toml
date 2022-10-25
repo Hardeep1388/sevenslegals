@@ -3,3 +3,13 @@ languageCode = 'en-us'
 title = 'Sevens Legal'
 theme = 'netlify-basic'
 sectionPagesMenu = "main"
+[[menu.main]]
+    name = "Attorneys"
+    weight = -110
+    identifier = "ttorneys"
+    url = "/attorneys/"
+[[menu.main]]
+    name = "getting started"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/getting-started/"
