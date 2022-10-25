@@ -13,13 +13,13 @@ theme = 'netlify-basic'
     url = "/criminal/"
 [[menu.main]]
     name = "Testimonials"
-    weight = -100
+    weight = -90
     url = "/testimonials/"
 [[menu.main]]
     name = "Blog"
-    weight = -100
+    weight = -80
     url = "/blog/"
 [[menu.main]]
     name = "Contact"
-    weight = -100
+    weight = -70
     url = "/contact/"
