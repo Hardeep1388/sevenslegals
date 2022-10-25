@@ -21,6 +21,12 @@ h1, h2, h3, h4, h5{
 .container, .container-fluid {
     max-width: 1005px;
 }
+.header {
+    background-color: #353535;
+	width: 100%;
+    
+    min-height: 84px;
+}
 div#navcol-1 ul li a {
     line-height: 20px;
     text-align: center;
