@@ -266,7 +266,7 @@ textarea.form-control {
     top: -125px;
     width: 33%;
 }.action-call:hover {
-    top: -179px;
+    top: -179px !important;
 }.action-call.first {
     left: 0;
 }.action-call.middle {
