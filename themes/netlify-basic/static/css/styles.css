@@ -293,4 +293,7 @@ textarea.form-control {
     display: block;
     width: 0;
     z-index: 1;
+}.criminal p {
+    padding-right: 15px;
+    padding-left: 15px;
 }
