@@ -96,9 +96,9 @@ section.text-center.photo-gallery.py-4.py-xl-5 {
     padding: 0 10px;
         
 		background: rgba(0,0,0,0.8);
-        visibility: hidden;
+        display:none;
         font-weight: bold;
-		opacity: 0;
+		
     -webkit-transform: scale(0);
     -moz-transform: scale(0);
     -ms-transform: scale(0);
@@ -111,8 +111,7 @@ section.text-center.photo-gallery.py-4.py-xl-5 {
     }
 
     .dis:hover .text {
-        visibility: visible;
-		opacity: 1;
+        display:block;
     }
 .form-control {
     display: block;
