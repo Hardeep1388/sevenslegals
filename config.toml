@@ -4,22 +4,17 @@ title = 'Sevens Legal'
 theme = 'netlify-basic'
 [[menu.main]]
     name = "Attorneys"
-    weight = -110
     identifier = "attorneys"
     url = "/attorneys/"
 [[menu.main]]
     name = "Criminal Law"
-    weight = -100
     url = "/criminal/"
 [[menu.main]]
     name = "Testimonials"
-    weight = -90
     url = "/testimonials/"
 [[menu.main]]
     name = "Blog"
-    weight = -80
     url = "/blog/"
 [[menu.main]]
     name = "Contact"
-    weight = -70
     url = "/contact/"
