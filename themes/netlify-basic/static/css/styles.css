@@ -80,13 +80,16 @@ div#navcol-1 ul li a {
     text-align: center;
     font-size: 18.36px;
     color: #353535;
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 35px;
+    padding-left: 35px;
     padding-top: 14px;
     padding-bottom: 14px;
-	background: url(../img/davider.webp) right top no-repeat;
+    background: url(../img/davider.webp) right top no-repeat;
     font-family: Calibri;
     text-transform: uppercase;
+    position: relative;
+    display: block;
+    font-weight: bold;
 }
 div#navcol-1 ul li:last-child>a {
     background: 0 0;
