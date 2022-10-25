@@ -7,12 +7,7 @@
     border-color: transparent;
 }
 
-.form-control.input {
-    border: 0;
-    background: transparent;
-    border-bottom: 1px solid silver;
-    border-radius: 0px !important;
-}
+
 
 .getintouch {
     height: auto;
