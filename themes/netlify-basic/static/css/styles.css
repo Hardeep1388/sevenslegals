@@ -115,6 +115,11 @@ header .align-content-center span {
 section.text-center.photo-gallery.py-4.py-xl-5 {
     padding-top: 20px !important;
     padding-bottom: 10px !important;
+        width: 100%;
+    height: 100%;
+    background: #353535;
+    z-index: 9999999999 !important;
+    position: relative;
 }
 .practice-areas span {
     font-family: Calibri;
@@ -265,7 +270,7 @@ textarea.form-control {
 }.action-call.first {
     left: 0;
 }.action-call.middle {
-    left: 327px;
+    left: 336px;
     top: -125px;
 }.action-call.last {
     right: 0;
