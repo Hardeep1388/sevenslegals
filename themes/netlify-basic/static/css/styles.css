@@ -21,12 +21,15 @@ h1, h2, h3, h4, h5{
 div#navcol-1 ul li a {
     line-height: 20px;
     text-align: center;
-    font-size: 16px;
+    font-size: 18.36px;
     color: #000;
     padding-right: 10px;
     padding-left: 10px;
     padding-top: 14px;
     padding-bottom: 14px;
+	background: url(../img/davider.webp) right top no-repeat;
+    font-family: CalibriBold;
+    text-transform: uppercase;
 }
 
 div#navcol-1 ul li::after {
