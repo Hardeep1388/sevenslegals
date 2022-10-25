@@ -6,20 +6,26 @@ theme = 'netlify-basic'
 [[menu.main]]
     name = "Home"
     identifier = "home"
+	weight = -150
     url = "/"
 [[menu.main]]
     name = "Attorneys"
     identifier = "attorneys"
+	weight = -140
     url = "/attorneys/"
 [[menu.main]]
     name = "Criminal Law"
+	weight = -130
     url = "/criminal/"
 [[menu.main]]
+weight = -120
     name = "Testimonials"
     url = "/testimonials/"
 [[menu.main]]
     name = "Blog"
+	weight = -110
     url = "/blog/"
 [[menu.main]]
+weight = -100
     name = "Contact"
     url = "/contact/"
