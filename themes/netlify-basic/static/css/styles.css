@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5{
 }
 .container, .container-fluid {
     max-width: 1005px;
+    padding: 0;
 }
 .header {
     background-color: #353535;
