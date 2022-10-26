@@ -387,3 +387,7 @@ footer p {
     font-family: Calibri;
     text-transform: uppercase;
 }
+section.bottom-section {
+    padding: 22px 0;
+    font-size: 15px;
+}
