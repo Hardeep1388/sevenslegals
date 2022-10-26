@@ -336,4 +336,9 @@ section.criminal_lawyers ul li {
     font-size: 15px;
     font-family: Calibri;
     color: #000;
+}section.criminal_lawyers {
+    width: 100%;
+    float: left;
+    background: #fff;
+    padding-bottom: 60px;
 }
