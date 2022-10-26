@@ -325,4 +325,6 @@ section.criminal_lawyers h4 {
     color: #454545;
     font-family: Calibri;
     text-transform: uppercase;
+    margin: 30px 0 15px;
+    padding-bottom: 30px;
 }
