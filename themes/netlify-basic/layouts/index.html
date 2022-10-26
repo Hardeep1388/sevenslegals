@@ -4,6 +4,6 @@
     {{ partial "cards" . }}
     </div>
 </section>
-
+{{ with .Site.GetPage "/practice" }}{{ .Title }}{{ end }}
 {{- block "home-content" . -}}{{- end -}}
 {{ end }}
