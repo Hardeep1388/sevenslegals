@@ -391,3 +391,8 @@ section.bottom-section {
     padding: 22px 0;
     font-size: 15px;
 }
+
+section.copy {
+    padding: 25px 0;
+    font-size: 15px;
+}
