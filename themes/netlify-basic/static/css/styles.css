@@ -363,3 +363,11 @@ section.getintouch {
 }.left-pading {
     padding-left: 20px;
 }
+.footer-top h2 {
+    font-size: 28px;
+    color: #000;
+    margin: 0;
+    font-family: CalibriBold;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
