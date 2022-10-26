@@ -328,3 +328,12 @@ section.criminal_lawyers h4 {
     margin: 30px 0 15px;
     padding-bottom: 30px;
 }
+section.criminal_lawyers p {
+    font-size: 15px;
+    margin: 0 !important;
+}
+section.criminal_lawyers ul li {
+    font-size: 15px;
+    font-family: Calibri;
+    color: #000;
+}
