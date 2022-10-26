@@ -358,4 +358,8 @@ section.criminal_lawyers ul li {
 }
 section.getintouch {
     padding-bottom: 65px;
+}.right-pading {
+    padding-right: 20px;
+}.left-pading {
+    padding-left: 20px;
 }
