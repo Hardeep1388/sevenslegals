@@ -370,4 +370,20 @@ section.getintouch {
     font-family: CalibriBold;
     text-transform: uppercase;
     margin-bottom: 30px;
+}footer h2 {
+    font-size: 28px;
+    color: #000;
+    margin: 0;
+    font-family: Calibri;
+    text-transform: uppercase;
+    font-weight: 700 !important;
+}
+
+footer p {
+    font-size: 18px;
+    color: #000;
+    margin: 20px 0 0;
+    line-height: 26px;
+    font-family: Calibri;
+    text-transform: uppercase;
 }
