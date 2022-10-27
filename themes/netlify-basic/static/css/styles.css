@@ -416,6 +416,11 @@ section.copy {
     text-transform: uppercase;
     padding: 7px 20px;
 }
+.attonery_lists{
+    text-align: center;
+    padding: 5px;
+    background: #f8f8f8;
+}
 
 
 
