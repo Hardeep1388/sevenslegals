@@ -402,6 +402,26 @@ section.copy {
     right: 0;
     margin: auto;
 }
+
+.container.bannner-title {
+    position: relative;
+}
+
+.container.bannner-title h2 {
+    position: absolute;
+    z-index: 9999999;
+    display: block;
+    top: -125px;
+    background: #e2b164;
+    text-transform: uppercase;
+    padding: 7px 20px;
+}
+
+
+
+
+
+
 /**Responsive**/
 
 @media (max-width: 767px){
