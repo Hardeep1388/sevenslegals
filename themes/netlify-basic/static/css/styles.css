@@ -442,5 +442,8 @@ a.action-btn {
     position: inherit;
     text-align: center;
     margin: auto;
+}.photo-gallery .img-fluid {
+    max-width: 85%;
+    margin: 20px;
 }
 }
