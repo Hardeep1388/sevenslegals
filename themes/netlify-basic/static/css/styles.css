@@ -465,4 +465,9 @@ a.action-btn {
 .container.modern-form p {
     font-size: 13px !important;
 }
+.header-container.emotional-sec {
+    padding: 25px 0;
+    padding-right: 15px;
+    padding-left: 15px;
+}
 }
