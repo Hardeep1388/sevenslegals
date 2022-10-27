@@ -1,10 +1,9 @@
 {{ range .Pages }}
             <div class="col item">
-                <div style="text-align: center;padding: 5px;background: #f8f8f8;">
+                <div style="text-align: center;padding: 5px;background: #f8f8f8;"> test
                     <a href="{{ .Permalink }}">
                         <img class="img-fluid" src="{{ .Params.src }}" width="338" height="507"><span style="font-weight: bold;"><br>{{ .Title }}<br></span>
                         </a>
                 </div>
             </div>
-            {{ end }}
-        
+{{ end }}
