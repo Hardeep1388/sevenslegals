@@ -396,7 +396,7 @@ section.copy {
     padding: 25px 0;
     font-size: 15px;
 }
-
+/**Responsive**/
 @media (max-width: 767px){
 
 .action-call {
@@ -412,5 +412,25 @@ section.copy {
 .container {
     padding-right: calc(var(--bs-gutter-x) * .5);
     padding-left: calc(var(--bs-gutter-x) * .5);
+}
+.logo {
+    width: 100%;
+    padding: 0 25px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.top-content {
+    width: 100%;
+}
+
+.top-content h2 {
+    font-size: 32px;
+}
+
+.top-content p {
+    font-size: 14px;
 }
 }
