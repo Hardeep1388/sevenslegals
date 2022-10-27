@@ -509,4 +509,7 @@ section.copy {
     text-align: center;
     margin-top: 20px;
 }
+.action-call.first a.action-btn.ab-1 {
+    width: 70%;
+}
 }
