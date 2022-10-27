@@ -396,6 +396,12 @@ section.copy {
     padding: 25px 0;
     font-size: 15px;
 }
+.action-call.first a.action-btn.ab-1 {
+    width: 80%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
 /**Responsive**/
 
 @media (max-width: 767px){
