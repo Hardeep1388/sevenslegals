@@ -470,4 +470,15 @@ a.action-btn {
     padding-right: 15px;
     padding-left: 15px;
 }
+.header-container.emotional-sec .right-pading {
+    padding: 0;
+}
+
+.header-container.emotional-sec .col-md-6.left-pading {
+    padding: 0;
+}
+section.criminal_lawyers {
+    padding-right: 15px;
+    padding-left: 15px;
+}
 }
