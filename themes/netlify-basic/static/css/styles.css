@@ -457,4 +457,12 @@ a.action-btn {
 .practice-areas .col-sm {
     padding-bottom: 25px;
 }
+.container.modern-form h4 {
+    font-size: 26px !important;
+    line-height: 38px;
+}
+
+.container.modern-form p {
+    font-size: 13px !important;
+}
 }
