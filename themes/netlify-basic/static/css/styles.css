@@ -481,4 +481,28 @@ section.criminal_lawyers {
     padding-right: 15px;
     padding-left: 15px;
 }
+.page-template-practice-areas-php {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+section.getintouch {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+footer.text-center.py-4 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+section.bottom-section {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+section.copy {
+    padding-right: 15px;
+    padding-left: 15px;
+}
 }
