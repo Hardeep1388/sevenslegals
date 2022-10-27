@@ -31,7 +31,7 @@
 <body>
     {{ partial "header" . }}
     {{ partial "banner" . }}
-    {{ define "prc" }}	
+  
     <section class="photo-gallery py-4 py-xl-5">
         <div class="container">
 		{{ range .Paginator.Pages }}
@@ -67,7 +67,7 @@
                 {{ end }}
         </div>
     </section>
-    {{ end }}
+  
     {{ partial "getin-touch" . }}
     {{ partial "footer" . }}
     {{ partial "scripts" . }}
