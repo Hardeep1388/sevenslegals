@@ -438,4 +438,9 @@ section.copy {
     justify-content: end;
     padding: 10px;
 }
+a.action-btn {
+    position: inherit;
+    text-align: center;
+    margin: auto;
+}
 }
