@@ -31,7 +31,7 @@
 <body>
     {{ partial "header" . }}
     {{ partial "banner" . }}
-  
+  after banner
     <section class="photo-gallery py-4 py-xl-5">
         <div class="container">
 		{{ range .Paginator.Pages }}
