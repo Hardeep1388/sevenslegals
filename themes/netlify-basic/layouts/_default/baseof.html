@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     {{- partial "head.html" . -}}
-    <body>
+    <body class="{{ .Title }}">
         {{- partial "header.html" . -}}
         <div id="content">
         {{- block "main" . }}{{- end }}
