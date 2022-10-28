@@ -27,13 +27,13 @@
     {{ partial "header" . }}
     {{ partial "banner" . }}
        {{ partial "awards" . }}
+         {{ partial "breadcrums" . }}
     <main class="site-main">
         <section class="text-center">
         <div class="container text-start">
             <div class="row">
                 <div class="col-7" style="margin: 30px;">
-                    <h1>Recent Posts</h1>
-                    <hr>
+                    
                     {{ range .Paginator.Pages }}
                     <div>
                         <section>
@@ -54,7 +54,7 @@
                     <div></div>
                     <h6 class="text-uppercase" style="margin-top: 50px;">Catagories</h6>
                     <div>
-                        
+
                     </div>
                 </div>
             </div>
