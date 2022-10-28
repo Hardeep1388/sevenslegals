@@ -424,7 +424,18 @@ section.copy {
 body.Home .container.bannner-title {
     display: none;
 }
+.blogs_sec .col-7 {
+    margin-left: 0 !important;
+}
 
+.blogs_sec h3 {
+    background: #d7a556;
+    color: #64471a;
+    padding: 8px 10px;
+    font-size: 20px;
+    font-family: Calibri!important;
+    font-weight: 600 !important;
+}
 
 
 
