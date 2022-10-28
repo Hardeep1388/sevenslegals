@@ -458,7 +458,9 @@ body.Home .container.bannner-title {
     height: 100px !important;
     border-radius: 6px !important;
 }
-
+.contact_form .form-label {
+    display: none;
+}
 
 /**Responsive**/
 
