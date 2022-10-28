@@ -461,6 +461,19 @@ body.Home .container.bannner-title {
 .contact_form .form-label {
     display: none;
 }
+ol.breadcrumb {
+    background: #F5F5F5;
+    padding: 10px;
+    margin: 0;
+}
+
+ol.breadcrumb li a {
+    font-weight: 600;
+}
+
+ol.breadcrumb li:nth-child(1) a {
+    color: #e2b164;
+}
 
 /**Responsive**/
 
