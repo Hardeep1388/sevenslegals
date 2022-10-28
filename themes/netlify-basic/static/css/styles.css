@@ -475,6 +475,9 @@ body.Home .container.bannner-title {
     padding: 4px 16px;
     font-size: 18px;
 }
+.blogs_sec .col-7.sm-12 {
+    width: 85% !important;
+}
 .action-call {
     position: inherit;
     width: 100%;
