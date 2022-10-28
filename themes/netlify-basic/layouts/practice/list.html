@@ -34,37 +34,7 @@
   after banner
     <section class="photo-gallery py-4 py-xl-5">
         <div class="container">
-		{{ range .Paginator.Pages }}
-                    <div>
-                        <section>
-                            <div class="row" style="margin-bottom: 30px;">
-                                <div class="col">
-                                    <a href="{{ .Permalink }}" style="text-decoration: none;">
-                                        <h3 class="ti">{{ .Title }}</h3>
-                                    </a>
-                                    <p style="border-color: rgb(0,0,0);color: rgb(68,68,68);margin-top: 10px;">{{ .Content }}</p>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    {{ end }}
-            <div class="row mb-5">
-                <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <h2>PRACTICE AREAS</h2>
-					</div>
-            </div>
-            <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 justify-content-center align-items-center photos"
-                data-bss-baguettebox="">
-                {{ range .Pages }}
-                <div class="col item" style="height: 150px;"><span
-                        style="padding-right: 5px;padding-bottom: 20px;padding-left: 5px;background: #303030;color: rgb(255,255,255);">{{ .Title }}</span>
-                    <div class="dis">
-                        <img class="img-fluid" data-bss-disabled-mobile="true" data-bss-hover-animate="pulse"
-                            src="/img/1areas-of-defense.jpg.webp" width="367" height="103" style="margin-top: 10px;">
-                        <p class="text">{{ .Title }}</p>
-                    </div>
-                </div>
-                {{ end }}
+		
         </div>
     </section>
   
