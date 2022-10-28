@@ -1,4 +1,4 @@
-baseURL = 'https://new-sevenslegal.netlify.app/'
+baseURL = 'http://hugo-quickstart-template.netlify.com'
 languageCode = 'en-us'
 title = 'Sevens Legal'
 theme = 'netlify-basic'
