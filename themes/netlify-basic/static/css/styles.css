@@ -421,7 +421,9 @@ section.copy {
     padding: 5px;
     background: #f8f8f8;
 }
-
+body.Home .container.bannner-title {
+    display: none;
+}
 
 
 
