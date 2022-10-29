@@ -497,9 +497,7 @@ ol.breadcrumb li a {
 ol.breadcrumb li:nth-child(1) a {
     color: #ae7a27;
 }
-.dis:hover .text {
-    transform: scale(1);
-} 
+
  .attorney .wp-caption a span {
     font-size: 11px;
     line-height: 17px;
