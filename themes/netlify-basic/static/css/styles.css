@@ -629,4 +629,11 @@ section.copy {
 .action-call.first a.action-btn.ab-1 {
     width: 70%;
 }
+.attorney .wp-caption.alignleft {
+    width: 370px !important;
+}
+
+.attorney .wp-caption.alignleft img {
+    width: 100%;
+}
 }
