@@ -3,7 +3,7 @@
         
                 
                     {{ range .Data.Pages.ByWeight }}
-                    <div class="wp-caption" style="max-width:{{ .Params.width }}px">
+                    <div class="wp-caption alignleft" style="width:{{ .Params.width }}px">
                         
                             <a href="{{ .Permalink }}">
                                 <img class="img-fluid" src="{{ .Params.frontimg }}" >
