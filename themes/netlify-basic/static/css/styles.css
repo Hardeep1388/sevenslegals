@@ -534,6 +534,17 @@ ol.breadcrumb li:nth-child(1) a {
 /**Responsive**/
 
 @media (max-width: 767px){
+    .action-calls h5 {
+    font-size: 18px;
+}
+
+.action-calls p {
+    font-size: 13px;
+}
+.practice-areas span {
+    font-family: Calibri;
+    font-size: 14px !important;
+}
 .container.bannner-title h2 {
     position: absolute;
     z-index: 9999999;
