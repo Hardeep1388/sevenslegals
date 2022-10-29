@@ -2,6 +2,8 @@ baseURL = 'https://new-sevenslegal.netlify.app'
 languageCode = 'en-us'
 title = 'Sevens Legal'
 theme = 'netlify-basic'
+[permalinks]
+  posts = '/:title/'
 [menu]
 [[menu.main]]
     name = "Home"
