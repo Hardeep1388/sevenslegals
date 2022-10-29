@@ -474,7 +474,9 @@ ol.breadcrumb li a {
 ol.breadcrumb li:nth-child(1) a {
     color: #e2b164;
 }
-
+.dis:hover .text {
+    transform: scale(1);
+}
 /**Responsive**/
 
 @media (max-width: 767px){
