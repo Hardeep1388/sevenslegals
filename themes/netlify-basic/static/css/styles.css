@@ -429,7 +429,7 @@ section.copy {
     text-transform: uppercase;
     padding: 7px 20px;
 }
-..wp-caption{
+.wp-caption{
     text-align: center;
     border: 1px solid #ddd;
     background-color: #f3f3f3;
