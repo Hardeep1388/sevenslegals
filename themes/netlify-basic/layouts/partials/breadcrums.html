@@ -21,7 +21,7 @@
 <section>
     <div class="container">
         <ol class="breadcrumb">
-            <li><a href="/">Home</a></li>
+            <li>You are here: <a href="/">Home</a></li>
             {{ $rellink := "" }}
             {{ range (split .RelPermalink "/") }}
             {{ if gt (len . ) 0 -}}
@@ -30,5 +30,6 @@
             {{ end }}
             {{ end }}
         </ol>
+		
     </div>
 </section>
