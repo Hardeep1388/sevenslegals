@@ -1,7 +1,10 @@
 <section>
     <div class="banner">
-	<img src="{{ .Params.src }}">
+	{{if isset .Params "src" }}
+	<img src="{{ .Params.src }}" alt="{{ .Title }}">
+	{{ else }}
         <img src="/img/Sevens-Legal-Criminal-Defense-lawyers.jpg.webp">
+		{{ end }}
         <div class="container bannner-title">
             <h2>{{ .Title }}</h2>
         </div>
