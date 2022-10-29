@@ -500,7 +500,12 @@ ol.breadcrumb li:nth-child(1) a {
 .dis:hover .text {
     transform: scale(1);
 } 
- 
+ .attorney .wp-caption a span {
+    font-size: 11px;
+    line-height: 17px;
+    font-weight: 600;
+    color: #333;
+}
 /**Responsive**/
 
 @media (max-width: 767px){
