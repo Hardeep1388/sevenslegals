@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Sevens Legal'
 theme = 'netlify-basic'
 [permalinks]
-  posts = '/:title/'
+  posts = '/:slug/'
 [menu]
 [[menu.main]]
     name = "Home"
