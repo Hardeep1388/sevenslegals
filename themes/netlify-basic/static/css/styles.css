@@ -179,6 +179,9 @@ section.text-center.photo-gallery.py-4.py-xl-5 {
 .dis:hover .overlay {
   transform: scale(1);
 }
+.dis img {
+    border: 1px solid #ccc;
+}
 .form-control {
     display: block;
     width: 100%;
