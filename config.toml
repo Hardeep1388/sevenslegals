@@ -7,20 +7,20 @@ theme = 'netlify-basic'
     name = "Home"
     identifier = "home"
 	weight = -150
-    url = "/"
+    url = "{{ .Site.BaseUrl }}"
 [[menu.main]]
     name = "Attorneys"
     identifier = "attorneys"
 	weight = -140
-    url = "/attorneys/"
+    url = "{{ .Site.BaseUrl }}/attorneys/"
 [[menu.main]]
     name = "Criminal Law"
 	weight = -130
-    url = "/criminal/"
+    url = "{{ .Site.BaseUrl }}/criminal/"
 [[menu.main]]
 weight = -120
     name = "Testimonials"
-    url = "/testimonials/"
+    url = "{{ .Site.BaseUrl }}/testimonials/"
 [[menu.main]]
     name = "Blog"
 	weight = -110
@@ -28,4 +28,4 @@ weight = -120
 [[menu.main]]
 weight = -100
     name = "Contact"
-    url = "/contact/"
+    url = "{{ .Site.BaseUrl }}/contact/"
