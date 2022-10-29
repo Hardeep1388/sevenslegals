@@ -1,7 +1,7 @@
 <section class="photo-gallery py-4 py-xl-5">
     <div class="container">
         
-                
+                <div class="row">
                     {{ range .Data.Pages.ByWeight }}
                     <div class="wp-caption alignleft" style="width:{{ .Params.width }}px">
                         
@@ -12,6 +12,6 @@
                        
                     </div>
                     {{ end }}
-                
+                </div>
     </div>
 </section>
