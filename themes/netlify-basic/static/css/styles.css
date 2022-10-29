@@ -666,4 +666,7 @@ section.copy {
 .attorney .wp-caption.alignleft img {
     width: 100%;
 }
+section.text-center.blogs_sec .col-7 {
+    width: 100%;
+}
 }
