@@ -708,4 +708,11 @@ section.text-center.blogs_sec .col-7 {
 .container.modern-form {
     padding: 0;
 }
+button.submit-now {
+    width: 45%;
+    height: 52px;
+    line-height: 32px;
+    font-size: 22px;
+    font-weight: 600;
+}
 }
