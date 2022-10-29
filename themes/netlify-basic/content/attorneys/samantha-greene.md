@@ -4,7 +4,7 @@ src: '/img/samantha.png'
 banner: '/img/samantha-greene.jpg'
 frontimg: '/img/Samantha-Greene-2-200x300.jpg.webp'
 weight: 10
-width: 280
+width: 210
 draft: false
 ---
 
