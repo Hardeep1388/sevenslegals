@@ -701,4 +701,11 @@ section.text-center.blogs_sec .col-7 {
     font-size: 14px !important;
     padding: 7px 6px 8px 6px !important;
 }
+.container.modern-form input {
+    height: 42px;
+}
+
+.container.modern-form {
+    padding: 0;
+}
 }
