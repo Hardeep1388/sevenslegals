@@ -418,8 +418,14 @@ section.copy {
 }
 .attonery_lists{
     text-align: center;
-    padding: 5px;
-    background: #f8f8f8;
+    border: 1px solid #ddd;
+    background-color: #f3f3f3;
+    padding-top: 4px;
+    margin: 10px;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
 }
 body.Home .container.bannner-title {
     display: none;
