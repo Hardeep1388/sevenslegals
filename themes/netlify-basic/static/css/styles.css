@@ -506,6 +506,27 @@ ol.breadcrumb li:nth-child(1) a {
     font-weight: 600;
     color: #333;
 }
+/**************Testimonials*************/
+.test-block {
+    margin-top: 30px;
+    margin-bottom: 28px;
+    float: left;
+    width: 100%;
+}
+.test-block .tes-author {
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    margin-top: 30px;
+}
+.test-block .tes-author span {
+    background: #d19e4d;
+    color: #fff;
+    display: inline-block;
+    line-height: 34px;
+    padding: 0 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
 /**Responsive**/
 
 @media (max-width: 767px){
