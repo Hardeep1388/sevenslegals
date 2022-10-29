@@ -672,4 +672,9 @@ section.text-center.blogs_sec .col-7 {
 .blog-page .col-7 {
     width: 100%;
 }
+.blog-page p {
+    font-family: 'gnuolaneregular';
+    font-size: 14px;
+    font-weight: 500;
+}
 }
