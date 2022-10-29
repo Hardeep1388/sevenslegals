@@ -485,6 +485,7 @@ ol.breadcrumb {
     background: #F5F5F5;
     padding: 10px;
     margin: 0;
+	font-weight:600;
 }
 
 ol.breadcrumb li a {
@@ -492,7 +493,7 @@ ol.breadcrumb li a {
 }
 
 ol.breadcrumb li:nth-child(1) a {
-    color: #e2b164;
+    color: #ae7a27;
 }
 .dis:hover .text {
     transform: scale(1);
