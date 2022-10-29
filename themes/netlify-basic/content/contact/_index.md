@@ -1,5 +1,5 @@
 ---
 title: "Contact"
-src: '/img/contact.jpg'
+banner: '/img/contact.jpg'
 draft: false
 ---
