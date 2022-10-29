@@ -697,8 +697,8 @@ section.text-center.blogs_sec .col-7 {
     font-size: 14px;
     font-weight: 500;
 }
-.page-template-practice-areas-php .col.item span {
-    font-size: 14px;
+.page-template-practice-areas-php .col span {
+    font-size: 14px !important;
     padding: 7px 6px 8px 6px !important;
 }
 }
