@@ -429,7 +429,7 @@ section.copy {
     text-transform: uppercase;
     padding: 7px 20px;
 }
-.attonery_lists{
+..wp-caption{
     text-align: center;
     border: 1px solid #ddd;
     background-color: #f3f3f3;
@@ -439,8 +439,9 @@ section.copy {
     -khtml-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
+	float:left;
 }
-.attonery_lists img.img-fluid{ max-height:300px; width:100%}
+
 body.Home .container.bannner-title {
     display: none;
 }
