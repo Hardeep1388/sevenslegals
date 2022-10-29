@@ -13,7 +13,7 @@
 				{{ $url := .URL }}
                     {{ range .Site.Menus.main }}
                     <li class="nav-item">
-                        <a {{ if eq $url .URL }} class=" nav-link active" {{ else }} class="nav-link"  {{ end }} aria-current="page{{ end }}" href="{{ .URL }}" style="font-weight: bold;">{{ .Name }}</a>
+                        <a {{ if eq $url .URL }} class=" nav-link active" {{ else }} class="nav-link"  {{ end }} aria-current="page{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
                     </li>
                     {{ end }}
                 </ul>
