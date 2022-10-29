@@ -1,5 +1,5 @@
 <section>
-    <div  {{ if .IsHome }} class="banner" {{ else }} class="banner innerbanner"> {{ end}}
+    <div class="banner"> 
 	{{if isset .Params "src" }}
 	<img src="{{ .Params.src }}" alt="{{ .Title }}">
 	{{ else }}
