@@ -10,9 +10,10 @@
         <div class="container-fluid"><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse text-uppercase" id="navcol-1">
                 <ul class="navbar-nav d-flex">
+				{{ $url := .URL }}
                     {{ range .Site.Menus.main }}
                     <li class="nav-item">
-                        <a class="nav-link{{ if $.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" href="{{ .URL }}" style="font-weight: bold;">{{ .Name }}</a>
+                        <a {{ if eq $url .URL }} class=" nav-link active" {{ else }} class="nav-link"  {{ end }} aria-current="page{{ end }}" href="{{ .URL }}" style="font-weight: bold;">{{ .Name }}</a>
                     </li>
                     {{ end }}
                 </ul>
