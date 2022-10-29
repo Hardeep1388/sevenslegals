@@ -2,7 +2,7 @@ baseURL = 'https://new-sevenslegal.netlify.app'
 languageCode = 'en-us'
 title = 'Sevens Legal'
 theme = 'netlify-basic'
-
+[menu]
 [[menu.main]]
     name = "Home"
     identifier = "home"
