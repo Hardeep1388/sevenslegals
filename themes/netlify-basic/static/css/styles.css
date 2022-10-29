@@ -420,13 +420,14 @@ section.copy {
     text-align: center;
     border: 1px solid #ddd;
     background-color: #f3f3f3;
-    padding-top: 4px;
+    padding: 3px;
     margin: 10px;
     -moz-border-radius: 3px;
     -khtml-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
 }
+.attonery_lists img.img-fluid{ max-height:300px; width:100%}
 body.Home .container.bannner-title {
     display: none;
 }
