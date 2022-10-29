@@ -476,7 +476,8 @@ ol.breadcrumb li:nth-child(1) a {
 }
 .dis:hover .text {
     transform: scale(1);
-}
+} 
+
 /**Responsive**/
 
 @media (max-width: 767px){
