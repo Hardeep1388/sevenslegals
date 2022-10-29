@@ -1,11 +1,17 @@
 <section class="py-4 py-xl-5">
     <div class="container" style="background: #ffffff;">
+	<div class="row">
         {{ range .Paginator.Pages }}
-        <p><span style="color: rgb(51, 51, 51);">{{ .Content }}</span><br></p>
-        <div class="text-center"><button class="btn btn-primary" type="button" style="background: #d19e4d;border-top-style: none;padding: 10px 20px;">{{ .Title }}<br></button>
-            <hr>
-        </div>
+        <div class="test-block">
+     	<div class="col-sm-12">{{ .Content }}</span><br></p>
+       
+		<div class="tes-author">
+                                	<span>{{ .Title }}</span>
+                                </div>
+				</div>
+				<div class="clear"></div>
+			</div>
         {{ end }}
         {{ template "_internal/pagination.html" . }}
-    </div>
+    </div></div>
 </section>
