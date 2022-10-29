@@ -715,4 +715,7 @@ button.submit-now {
     font-size: 22px;
     font-weight: 600;
 }
+footer h2 {
+    font-size: 20px;
+}
 }
