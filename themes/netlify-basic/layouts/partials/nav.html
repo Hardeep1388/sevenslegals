@@ -14,7 +14,7 @@
 					{{ $url := .URL }}
 {{ range .Site.Menus.main -}}
   <li class="nav-item">
-      <a class="nav-link {{ if eq $url .URL }} active {{ end }}" href="{{ .URL | relLangURL }}" {{ if eq $currentPage . }} class="nav-link active" aria-current="page" {{ end }}>{{ .Name }}</a>
+      <a {{ if eq $url .URL }} class=" nav-link active"{{ else }} class="nav-link"  {{ end }} href="{{ .URL | relLangURL }}">{{ .Name }}</a>
   </li>
 {{ end -}}
                 </ul>
