@@ -1,18 +1,21 @@
 <section class="photo-gallery py-4 py-xl-5">
     <div class="container">
-        <div class="row gx-2 gy-2 row-cols-1 row-cols-md-2 row-cols-xl-3 photos" data-bss-baguettebox="">
-            {{ range .Pages }}
-            <div class="col item">
-                <div class="attonery_lists">
-                    <a href="{{ .Permalink }}">
-                        <img class="img-fluid" src="{{ .Params.src }}" >
-                        <span><br>{{ .Title }}<br></span>
-                        </a>
+        <div class="row">
+            <div class="col-md-9">
+                <div class="row gx-2 gy-2 row-cols-1 row-cols-md-2 row-cols-xl-3 photos" data-bss-baguettebox="">
+                    {{ range .Pages }}
+                    <div class="col item">
+                        <div class="attonery_lists">
+                            <a href="{{ .Permalink }}">
+                                <img class="img-fluid" src="{{ .Params.src }}" >
+                                <span><br>{{ .Title }}<br></span>
+                            </a>
+                        </div>
+                    </div>
+                    {{ end }}
                 </div>
             </div>
-            {{ end }}
-        <div class="row-cols-xl-7"></div>
-        </div>
-
+            <div class="col-md-3"></div>
+        </div>  
     </div>
 </section>
