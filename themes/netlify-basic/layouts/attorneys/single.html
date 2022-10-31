@@ -31,7 +31,7 @@
     <div id="empresa" style="padding:20px;margin:1px;">
         <div class="container">
             <div class="row">
-                <div class="col">
+                <div class="col {{ .Title }}">
                     {{ if eq .Params.image_align 'left' }}
                      <span class="image-single align-left"><img width="100%" src="{{ .Params.src }}"></span> 
                      {{ else }}
