@@ -2,6 +2,7 @@
 title: "Alexander H. Fuqua"
 src: '/img/alex.png'
 frontimg: '/img/alexheadshots_043-205x300.jpeg.webp'
+image_align: 'left'
 weight: 20
 width: 210
 draft: false
