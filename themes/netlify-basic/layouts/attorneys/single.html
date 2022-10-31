@@ -32,7 +32,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-md-9 col-lg-9">
-                    <h1>{{ .Title }}</h1>
+                    <h1>{{ .Title }}
+                    <span class="image-single"><img width="100%" src="{{ .Params.src }}"></span> 
+                    </h1>
                     <div class="attorney_content">
                         <p>{{ .Content }}</p>
                     </div>
