@@ -32,9 +32,13 @@
         <div class="container">
             <div class="row">
                 <div class="col">
+                    {{ if eq .Params.image_align 'left'}}
+                     <span class="image-single align-left"><img width="100%" src="{{ .Params.src }}"></span> 
+                     {{ else }}
                     <h1>{{ .Title }}
                     <span class="image-single"><img width="100%" src="{{ .Params.src }}"></span> 
                     </h1>
+                    {{ end }}
                     <div class="attorney_content">
                         <p>{{ .Content }}</p>
                     </div>
