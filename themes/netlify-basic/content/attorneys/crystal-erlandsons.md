@@ -4,6 +4,7 @@ src: '/img/crysa.png'
 frontimg: '/img/crystal-erlands-scaled.jpg'
 weight: 60
 width: 210
+image_align: 'left'
 draft: false
 ---
 
