@@ -1,6 +1,6 @@
 ---
 title: "Ari Lieberman"
-src: '/img/ari.png'
+src: '/img/Ari-Lieberman.jpg.webp'
 frontimg: '/img/Ari-Lieberman-IMG_2921-scaled.jpg'
 weight: 50
 width: 210
