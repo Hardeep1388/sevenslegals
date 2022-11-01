@@ -656,7 +656,6 @@ p, a {
     font-size: 14px;
 }
 .navbar-expand-md.text-bg-secondary .container-fluid {
-    justify-content: end;
     padding: 10px;
 }
 a.action-btn {
