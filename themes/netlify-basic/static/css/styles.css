@@ -656,7 +656,7 @@ p, a {
     font-size: 14px;
 }
 .navbar-expand-md.text-bg-secondary .container-fluid {
-    padding: 10px;
+    padding: 10px 15px;
 }
 a.action-btn {
     position: inherit;
