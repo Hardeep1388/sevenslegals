@@ -1,6 +1,6 @@
 ---
 title: "Kristen Friedman"
-src: '/img/kristan.png'
+src: '/img/Kristen-Friedman-DUI-Lawyer.webp'
 frontimg: '/img/Kristen-Friedman-DUI-Lawyer-270x300.jpg.webp'
 weight: 40
 width: 280
