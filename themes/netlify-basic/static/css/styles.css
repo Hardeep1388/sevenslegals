@@ -589,6 +589,27 @@ span.image-single {
 }
 a.navbar-brand {
     display: none;
+} 
+ 
+.practice-areas-single h2 {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    line-height: 1.1;
+    font-family: 'gnuolaneregular';
+}
+
+.practice-areas-single img.align-right {
+    float: right;
+    margin-left: 10px;
+}
+
+.practice-areas-single {
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #333;
+    font-family: Calibri;
 }
 /**Responsive**/
 
