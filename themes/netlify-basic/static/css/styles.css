@@ -779,4 +779,7 @@ a.navbar-brand {
     text-transform: uppercase;
     font-size: 20px !important;
 }
+.navigation-main .container {
+    padding: 0;
+}
 }
