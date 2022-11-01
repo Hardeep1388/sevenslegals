@@ -549,6 +549,14 @@ span.image-single {
     margin-left: 10px;
     margin-bottom: 10px;
 }
+.Lieberman span.image-single{
+        float: left;
+    margin-right: 20px;
+    width: 360px;
+}
+.Lieberman span.heading {
+    display: none;
+}
 .Friedman span.image-single{
        float: left;
     margin-right: 20px;
