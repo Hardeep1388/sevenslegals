@@ -571,7 +571,15 @@ span.image-single {
     margin-right: 20px;
     width: 360px;
 }
+.col.Crystal.Erlandson .heading {
+    display: none;
+}
 
+.col.Crystal.Erlandson  span.image-single {
+    float: left;
+    margin-right: 20px;
+    width: 360px;
+}
 .Monico span.heading {
     display: none;
 }
