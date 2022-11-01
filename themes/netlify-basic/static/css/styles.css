@@ -546,6 +546,8 @@ div#empresa p {
 span.image-single {
     float: right;
     width: 200px;
+    margin-left: 10px;
+    margin-bottom: 10px;
 }
 .Monico span.image-single {
     float: left;
