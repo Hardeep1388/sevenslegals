@@ -547,7 +547,11 @@ span.image-single {
     float: right;
     width: 200px;
 }
-
+.Monico span.image-single {
+    float: left;
+    margin-right: 20px;
+    width: auto;
+}
 /**Responsive**/
 
 @media (max-width: 767px){
