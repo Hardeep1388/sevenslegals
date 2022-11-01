@@ -1,6 +1,6 @@
 ---
 title: "Crystal Erlandson"
-src: '/img/crysa.png'
+src: '/img/Kristen-Friedman-DUI-Lawyer.webp'
 frontimg: '/img/crystal-erlands-scaled.jpg'
 weight: 60
 width: 210
