@@ -549,6 +549,15 @@ span.image-single {
     margin-left: 10px;
     margin-bottom: 10px;
 }
+.Friedman span.image-single{
+       float: left;
+    margin-right: 20px;
+    width: 360px;
+}
+.Friedman span.heading {
+    display: none;
+}
+
 .Monico span.image-single {
     float: left;
     margin-right: 20px;
