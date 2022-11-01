@@ -604,7 +604,9 @@ a.navbar-brand {
     float: right;
     margin-left: 10px;
 }
-
+.practice-areas-single a {
+    color: #ae7a27;
+}
 .practice-areas-single {
     font-size: 14px;
     line-height: 1.428571429;
