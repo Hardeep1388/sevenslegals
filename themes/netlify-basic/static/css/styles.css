@@ -773,4 +773,10 @@ button.submit-now {
 footer h2 {
     font-size: 20px;
 }
+a.navbar-brand {
+    display: block;
+    color: #333!important;
+    text-transform: uppercase;
+    font-size: 20px !important;
+}
 }
