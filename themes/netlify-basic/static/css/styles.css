@@ -778,8 +778,15 @@ a.navbar-brand {
     color: #333!important;
     text-transform: uppercase;
     font-size: 20px !important;
+        padding-left: 10px;
 }
 .navigation-main .container {
     padding: 0;
+}
+div#navcol-1 ul li a {
+    text-align: left;
+    font-size: 14px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 }
