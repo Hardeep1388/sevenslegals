@@ -782,4 +782,10 @@ a.navbar-brand {
 .navigation-main .container {
     padding: 0;
 }
+div#navcol-1 ul li a {
+    text-align: left;
+    font-size: 14px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
 }
