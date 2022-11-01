@@ -789,4 +789,7 @@ div#navcol-1 ul li a {
     padding-left: 25px;
     padding-right: 25px;
 }
+div#navcol-1 {
+    margin: 7.5px -15px;
+}
 }
