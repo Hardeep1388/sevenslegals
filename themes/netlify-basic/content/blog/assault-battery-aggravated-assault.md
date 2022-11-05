@@ -19,7 +19,11 @@ Assault is defined as the intentional act of causing another person to be afraid
 Depending on the seriousness of the potential harm that may occur to a victim, many states make a distinction between “simple” and “aggravated assault.” [Aggravated assault](https://www.sevenslegal.com/ "Sevens Legal, APC") is a felony which may involve an assault with a weapon, or the intention to commit a serious crime. It can also be classified as aggravated assault if there is any legally regarded “special protection” relationship involved. If the assault is classified as simple assault its usually charged as a misdemeanor. In some states the seriousness of the assault may be classified as “first,” “second,” or “third” degree assaults, in which case a “first” degree assault is the most serious one.
 
 **[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")**
+
 **Criminal Defense Attorneys**
+
 **3555 4th Ave.**
+
 **San Diego, CA 92103**
+
 **Phone: (619) 297-2800**
