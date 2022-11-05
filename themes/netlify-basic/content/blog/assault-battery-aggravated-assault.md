@@ -1,7 +1,7 @@
 ---
 title: "What is Assault, Battery, and Aggravated Assault?"
-date = "2022-11-05"
-categories = ["Assault"]
+date: 2022-11-05
+categories: Assault
 draft: false
 ---
 
