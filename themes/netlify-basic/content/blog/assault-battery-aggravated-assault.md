@@ -3,7 +3,7 @@ title: "What is Assault, Battery, and Aggravated Assault?"
 date = "2018-02-09"
 title = "Extending this logic"
 slug = "extending-this-logic"
-categories = [ "Assault"]
+categories = "Assault"
 draft: false
 ---
 
