@@ -1,8 +1,6 @@
 ---
 title: "What is Assault, Battery, and Aggravated Assault?"
 date = "2018-02-09"
-title = "Extending this logic"
-slug = "extending-this-logic"
 categories = "Assault"
 draft: false
 ---
@@ -19,10 +17,3 @@ Assault is defined as the intentional act of causing another person to be afraid
 
 Depending on the seriousness of the potential harm that may occur to a victim, many states make a distinction between &#8220;simple&#8221; and &#8220;aggravated assault.&#8221; <a title="Sevens Legal, APC" href="https://www.sevenslegal.com/">Aggravated assault is a felony which may involve an assault with a weapon, or the intention to commit a serious crime. It can also be classified as aggravated assault if there is any legally regarded &#8220;special protection&#8221; relationship involved. If the assault is classified as simple assault its usually charged as a misdemeanor. In some states the seriousness of the assault may be classified as &#8220;first,&#8221; &#8220;second,&#8221; or &#8220;third&#8221; degree assaults, in which case a &#8220;first&#8221; degree assault is the most serious one.
 
-.
-<div>[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")</div>
-<div>Criminal Defense Attorneys</div>
-<div>3555 4th Ave.</div>
-<div>San Diego, CA 92103</div>
-<div>Phone: (619) 297-2800</div>
-.

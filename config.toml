@@ -2,7 +2,8 @@ baseURL = 'https://new-sevenslegal.netlify.app'
 languageCode = 'en-us'
 title = 'Sevens Legal'
 theme = 'netlify-basic'
-
+[taxonomies]
+    category = "categories"
 [permalinks]
   posts = '/:slug/'
 [menu]
