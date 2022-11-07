@@ -2,6 +2,7 @@
 title: "What is Assault, Battery, and Aggravated Assault?"
 date: 2022-11-05
 categories: Assault
+summary: Self-defense can be a strong defense against criminal allegations involving a crime of violence, like an assault or battery. Arguing self-defense in a criminal case essentially means that you admit to committing a criminal act but clarify that you only did so to protect yourself from harm. If you are wondering whether self-defense is a
 draft: false
 ---
 
