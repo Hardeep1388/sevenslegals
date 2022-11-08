@@ -627,6 +627,11 @@ font-family: 'gnuolaneregular';
     font-weight: 400;
     font-family: Calibri;
 }
+.blog-page p {
+    font-family: Calibri;
+    font-size: 14px;
+    color: #333 !important;
+}
 /**Responsive**/
 
 @media (max-width: 767px){
