@@ -1,38 +1,15 @@
 <section>
-    <!--<div class="container">
+    <div class="container">
         <ol class="breadcrumb">
             <li>You are here: <a href="/">Home</a></li>
             {{ $rellink := "" }}
             {{ range (split .RelPermalink "/") }}
             {{ if gt (len . ) 0 -}}
             {{ $rellink = printf "%s/%s" $rellink . }}
-            <li><a href="{{ $rellink }}">{{ .Title }}</a></li>
+            <li><a href="{{ $rellink }}">{{ humanize . }}</a></li>
             {{ end }}
             {{ end }}
-        </ol> -->
-		<ol class="breadcrumbs">
-    <li>You are here: <a href="/">Home</a></li>
-    {{- $.Scratch.Set "url" "" -}}
-    {{- range (split .RelPermalink "/") -}}
-        {{- if (gt (len .) 0) -}}    
-            {{- $.Scratch.Set "isPage" "false" -}}
-            {{- $.Scratch.Add "url" (print "/" . ) -}}
-            {{- if $.Site.GetPage (print . ".md") -}}
-                {{- with $.Site.GetPage (print . ".md") -}}
-                    {{- if .IsPage -}}
-                        {{- $.Scratch.Set "isPage" "true" -}}
-                    {{- end -}}
-                {{- end -}}
-            {{- end -}}
-            {{- if eq ($.Scratch.Get "isPage") "true" -}}
-                {{- with $.Site.GetPage (print . ".md") -}}
-                    <li><a href="{{ $.Scratch.Get `url` }}">{{ .Title }}</a></li>
-                {{- end -}}
-            {{- else -}}
-                <li><a href="{{ $.Scratch.Get `url` }}">{{ humanize . }}</a></li>
-            {{- end -}}
-        {{- end -}}
-    {{- end -}}
-</ol>
+        </ol>
+		
     </div>
 </section>
