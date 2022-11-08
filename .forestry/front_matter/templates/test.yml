@@ -1,4 +1,10 @@
 ---
 label: Test
 hide_body: false
-fields: []
+fields:
+- name: report_form
+  type: text
+  config:
+    required: false
+  label: Report form
+  description: Test
