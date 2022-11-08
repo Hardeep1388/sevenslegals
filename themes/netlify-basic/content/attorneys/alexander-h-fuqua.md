@@ -5,6 +5,7 @@ frontimg: '/img/alexheadshots_043-205x300.jpeg.webp'
 image_align: 'right'
 weight: 20
 width: 210
+url: "/alexander-h-fuqua/"
 draft: false
 ---
 
