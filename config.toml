@@ -20,7 +20,7 @@ theme = 'netlify-basic'
 [[menu.main]]
     name = "Criminal Law"
 	weight = -130
-    url = "/criminal/"
+    url = "/criminal-lawyer/"
 [[menu.main]]
 weight = -120
     name = "Testimonials"
