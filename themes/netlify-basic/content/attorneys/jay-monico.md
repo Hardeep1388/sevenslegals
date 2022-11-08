@@ -4,6 +4,7 @@ src: '/img/Jay-Monico-DUI-Attorney.webp'
 frontimg: '/img/Jay-Monico-DUI-Attorney-270x300.jpg'
 weight: 30
 width: 280
+url: "/jay-monico/"
 image_align: 'left'
 draft: false
 ---

@@ -4,6 +4,7 @@ src: '/img/Kristen-Friedman-DUI-Lawyer.webp'
 frontimg: '/img/Kristen-Friedman-DUI-Lawyer-270x300.jpg.webp'
 weight: 40
 width: 280
+url: "/kristen-friedman/"
 image_align: 'left'
 draft: false
 ---

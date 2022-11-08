@@ -6,6 +6,7 @@ frontimg: '/img/Samantha-Greene-2-200x300.jpg.webp'
 weight: 10
 image_align: 'right'
 width: 210
+url: "/samantha-greene/"
 draft: false
 ---
 
