@@ -9,7 +9,7 @@ draft: false
 
 **PRESS RELEASE**
 
-![Samantha-Green-Award {{% class %}}](/img/Samantha-Green-Award.png "Samantha-Green-Award")
+![Samantha-Green-Award](/img/Samantha-Green-Award.png "Samantha-Green-Award")
 
 Samantha Greene, of [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC") , has been selected to the 2015 list as a member of the Nation’s Top One Percent by the National Association of Distinguished Counsel.  NADC is an organization dedicated to promoting the highest standards of legal excellence.  Its mission is to objectively recognize the attorneys who elevate the standards of the Bar and provide a benchmark for other lawyers to emulate.
 
