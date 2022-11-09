@@ -8,7 +8,7 @@ url = "/assault/morgan-freemen-accused-of-sexual-assault/"
 +++
 Morgan Freeman is the latest actor to be accused of of sexual harassment or inappropriate behavior.
 
-\##Morgan Freemen Accused of Sexual Assault
+## Morgan Freemen Accused of Sexual Assault
 
 Morgan Freeman Latest Actor of Sexual Assault Accusation
 
@@ -26,11 +26,7 @@ Sexual assault is defined as any type of sexual contact or behavior that occurs 
 
 When they hear the term rape, many people create a mental image of an assault committed by means of violent physical force. The reality is, however, that rape is any non-consensual sexual activity, including those accomplished without physical means, using such methods as drugs or guile. Any form of sexual conduct forced on a person against their will through means of violence, menace, duress, fear of injury, or other danger is rape under California law.
 
-### 
-
 There are a number of statutes in California that pertain to rape, all of which are among the most serious of criminal offenses with which an individual can be charged.
-
-### 
 
 The most common type of rape (Penal Code Section 261 PC) is defined as criminal offense that involves nonconsensual sexual intercourse by means of threats, force, or fraud. At its core, this form of rape involves vaginal or anal penetration that includes force by instrumentation on someone, conscious or unconscious, or on any victim unable to consent.
 
@@ -40,16 +36,10 @@ Date rape charges are also filed under Penal Code Section 261 PC. Cases of this 
 
 ### Other Forms of Rape:
 
-### 
-
 * Penal Code 262 PC “Spousal Rape.”
 * Penal Code 261.5 PC “Statutory Rape.”
 
-### 
-
 Other forms of rape warrant their own specific statutes in state law. Examples include:
-
-### 
 
 * Penal Code 262 PC “Spousal Rape.” Anyone who has intercourse with their spouse without their consent and does so with force or threat, and for sexual pleasure or arousal, is guilty of violating California Penal Code 262.
 * Penal Code 261.5 PC “Statutory Rape.” Anyone who knowingly has intercourse with a minor can be found guilty of Statutory Rape. A minor is defined as anyone under the age of 18.
@@ -62,26 +52,18 @@ Rape is one of the most serious criminal charges that a defendant may face. A ca
 
 Sexual assault crimes are taken very seriously by the law. If you have been falsely accused you might assume that the charges will just be dropped because of how ludicrous they are to you. But take this case for example – and the wide-reaching effects that it had on just members of the fraternity associated with the rape allegations. These types of allegations do not just “go away,” and you will need to be prepared if you are falsely accused.
 
-### 
-
 Here are some things you can do:
-
-### 
 
 1. Do not speak with police or investigators until you have contacted a criminal defense attorney. They might try different tactics to get you to admit to a crime you did not commit. Remember that they are always trying to build a case. Simply state that you will not speak with them unless there is an attorney present.
 2. Get in touch with a qualified and experienced criminal defense attorney. You’ll want to do this as soon as possible, even if you just expect the charges to be dismissed.
 3. Prepare for what the allegations might bring. You will be asked to defend yourself, so you’ll need to be prepared. This means contacting witnesses that can testify or provide an alibi for you. You might also need to take psychological tests, or be asked to provide other evidence. Write down as many details as possible about what you remember.
 4. Study. A criminal defense attorney will be able to guide you through fighting the allegations, but it’s in your best interest to understand the legal process and know your rights.
 
-### 
-
 You will want to follow all the legal rules and precautions you can, and the best way you can protect yourself is by working with an experienced defense attorney such as Sevens Legal, APC.
 
 ### If You Get Arrested for a Sex Crime
 
 In 1966, the U.S. Supreme Court ruled in Miranda v. Arizona, that individuals arrested because they are believed to have committed a crime are allowed certain rights that must be explained to them. This must happen before any interrogation. It’s important to note that these rights only need to be read when a person has been taken into custody. “Miranda Rights” are meant to protect a suspect from self-incrimination and is protected under the Fifth Amendment of the U.S. Constitution. Those “Miranda Rights” are as follows:
-
-### 
 
 * You have the right to remain silent and refuse to answer questions.
 * Anything you say may be used against you in a court of law.
