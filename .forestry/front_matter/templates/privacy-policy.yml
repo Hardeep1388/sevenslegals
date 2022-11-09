@@ -6,4 +6,5 @@ fields:
   name: title
   label: title
 pages:
+- themes/netlify-basic/content/blog/post-3.md
 - themes/netlify-basic/content/policy.md
