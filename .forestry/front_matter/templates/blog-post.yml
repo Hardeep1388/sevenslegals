@@ -17,3 +17,5 @@ fields:
 - type: textarea
   name: summary
   label: summary
+pages:
+- themes/netlify-basic/content/blog/post-3.md
