@@ -18,4 +18,5 @@ fields:
   name: summary
   label: summary
 pages:
+- themes/netlify-basic/content/blog/defenses-against-assault-and-battery-accusations.md
 - themes/netlify-basic/content/blog/post-3.md
