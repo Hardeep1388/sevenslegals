@@ -8,21 +8,17 @@ url = "/assault/harvey-weinstein-fired-sexual-misconduct-allegations/"
 +++
 Co-founder of The Weinstein Company, [Harvey Weinstein](http://sevenslegal.com/), was recently fired after allegations of [sexual misconduct](http://sevenslegal.com/).
 
-\##Harvey Weinstein Fired After Sexual Misconduct Allegations
+## Harvey Weinstein Fired After Sexual Misconduct Allegations
 
 Harvey Weinstein Fired From Company Following Sexual Misconduct Allegations
 
 In an article recently published by The New York Times, numerous women have come forward with allegations of sexual misconduct by Hollywood heavy-hitter[Harvey Weinstein](http://sevenslegal.com/). One of those women is actress Ashley Judd. According to Judd, two decades ago Weinstein invited Judd to a meeting at the Peninsula Beverly Hills hotel. Weinstein had the actress sent up to his room, where he appeared in a bathrobe. During that meeting he asked if he could give her a massage or she could watch him shower. Judd remembers thinking “How do I get out of the room as fast as possible without alienating Harvey Weinstein?”
-
-#### 
 
 The accounts of Mr. Weinstein’s misconduct by numerous women all appear to be similar: Women, ranging in age from early 20s to late 40s, reported to a hotel for what they believed were work reasons. Once there they soon discovered that Mr. Weinstein had different interests. He would often appear nearly or fully naked in front of them, or require them to be present while he bathed. He would often ask for a massage or ask if they wanted a massage.
 
 ### The Weinstein Company Fires Harvey
 
 In light of the allegations Weinstein last week, announcing the decision had been made “in light of new information about misconduct by[Harvey Weinstein](http://sevenslegal.com/)that has emerged in the past few days.” Lance Maerov, one of the company’s four board members, said the firing was made after it was brought to the board’s attention that Mr. Weinstein had violated the company’s code of conduct at some point during the past week. He would not specify what the violation was.
-
-#### 
 
 Weinstein produced “Shakespeare in Love,” which won the best picture Oscar in 1999, and “Gangs of New York,” which was nominated in the same category in 2003. Other productions he is responsible for include “The King’s Speech” and “Django Unchained.”
 
@@ -34,31 +30,19 @@ Weinstein produced “Shakespeare in Love,” which won the best picture Oscar i
 
 Sexual assault crimes are taken very seriously by the law. If you have been falsely accused you might assume that the charges will just be dropped because of how ludicrous they are to you. These types of allegations do not just “go away,” and you will need to be prepared if you are falsely accused.
 
-#### 
-
 Here are some things you can do:
-
-#### 
 
 1\. Do not speak with police or investigators until you have contacted a criminal defense attorney. They might try different tactics to get you to admit to a crime you did not commit. Remember that they are always trying to build a case. Simply state that you will not speak with them unless there is an attorney present.
 
-#### 
-
 2\. Get in touch with a qualified and experienced criminal defense attorney. You’ll want to do this as soon as possible, even if you just expect the charges to be dismissed. Prepare for what the allegations might bring. You will be asked to defend yourself, so you’ll need to be prepared. This means contacting witnesses that can testify or provide an alibi for you. You might also need to take psychological tests, or be asked to provide other evidence. Write down as many details as possible about what you remember.
 
-#### 
-
 3\. Study. A criminal defense attorney will be able to guide you through fighting the allegations, but it’s in your best interest to understand the legal process and know your rights.
-
-#### 
 
 You will want to follow all the legal rules and precautions you can, and the best way you can protect yourself is by working with an experienced defense attorney such as Sevens Legal, APC.
 
 ### If You Get Arrested for a Sex Crime
 
 In 1966, the U.S. Supreme Court ruled in Miranda v. Arizona, that individuals arrested because they are believed to have committed a crime are allowed certain rights that must be explained to them. This must happen before any interrogation. It’s important to note that these rights only need to be read when a person has been taken into custody. “Miranda Rights” are meant to protect a suspect from self-incrimination and is protected under the Fifth Amendment of the U.S. Constitution. Those “Miranda Rights” are as follows:
-
-#### 
 
 * You have the right to remain silent and refuse to answer questions.
 * Anything you say may be used against you in a court of law.
