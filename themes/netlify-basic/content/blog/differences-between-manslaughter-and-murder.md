@@ -1,7 +1,7 @@
 +++
 categories = "Assault"
 date = 2022-11-08T18:30:00Z
-summary = "“Homicide” is the term used when one person kills another person. Homicides fall into two different distinctions – manslaughter and murder. Differences Between Manslaughter and Murder When dealing with the difference between “manslaughter” and “murder” it depends on the state of mind of the killer as well as the various degrees relating to murder. Definition […]"
+summary = "“Homicide” is the term used when one person kills another person. Homicides fall into two different distinctions – manslaughter and murder. Differences Between Manslaughter and Murder When dealing with the difference between “manslaughter” and “murder” it depends on the state of mind of the killer as well as the various degrees relating to murder. Definition "
 title = "Differences Between Manslaughter and Murder"
 url = "/assault/difference-murder-manslaughter/"
 
