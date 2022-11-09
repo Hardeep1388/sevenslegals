@@ -8,17 +8,13 @@ url = "/assault/anthony-michael-hall-facing-felony-battery-charges/"
 +++
 [Anthony Michael Hall](https://www.sevenslegal.com/), the actor best known for his role in the ’80s teen movie “The Breakfast Club,” was recently arrested for felony battery of his neighbor.
 
-\##Anthony Michael Hall Facing Felony Battery Charges
+## Anthony Michael Hall Facing Felony Battery Charges
 
 Actor is Facing Charges of Felony Battery
 
 Hall was recently arrested for[felony battery](https://www.sevenslegal.com/)after allegedly breaking his neighbor’s wrist and injuring the man’s back. The September altercation at Hall’s condo complex in Playa del Rey, California, was captured on the security camera. The images show Hall hitting his neighbor, breaking the neighbor’s wrist and injuring the man’s back.
 
-### 
-
 The Los Angeles County D.A. has charged Hall with felony battery with serious bodily injury. If convicted, Hall faces up to seven years in prison.
-
-### 
 
 Should you find yourself in a similar position, with charges such as battery and assault, it’s advised that you work with a criminal defense lawyer.
 
@@ -46,13 +42,9 @@ The term “deadly weapon” typically refers to a wide range of objects capable
 
 A defendant convicted of simple assault faces the following possible penalties:
 
-### 
-
 * up to one year in jail
 * a fine up to $2000, and
 * probation up to one year
-
-### 
 
 (Cal. Penal Code § 241, 241.5, 241.6).
 
@@ -64,13 +56,9 @@ Assault and battery were originally considered to be separate crimes. While assa
 
 Basic penalties for simple battery that are charged as a misdemeanor include:
 
-### 
-
 * up to one year in county jail
 * fine up to $2000, and
 * probation up to one year.
-
-### 
 
 (Cal. Penal Code §§ 243, 243.2, 243.25, 243.3, 243.35, 243.6, 243.65, 243.8).
 
@@ -97,7 +85,5 @@ When faced with serious penalties or spending time in jail or prison, you need t
 ### Your Criminal Defense Lawyer
 
 While a criminal defense lawyer isn’t a therapist, they may help you deal with the emotions that accompany criminal trials. They can help by explaining the realities of the legal system and discuss what you may be up against during trial. Since they are well versed in the system, your criminal defense lawyer can also go over court rules and regulations, and the best way to navigate through the system. Also critical in negotiating a reduced sentence are the “unwritten rules” which a criminal defense lawyer is also well versed in.
-
-### 
 
 If you are faced with criminal charges and possible jail time, you need to consult a criminal defense lawyer as soon as possible. Contact Sevens Legal, APC today for a free consultation.
