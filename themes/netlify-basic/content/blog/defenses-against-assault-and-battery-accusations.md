@@ -8,7 +8,7 @@ url = "/assault//defenses-against-assault-and-battery-accusations/"
 +++
 Being accused of [assault and battery](https://www.sevenslegal.com/san-diego-assault-battery-lawyer/ "San Diego Assault and Battery Lawyer") can be a frightening experience, especially if you’re not guilty. In situations such as this a number of defenses can be used to prove you are innocent of the charges.
 
-\##Hire an Assault and Battery Defense Attorney
+## Hire an Assault and Battery Defense Attorney
 
 A criminal defense attorney experienced with [assault and battery](https://www.sevenslegal.com/san-diego-assault-battery-lawyer/ "San Diego Assault and Battery Lawyer") can help prepare a strong case to prove your innocence. They can also advise you about your legal rights and work with the prosecution to try and get the charges dropped before going to trial. Some defenses that can be used against assault and battery charges are listed below.
 
@@ -16,7 +16,7 @@ Defenses for Assault and Battery
 
 A common defense in [assault and battery](https://www.sevenslegal.com/san-diego-assault-battery-lawyer/ "San Diego Assault and Battery Lawyer") cases is self-defense, but others that can also be used include:
 
-### 
+### Defenses for Assault and Battery
 
 * Insufficient evidence – If there was nobody to witness the alleged assault and battery, and there are no injuries visible on the victim, a judge may dismiss the charges of assault and battery based on insufficient evidence.
 * No intent – Similar to insufficient evidence, the prosecution must prove there was an intent on your part to harm another person. If you caused harm to another person by accidentally hitting them, there was no premeditated intent on your part to cause them harm.
