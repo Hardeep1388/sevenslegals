@@ -8,7 +8,7 @@ url = "/assault/firstdegree-murder-conviction-nfl-star-aaron-hernandez/"
 +++
 The life of former National Football League star Aaron Hernandez, convicted of murder, has taken a detour to jail. Formerly a tight end with the New England Patriots, he has been convicted of [first-degree murder](https://www.sevenslegal.com/ "Sevens Legal, APC") for shooting and killing Odin L. Lloyd. Hernandez, 25, allegedly killed Lloyd after he made the fatal error of angering him at a club a couple of nights before his death.
 
-\##Life Sentence for Aaron Hernandez
+\##First-Degree Murder Conviction for NFL Star Aaron Hernandez
 
 At his sentencing in the Bristol Superior Court to mandatory life without possibility of parole, Hernandez was expressionless. After the guilty verdict was announced by the jury foreperson, he sat down with his head shaking.
 
