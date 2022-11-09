@@ -8,7 +8,7 @@ url = "/assault/football-player-guilty-rape-sex-crimes/"
 +++
 Former Vanderbilt football player Brandon Vandenburg has been found guilty on five counts of aggravated rape, two counts of aggravated sexual battery, and one count of unlawful photography.
 
-\##Football Player Found Guilty of Rape Sex Crimes
+## Football Player Found Guilty of Rape Sex Crimes
 
 Vandenburg Found Guilty of Rape
 
@@ -18,11 +18,7 @@ During June 2013, Vanderbilt security cameras caught football player Brandon Van
 
 Throughout the trial, Vandenberg’s defense maintained that the football player was drunk at the time of the incidence and should not be held responsible for what the other players did to the victim.
 
-### 
-
 Vandenburg’s team painted him as the newly arrived recruit to the Nashville school who had wanted to help the victim out and had asked to help him carry the unconscious woman into his room after he could not get her back to her apartment. Vandenburg’s defense team told jurors the players who had “helped” Vandenberg were on the woman as soon as they got her into the dorm room.
-
-### 
 
 Meanwhile, the victim in the case testified she had no memory of the night’s event. During her testimony she stated that Vandenburg later told her that she had gotten drunk and sick and that he had helped her out. The prosecution suggested she might have been under the influence of a date-rape drug.
 
@@ -30,15 +26,11 @@ Meanwhile, the victim in the case testified she had no memory of the night’s e
 
 This is the second time a court has found Vandenberg guilty in this case. The first jury’s decision had to be thrown out because one juror had not disclosed that he was a past but victim of statutory rape.
 
-### 
-
 Vandenburg’s teammate Corey Batey was also convicted during last year’s trial on multiple counts of aggravated rape and aggravated sexual battery. Battery’s verdict also had to be thrown out, but he was re-convicted in April of this year.
 
 ### Focus on Rape Culture
 
 Vandenburg faces a minimum sentence of 15 years in prison for aggravated rape with no possibility of parole. This case comes at a time when the nation’s focus is on campus “rape culture” and the prevalence of sexual assaults that are happening on college campuses.
-
-### 
 
 As Deputy District Attorney General Tom Thurman said of the case, “The lives of everyone involved have been ruined.” Thurman went on to say he hoped the widespread publicity surrounding the Vandenburg case would send a message to the nation.
 
@@ -66,34 +58,20 @@ Depending on the seriousness of the potential harm that may occur to a victim, m
 
 Sexual assault crimes are taken very seriously by the law. If you have been falsely accused you might assume that the charges will just be dropped because of how ludicrous they are to you. But take this case for example – and the wide-reaching effects that it had on just members of the fraternity associated with the rape allegations. These types of allegations do not just “go away,” and you will need to be prepared if you are falsely accused.
 
-### 
-
 **Here are some things you can do:**
-
-### 
 
 1\. Do not speak with police or investigators until you have contacted a criminal defense attorney. They might try different tactics to get you to admit to a crime you did not commit. Remember that they are always trying to build a case. Simply state that you will not speak with them unless there is an attorney present.
 
-### 
-
 2\. Get in touch with a qualified and experienced criminal defense attorney. You’ll want to do this as soon as possible, even if you just expect the charges to be dismissed.
-
-### 
 
 3\. Prepare for what the allegations might bring. You will be asked to defend yourself, so you’ll need to be prepared. This means contacting witnesses that can testify or provide an alibi for you. You might also need to take psychological tests, or be asked to provide other evidence. Write down as many details as possible about what you remember.
 
-### 
-
 4\. Study. A criminal defense attorney will be able to guide you through fighting the allegations, but it’s in your best interest to understand the legal process and know your rights.
-
-### 
 
 You will want to follow all the legal rules and precautions you can, and the best way you can protect yourself is by working with an experienced defense attorney such as Sevens Legal, APC.
 
 ### Working with Sevens Legal, APC
 
 After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests.
-
-### 
 
 Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 494-3440. Contact Sevens Legal, APC, today for a free consultation.
