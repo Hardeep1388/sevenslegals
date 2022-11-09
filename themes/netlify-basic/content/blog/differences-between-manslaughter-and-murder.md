@@ -6,11 +6,11 @@ title = "Differences Between Manslaughter and Murder"
 url = "/assault/difference-murder-manslaughter/"
 
 +++
-##Differences Between Manslaughter and Murder
+## Differences Between Manslaughter and Murder
 
 When dealing with the difference between “manslaughter” and “[murder](https://www.sevenslegal.com/murder-lawyer-san-diego/ "Sevens Legal, APC")” it depends on the state of mind of the killer as well as the various degrees relating to murder.
 
-###Definition of Murder
+### Definition of Murder
 
 In California murder is defined as killing somebody with “[malice aforethought](https://www.sevenslegal.com/first-degree-murder-attorney-ca/ "Sevens Legal, APC"),” which is malice. The two types of malice is “express malice” and “implied malice.” Express malice is when a person intended to kill another person or persons. Implied malice is when a person intentionally commits an act they knew was dangerous to other people and human life resulting in death. In other words, the murder was committed with a conscious disregard for human life.
 
