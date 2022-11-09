@@ -8,29 +8,19 @@ url = "/assault/pokemon-leads-assault-battery-charges/"
 +++
 [Pokemon Go](https://www.sevenslegal.com/), an app which leads users on a hunt for Pokemon characters, has lead to charges of conspiracy, robbery, battery and assault across the nation. Below we discuss what consequences you face if you decide to go on your own hunt – of Pokemon Go players.
 
-\##Pokemon Go Leads to Assault and Battery Charges
+## Pokemon Go Leads to Assault and Battery Charges
 
 Pokemon Go Leads to Assault Charges
 
 Police are alleging that[Elvis Campos](https://www.sevenslegal.com/)was trying to rob Pokemon Go players when he was apprehended in a downtown park in east Las Vegas. The 18-year-old Campos was demanding possessions from who were playing the smartphone game. The game directs players to physical locations in order to “catch” virtual Pokemon characters.
 
-### 
-
 A shootout occurred and Campos and a player were injured. The man is now facing charges of conspiracy, robbery, battery and assault with a deadly weapon.
-
-### 
 
 Campos was transported to jail after he was treated at the hospital for a gunshot wound to the back. A juvenile that was with Campos at the time also faces charges.
 
-### 
-
 This is not the first attack that has been linked to the Pokemon Go app. Just recently a man was arrested in Illinois for battery when he threw sawdust into the faces of two people that were playing the game.
 
-### 
-
 While the game is not meant to bring harm to anyone playing it, it seems that others are targeting players and receiving serious charges as a result. Before you decide to go on your own hunt of Pokemon Go players, remember that there are serious consequences you can face.
-
-### 
 
 Should you find yourself in a similar position, with charges such as battery and assault, it’s advised that you work with a criminal defense lawyer.
 
@@ -58,8 +48,6 @@ The term “deadly weapon” typically refers to a wide range of objects capable
 
 A defendant convicted of simple assault faces the following possible penalties:
 
-### 
-
 * up to one year in jail
 * a fine up to $2000, and
 * probation up to one year
@@ -73,8 +61,6 @@ Assault and battery were originally considered to be separate crimes. While assa
 
 Basic penalties for simple battery that are charged as a misdemeanor include:
 
-### 
-
 * up to one year in county jail
 * fine up to $2000, and
 * probation up to one year.
@@ -83,8 +69,6 @@ Basic penalties for simple battery that are charged as a misdemeanor include:
 ### Theft and Robbery
 
 In addition to charges of assault and battery, Campos is also facing charges of robbery. Robbery falls under the umbrella of “theft.” Here are some other common types of theft offenses that a person can be charged with:
-
-### 
 
 * Petty Theft
 * Property valued at $950.00 or less
@@ -101,8 +85,6 @@ In addition to charges of assault and battery, Campos is also facing charges of 
 * Taking personal information and using it for an unlawful purpose
 * Receiving or Possession of Stolen Property
 * Knowingly buying, receiving, selling or concealing property that has been stolen from another person
-
-### 
 
 No matter the type of theft crime, the punishment is severe. Theft crimes can be classified as a misdemeanor or felony. Fines, jail and/or prison time are often standard punishment. Individuals may also be subject to civil liability if the alleged theft is from a retailer.
 
