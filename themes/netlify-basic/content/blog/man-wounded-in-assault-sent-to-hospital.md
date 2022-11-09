@@ -8,17 +8,13 @@ url = "/assault/man-wounded-assault-hospital/"
 +++
 A man wounded during an attack in Oceanside was sent to the hospital in critical condition. It’s still unclear what the [assault](http://sevenslegal.com/) was about and who it involved.
 
-\##Man Wounded in Assault Sent to Hospital
+## Man Wounded in Assault Sent to Hospital
 
 Wounded Man Sent to Hospital After Assault
 
 Paramedics and police were called to the scene of the crime, a home on[Winter Road in Oceanside](http://sevenslegal.com/). The resident who called did not witness the attack and could not confirm any details regarding what exactly occurred.
 
-### 
-
 According to police[Lt. Valencia Saadat](http://sevenslegal.com/), the 38-year-old victim and resident was taken to the hospital with multiple, life-threatening injuries. Detectives have not determined where the attack occurred. According to Saadat, the victim has lived at the home intermittently over the last three years but is not currently residing in the house.
-
-### 
 
 Investigators have not identified a suspect.
 
@@ -50,8 +46,6 @@ The term “deadly weapon” typically refers to a wide range of objects capable
 
 A defendant convicted of simple assault faces the following possible penalties:
 
-### 
-
 * up to one year in jail
 * a fine up to $2000, and
 * probation up to one year
@@ -65,8 +59,6 @@ Assault and battery were originally considered to be separate crimes. While assa
 
 Basic penalties for simple battery that are charged as a misdemeanor include:
 
-### 
-
 * up to one year in county jail
 * fine up to $2000, and
 * probation up to one year.
@@ -75,8 +67,6 @@ Basic penalties for simple battery that are charged as a misdemeanor include:
 ### Theft and Robbery
 
 In addition to charges of assault and battery, Campos is also facing charges of robbery. Robbery falls under the umbrella of “theft.” Here are some other common types of theft offenses that a person can be charged with:
-
-### 
 
 * Petty Theft
 * Property valued at $950.00 or less
@@ -93,8 +83,6 @@ In addition to charges of assault and battery, Campos is also facing charges of 
 * Taking personal information and using it for an unlawful purpose
 * Receiving or Possession of Stolen Property
 * Knowingly buying, receiving, selling or concealing property that has been stolen from another person
-
-### 
 
 No matter the type of theft crime, the punishment is severe. Theft crimes can be classified as a misdemeanor or felony. Fines, jail and/or prison time are often standard punishment. Individuals may also be subject to civil liability if the alleged theft is from a retailer.
 
