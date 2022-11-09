@@ -16,7 +16,7 @@ Attorney Gloria Allred questioned [Bill Cosby](https://www.sevenslegal.com/) und
 
 Cosby’s deposition in this lawsuit stems from Judy Huth’s molestation accusations against him that occurred in 1974. The location was in Boston in an undisclosed location. On Saturday, as part of a news conference, Gloria Allred stated the questioning for the deposition began at 9 a.m. and finished at approximately 4:30 p.m. Huth alleges she was 15-years-old at the time Cosby molested her while at a party at a Playboy Mansion both she and the comedian attended in 1974.
 
-\##Cosby’s Sexual Allegations Against Him
+\##Updates On Bill Cosby’s Allegations of Sexual Misconduct
 
 Cosby’s Sexual Allegations Against Him
 
