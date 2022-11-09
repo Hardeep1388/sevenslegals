@@ -8,13 +8,11 @@ url = "/assault/orlando-brown-faces-domestic-battery-drug-possession-charges/"
 +++
 Actor Orlando Brown was recently arrested in Los Angeles on suspicion of [battery](https://www.sevenslegal.com/), [drug possession](https://www.sevenslegal.com/) and resisting arrest. Brown rose to fame for his role as Eddie Thomas on Disney’s “That’s So Raven.”
 
-\##Orlando Brown Faces Domestic Battery and Drug Possession Charges
+## Orlando Brown Faces Domestic Battery and Drug Possession Charges
 
 Orlando Brown Faces Charges for Domestic Battery and Drug Possession
 
 According to the Los Angeles District Attorney’s Office, Brown, 28, was arrested by officers with the Torrance Police Department after he allegedly struck his girlfriend.
-
-### 
 
 The incident occurred in the parking lot of the Torrance, California police station. A witness supposedly saw Brown hit his girlfriend and immediately called the police – who were, obviously, right there.
 
@@ -22,11 +20,7 @@ The incident occurred in the parking lot of the Torrance, California police stat
 
 Brown was charged with possessing and bringing methamphetamine into police headquarters, possessing drug paraphernalia, battery, and resisting or delaying arrest.
 
-### 
-
 Brown, who was also in the film “Straight Outta Compton,” went on to deny the allegations, posting a series of videos and photographs to his Instagram. He later made the postings private.
-
-### 
 
 The drug counts are being charged as felonies, while the battery and delaying arrest charges are being charged as misdemeanors. The hearing is set for March 28.
 
@@ -34,11 +28,7 @@ The drug counts are being charged as felonies, while the battery and delaying ar
 
 This is far from Brown’s first interaction with the law. In August 2014, he threatened to kill a woman and her daughter. He was able to strike a plea deal in that case.
 
-### 
-
 In order to get a reduced sentence, your criminal defense lawyer with help negotiate a “deal” or “plea bargain” with the prosecutor. In some cases it will not only reduce your sentence but in many cases may even eliminate some if not all the charges against you. If the court finds you guilty of the charges, a criminal defense lawyer may be able to negotiate lesser time served or a rehabilitation program which can help prevent you winding up in the criminal justice system again. When discussing your case, your criminal defense lawyer can advise the best way to go in order to reduce your sentence. Sometimes pleading guilty can result in your having a shorter sentence.
-
-### 
 
 Prior to arrest in August 2014, Brown was arrested for a DUI in 2013. In 2012 he went to jail for violating probation terms. Additionally, he was arrested in 2011 for a DUI and also went to jail in 2007 for marijuana possession.
 
@@ -62,8 +52,6 @@ Depending on the seriousness of the potential harm that may occur to a victim, m
 
 In addition to battery charges, Brown also faces drug possession charges.
 
-### 
-
 Being convicted of any drug crime is a serious matter. Most drug charges can carry heavy convictions, fines and stay on your personal record, which can affect your job, buying a home or getting a loan. If you are convicted for any drug related crime, it is in your best interest to seek a criminal defense attorney and never accept any deal without speaking to an attorney first. Drug charges range from minor possession to a more serious charge of drug manufacturing, whatever the charges are, know that you can find guidance with your case. Choosing a great criminal defense attorney will help your case and often reduce charges. The experience and knowledge needed to deal with a drug charge can be found at Seven’s Legal. Sevens Legal is well versed in a variety of drug charges that you may be convicted of and their experience is endless. At Sevens Legal you will find a successful team that is passionate about representing their clients. If you find yourself charged with any drug crime, it is imperative that you seek a knowledgeable criminal defense attorney that will guide you through the legal system and help with reducing your charges.
 
 ### Methamphetamine
@@ -81,8 +69,6 @@ On November 4, 2014, voters approved Proposition 47, which among other things, r
 ### Find Help with Drug Charges at Sevens Legal
 
 Drug charges can stem from minor to more serious offences and at Sevens legal you can find a Criminal Defense Attorney for a number of drug related crimes. Regardless of the drug related crime, choosing Sevens Legal will help with protecting your rights and freedom and lead towards a positive outcome.
-
-### 
 
 * Simple possession and possession for sale or distribution
 * DUI involving drug possession
@@ -104,7 +90,5 @@ While a criminal defense lawyer isn’t a therapist, they may help you deal with
 ### Your Criminal Defense Lawyer and Accessibility
 
 When it comes to evidence and witness statements, a criminal defense lawyer is better able to procure the necessary evidence and statements in order to help build your case. Witnesses may fear for their safety if speaking openly, but discussions with a criminal defense lawyer can help alleviate their fears in order to provide the testimony necessary to help clear your case.
-
-### 
 
 If you are faced with criminal charges and possible jail time, you need to consult a criminal defense lawyer as soon as possible. Contact Sevens Legal, APC today for a free consultation.
