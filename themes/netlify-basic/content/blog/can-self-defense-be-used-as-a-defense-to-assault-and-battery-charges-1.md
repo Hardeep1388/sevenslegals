@@ -1,6 +1,7 @@
 +++
-categories = "Battery"
+categories = "Battery,Assault"
 date = 2022-11-09T18:30:00Z
+pfd_file = ""
 summary = "Self-defense can be a strong defense against criminal allegations involving a crime of violence, like an assault or battery. Arguing self-defense in a criminal case essentially means that you admit to committing a criminal act but clarify that you only did so to protect yourself from harm. If you are wondering whether self-defense is a "
 title = "Can Self-Defense Be Used as a Defense to Assault and Battery Charges?"
 url = "/battery/can-self-defense-be-used-as-a-defense-to-assault-and-battery-charges/"
