@@ -16,8 +16,8 @@
                     <div class="container text-start">
                         <div class="row">
                             <div class="col-8" style="margin: 30px;">
-							{{if isset .Params "pdf_url" }}
-                                <iframe src="{{ .Params.pdf_url }}" width="100%" height="500px">
+							{{if isset .Params "pfd_file" }}
+                                <iframe src="{{ .Params.pfd_file }}" width="100%" height="500px">
     </iframe>{{ end }}
                                 <p style="color: rgb(0,0,0);">{{ .Content }}</p>
                             </div>
