@@ -1,6 +1,7 @@
 +++
-categories = "Assault"
+categories = "Assault,Battery"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "The life of former National Football League star Aaron Hernandez, convicted of murder, has taken a detour to jail. Formerly a tight end with the New England Patriots, he has been convicted of first-degree murder for shooting and killing Odin L. Lloyd. Hernandez, 25, allegedly killed Lloyd after he made the fatal error of angering"
 title = "First-Degree Murder Conviction for NFL Star Aaron Hernandez"
 url = "/assault/firstdegree-murder-conviction-nfl-star-aaron-hernandez/"
