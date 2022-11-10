@@ -1,6 +1,7 @@
 +++
-categories = "Awards"
+categories = "Awards,Blog"
 date = 2022-11-09T18:30:00Z
+pfd_file = ""
 summary = "We are proud to announce that Sevens Legal has been chosen to receive the Best Places To Work in 2022 award by the San Diego Business Journal. The Journal offers weekly insights into business news and information about the San Diego area’s people, industries, and businesses. Their annual Lists program recognizes companies whose policies, practices "
 title = "Sevens Legal Chosen for Best Place To Work In San Diego 2022"
 url = "/awards/sevens-legal-chosen-for-best-place-to-work-in-san-diego-2022/"
