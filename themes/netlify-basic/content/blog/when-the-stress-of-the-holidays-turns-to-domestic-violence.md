@@ -1,6 +1,7 @@
 +++
-categories = "Assault"
+categories = "Assault,Battery"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "It’s commonly believed that domestic violence cases increase during the holiday times. With the stress of the holidays, people often turn to coping mechanisms, which can include taking it out on their family members. Domestic Violence Increases With Holiday Stress During the holiday season things get stressful. From organizing family gatherings to dealing with financial "
 title = "When the Stress of the Holidays Turns to Domestic Violence"
 url = "/assault/when-the-stress-of-the-holidays-turns-to-domestic-violence/"
