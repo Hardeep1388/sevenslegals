@@ -12,17 +12,9 @@ In spite of the ACLU’s outcry about body cameras and their use, [body cameras]
 
 Body Cameras Recently Used
 
-Recently two LAPD officers responded after receiving a call about a woman who was armed with some type of knife. After the police involved shooting, Norma Guzman, 37, was taken to a hospital where she died, according to the report filed by Corner Assistant Chief Ed Winter.
-
-### 
-
-“An officer-involved shooting occurred and a knife was recovered at the scene,” reported Mike Lopez, an LAPD Officer.
-
-### 
+Recently two LAPD officers responded after receiving a call about a woman who was armed with some type of knife. After the police involved shooting, Norma Guzman, 37, was taken to a hospital where she died, according to the report filed by Corner Assistant Chief Ed Winter.“An officer-involved shooting occurred and a knife was recovered at the scene,” reported Mike Lopez, an LAPD Officer.
 
 “Our understanding is that both officers discharged their weapons,” Police Sgt. Frank Preciado stated. He indicated that both police officers wore[body cameras](https://www.sevenslegal.com/)and the video from those cameras would be downloaded so it could be examined as part of the police officer shooting investigation. In addition to the footage from the body cameras video footage from other security cameras located in the area of the shooting will also be looked at and reviewed.
-
-### 
 
 The police officer shooting happened in one of the first divisions of the LAPD where officers have been issued body cameras. Lopez indicated that both police officers were wearing body cameras which have been collected by the Force Investigation Division investigators, and will be analyzed for evidence.”
 
