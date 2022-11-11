@@ -1,7 +1,6 @@
 +++
 categories = "Assault"
 date = 2022-11-08T18:30:00Z
-draft = true
 pfd_file = ""
 summary = "Before the controversial Rolling Stone article, the University of Virginia was most known for its rigorous academics. But now it might best be known for the controversial swirl of rape allegations that surrounded the campus and the nation. Implications of Rape Allegations Last November Rolling Stone magazine published the feature “A Rape on Campus"
 tags = ["Battery", "Blog", "Criminal Law"]
