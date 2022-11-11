@@ -1,12 +1,14 @@
 +++
 categories = "Awards"
 date = 2022-11-09T18:30:00Z
+pfd_file = ""
 summary = "PRESS RELEASE Samantha A. Greene Has Been Nominated and Accepted as a 2016 AIOCLA’S 10 Best in California For Client Satisfaction The American Institute of Criminal Law Attorneys has recognized the exceptional performance of California’s Criminal Law Attorney Samantha A. Greene as 2016 10 Best Criminal Law Attorneys for Client Satisfaction. The American Institute of "
+tags = []
 title = "AIOCLA’S 10 Best in California For Client Satisfaction"
 url = "/awards/aioclas-10-california-client-satisfaction/"
 
 +++
-PRESS RELEASE Samantha A. Greene Has Been Nominated and Accepted as a 2016 AIOCLA’S 10 Best in California For Client Satisfaction The American Institute of Criminal Law Attorneys has recognized the exceptional performance of California’s Criminal Law Attorney Samantha A. Greene as 2016 10 Best Criminal Law Attorneys for Client Satisfaction. The American Institute of 
+PRESS RELEASE Samantha A. Greene Has Been Nominated and Accepted as a 2016 AIOCLA’S 10 Best in California For Client Satisfaction The American Institute of Criminal Law Attorneys has recognized the exceptional performance of California’s Criminal Law Attorney Samantha A. Greene as 2016 10 Best Criminal Law Attorneys for Client Satisfaction. The American Institute of
 
 ![](/uploads/10-best-2016-client-satisfaction-269x300-png.webp)
 
