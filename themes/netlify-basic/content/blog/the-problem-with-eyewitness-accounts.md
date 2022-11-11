@@ -1,8 +1,9 @@
 +++
-categories = "Assault, Blog, Criminal Law, Sexual Assault"
+categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "So many trials come down to eyewitness testimonies. Since a jury wasn’t there, they are relying heavily on the eyes and ears of the people that were there at the scene of the incident. But sometimes witness account aren’t reliable, and the damage done is irreparable. Luis Lorenzo Vargas Behind Jail for Faulty Eyewitness Accounts"
+tags = ["Blog", "Criminal Law"]
 title = "The Problem with Eyewitness Accounts"
 url = "/assault/problem-eyewitness-accounts/"
 
