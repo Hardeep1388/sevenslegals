@@ -1,6 +1,7 @@
 +++
-categories = "Battery"
+categories = "Assault, Battery, Blog, Criminal Law ,Domestic Violence, Sexual Assault"
 date = 2022-11-09T18:30:00Z
+pfd_file = ""
 summary = "The definition of rape goes beyond just forced sexual intercourse. It also includes unlawful sexual intercourse or sexual penetration of the anus or mouth, as well as the vagina, of a person, by a sex organ, foreign object, or other body part, with or without force, if the victim does not give their consent or"
 title = "Fighting False Allegations of Rape"
 url = "/battery/criminal-attorney/fighting-false-allegations-rape/"
