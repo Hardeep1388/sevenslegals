@@ -1,8 +1,9 @@
 +++
-categories = "Assault,Battery"
+categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "it seems that Johnny Manziel is once again back in the news – but not because of his football ability. Rather, Manziel’s girlfriend, Colleen Crowley has accused him of beating her up and has sought a protective order against the NFL quarterback. Protective Order Issued Against Johnny Manziel Manziel rose to fame as the first"
+tags = ["Battery", "Blog", " Criminal Law"]
 title = "Protective Order Taken Against Johnny Manziel"
 url = "/assault/protective-order-johnny-manziel/"
 
