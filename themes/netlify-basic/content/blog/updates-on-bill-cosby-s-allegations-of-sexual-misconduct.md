@@ -1,7 +1,9 @@
 +++
 categories = "Assault"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "After months of allegations, there have been some new developments relating to the sexual allegations against Bill Cosby. Attorney Gloria Allred questioned Bill Cosby under oath last Friday for approximately seven hours in connection with the formal lawsuit brought against him for sexual misconduct. The comedian has been accused over the past year by numerous"
+tags = ["Blog", "Criminal Law"]
 title = "Updates On Bill Cosby’s Allegations of Sexual Misconduct"
 url = "/assault/updates-bill-cosbys-allegations-sexual-misconduct/"
 
