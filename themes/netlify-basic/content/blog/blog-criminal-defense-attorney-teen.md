@@ -3,7 +3,7 @@ categories = "Blog,Criminal Law,Juvenile Crime,White Collar Crime"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Although you might not think about it, if you have a teenager you should seriously consider having a good criminal defense attorney. If you think this is a crazy idea, here are some reasons why it’s not! The farthest thing from your mind is that your little baby might commit some type of crime. You’ve "
-title = "/blog/criminal-defense-attorney-teen/"
+title = "Criminal Defense Attorney For Your Teenager"
 url = "/blog/criminal-defense-attorney-teen/"
 
 +++
