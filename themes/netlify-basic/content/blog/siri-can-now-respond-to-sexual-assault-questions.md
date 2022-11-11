@@ -1,8 +1,9 @@
 +++
-categories = "Assault, Blog ,Criminal Law ,Domestic Violence ,Sexual Assault"
+categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Apple recently updated its iOS operating service aid Siri to sexual assault and domestic violence questions she receives from users. Siri and Her Responses for Sexual Assault Questions In March, JAMA Internal Medicine published a study performed by researchers at Stanford that showed Siri, in addition to other smartphone assistants including Google Now, Samsung’s S "
+tags = ["Blog", "Criminal Law", "Domestic Violence"]
 title = "Siri Can Now Respond to Sexual Assault Questions"
 url = "/assault/siri-respond-sexual-assault-questions/"
 
