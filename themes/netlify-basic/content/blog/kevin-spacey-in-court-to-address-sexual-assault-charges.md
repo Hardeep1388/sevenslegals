@@ -1,8 +1,9 @@
 +++
-categories = "Assault,Blog,Criminal law,Sexual Assault"
+categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Actor Kevin Spacey faced a judge last month to address accusations of sexual assault. Kevin Spacey Addresses Charges of Sexual Assaul in Court Spacey, 59, appeared in court to enter a not guilty plea for a felony charge of indecent assault and battery. A few years ago Kevin Spacey disappeared from the public eye following "
+tags = ["Blog", "Criminal Law "]
 title = "Kevin Spacey in Court to Address Sexual Assault Charges"
 url = "/assault/kevin-spacey-in-court-to-address-sexual-assault-charges/"
 
