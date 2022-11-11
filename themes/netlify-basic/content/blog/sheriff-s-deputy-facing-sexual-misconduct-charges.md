@@ -1,6 +1,7 @@
 +++
-categories = "Assault"
+categories = "Assault,Blog,Criminal law,Sexual Assault"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "Nineteen women have stepped forward to accuse San Diego County sheriff’s deputy Richard Fischer of sexual misconduct. He is pleading not guilty to all charges. Sexual Misconduct Charges Facing Sheriff’s Deputy On February 22, Fischer was arrested and charged with sexual misconduct. He pleaded not guilty but will need to stand trial on 15 criminal "
 title = "Sheriff’s Deputy Facing Sexual Misconduct Charges"
 url = "/assault/sheriffs-deputy-facing-sexual-misconduct-charges/"
