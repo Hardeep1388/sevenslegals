@@ -1,8 +1,9 @@
 +++
-categories = "Assault,Blog,Criminal law,Sexual Assault"
+categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Co-founder of The Weinstein Company, Harvey Weinstein, was recently fired after allegations of sexual misconduct. Harvey Weinstein Fired From Company Following Sexual Misconduct Allegations In an article recently published by The New York Times, numerous women have come forward with allegations of sexual misconduct by Hollywood heavy-hitter Harvey Weinstein. One of those women is actress"
+tags = ["Blog", "Criminal Law"]
 title = "Harvey Weinstein Fired After Sexual Misconduct Allegations"
 url = "/assault/harvey-weinstein-fired-sexual-misconduct-allegations/"
 
