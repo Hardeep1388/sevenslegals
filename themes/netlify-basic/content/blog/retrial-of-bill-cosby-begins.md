@@ -1,6 +1,7 @@
 +++
-categories = "Assault"
+categories = "Assault, Blog, Criminal Law, Sexual Assault"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "The retrial of comedian Bill Cosby on sexual assault charges begins Monday. The first trial ended up being declared a mistrial last June after jurors were deadlocked. Cosby Being Tried Again Cosby’s first faced trial on charges of drugging and sexually assaulting Andrea Constand, a former Temple University women’s basketball official. After 52 hours of "
 title = "Retrial of Bill Cosby Begins"
 url = "/assault/retrial-bill-cosby-begins/"
