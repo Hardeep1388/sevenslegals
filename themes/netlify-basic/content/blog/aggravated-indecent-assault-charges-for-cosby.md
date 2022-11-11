@@ -1,7 +1,9 @@
 +++
 categories = "Assault"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "Last week, criminal charges of aggravated indecent assault were brought against Bill Cosby. While dozens of women have come forth with similar allegations, these are the first formal charges that have been able to be brought against the comedian. The Assault Charges Against Cosby The lawsuit alleges that Cosby drugged and sexually assaulted former Temple"
+tags = ["Blog", "Criminal Law"]
 title = "Aggravated Indecent Assault Charges for Cosby"
 url = "/assault/aggravated-indecent-assault-charges-cosby/"
 
