@@ -1,11 +1,14 @@
 ---
-title: "What is Assault, Battery, and Aggravated Assault?"
+title: What is Assault, Battery, and Aggravated Assault?
 date: 2022-11-05
-categories: Assault
-summary: Self-defense can be a strong defense against criminal allegations involving a crime of violence, like an assault or battery. Arguing self-defense in a criminal case essentially means that you admit to committing a criminal act but clarify that you only did so to protect yourself from harm. If you are wondering whether self-defense is a
-draft: false
----
+categories: []
+summary: Self-defense can be a strong defense against criminal allegations involving
+  a crime of violence, like an assault or battery. Arguing self-defense in a criminal
+  case essentially means that you admit to committing a criminal act but clarify that
+  you only did so to protect yourself from harm. If you are wondering whether self-defense
+  is a
 
+---
 If you have been accused of [assault](https://www.sevenslegal.com/) , [assault and battery](https://www.sevenslegal.com/) , or [aggravated assault](https://www.sevenslegal.com/ "Sevens Legal, APC") , you may be wondering what the differences are. While they all involve one person doing intentional harm to another person, crimes involving physical attacks can be assaults or batteries or both. Depending on the seriousness of the attack, charges can be elevated to the most serious one of aggravated assault.
 
 ## What is “Assault”
