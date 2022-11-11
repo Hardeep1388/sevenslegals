@@ -1,8 +1,9 @@
 +++
-categories = "Assault,Battery"
+categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "According to authorities, Mike Vitar, who played Benny “The Jet” Rodriguez from the 1993 movie, “The Sandlot” has been charged with a Halloween night assault. The Incident of Assault Vitar, who is now a Los Angeles firefighter, along with two other men – fellow firefighter Eric Carpenter, and Thomas Molnar have been accused with assaulting "
+tags = ["Battery", "Blog"]
 title = "“The Sandlot” Star That’s Been Accused of Assault"
 url = "/assault/sandlot-star-accused-assault/"
 
