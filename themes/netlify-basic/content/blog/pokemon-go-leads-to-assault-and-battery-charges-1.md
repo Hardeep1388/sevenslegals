@@ -1,10 +1,10 @@
 +++
-categories = "Battery, Assault, Blog, Criminal Law"
+categories = "\"Battery\",\"Assault\",\"Blog\",\"Criminal Law\""
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "Pokemon Go, an app which leads users on a hunt for Pokemon characters, has lead to charges of conspiracy, robbery, battery and assault across the nation. Below we discuss what consequences you face if you decide to go on your own hunt – of Pokemon Go players. Pokemon Go Leads to Assault Charges Police are"
 title = "Pokemon Go Leads to Assault and Battery Charges"
-url = "/battery/assault/pokemon-leads-assault-battery-charges/"
+url = "/battery/pokemon-leads-assault-battery-charges/"
 
 +++
 [Pokemon Go](https://www.sevenslegal.com/), an app which leads users on a hunt for Pokemon characters, has lead to charges of conspiracy, robbery, battery and assault across the nation. Below we discuss what consequences you face if you decide to go on your own hunt – of Pokemon Go players.
