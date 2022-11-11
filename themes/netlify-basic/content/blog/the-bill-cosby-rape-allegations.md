@@ -1,6 +1,7 @@
 +++
-categories = "Assault"
+categories = "Assault, Blog ,Criminal Law ,Sexual Assault"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "It seems pretty clear the career of Bill Cosby is over, with the cancellation of numerous live performances in various venues, plus the fact NBC pulled the plug on a possible series starring him. However, what isn’t clear is whether he’ll face any charges for the rape allegations against him."
 title = "The Bill Cosby Rape Allegations"
 url = "/assault/bill-cosby-rape-allegations/"
