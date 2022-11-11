@@ -1,22 +1,13 @@
 +++
-categories = "\"Assault\",\"Battery\",\"Blog\",\"Criminal Law\" ,\"Domestic Violence\",\"Sexual Assault\""
+categories = "Assault"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "The definition of rape goes beyond just forced sexual intercourse. It also includes unlawful sexual intercourse or sexual penetration of the anus or mouth, as well as the vagina, of a person, by a sex organ, foreign object, or other body part, with or without force, if the victim does not give their consent or"
+tags = ["Domestic Violence", "Blog", "Criminal Law", "Battery"]
 title = "Fighting False Allegations of Rape"
 url = "/battery/fighting-false-allegations-rape/"
 
 +++
-1. You are here:
-2. [Home](http://www.sevenslegal.com/)
-3. [Assault](https://www.sevenslegal.com/assault/)
-4. [Battery](https://www.sevenslegal.com/battery/)
-5. [Blog](https://www.sevenslegal.com/blog/)
-6. [Criminal Law](https://www.sevenslegal.com/criminal-attorney/)
-7. [Domestic Violence](https://www.sevenslegal.com/domestic-violence/)
-8. [Sexual Assault](https://www.sevenslegal.com/sexual-assault/)
-9. Fighting False Allegations of Rape
-
 The definition of rape goes beyond just forced sexual intercourse. It also includes unlawful sexual intercourse or sexual penetration of the anus or mouth, as well as the vagina, of a person, by a sex organ, foreign object, or other body part, with or without force, if the victim does not give their consent or is incapable of giving their consent.
 
 ## Fighting False Allegations of Rape

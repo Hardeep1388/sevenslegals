@@ -1,5 +1,5 @@
 +++
-categories = "Assault,Blog"
+categories = "Assault"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "Domestic violence maintains a high place on the hot topics list in national conversations. Players in professional sports add to the multiple stories every day in the news for the public to scrutinize. Ordinary citizens are also in the news, committing acts of domestic violence against their partners. While some victims go unnoticed, others pay "
