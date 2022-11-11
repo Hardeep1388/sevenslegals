@@ -1,8 +1,9 @@
 +++
-categories = "Assault,Blog,Criminal Law"
+categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "A man wounded during an attack in Oceanside was sent to the hospital in critical condition. It’s still unclear what the assault was about and who it involved. Wounded Man Sent to Hospital After Assault Paramedics and police were called to the scene of the crime, a home on Winter Road in Oceanside. The resident"
+tags = ["Blog"]
 title = "Man Wounded in Assault Sent to Hospital"
 url = "/assault/man-wounded-assault-hospital/"
 
