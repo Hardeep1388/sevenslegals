@@ -1,8 +1,9 @@
 +++
-categories = "Assault, Blog, Criminal Law, Sexual Assault"
+categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Richard Fischer still maintains that he is innocent despite the fact that at least 16 women have stepped forward to accuse him of sexually assaulting them. His trial date has been set for February 25 of next year. Following Allegations of Sexual Assault Fischer Maintains Innocence “I’m definitely eager to get started. I feel like,"
+tags = ["Blog", "criminal Law"]
 title = "Fischer Maintains Innocence Following Sexual Allegations"
 url = "/assault/fischer-maintains-innocence-following-sexual-allegations/"
 
