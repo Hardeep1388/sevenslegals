@@ -1,7 +1,9 @@
 +++
 categories = "Assault"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "Florida State University has settled a sexual assault claim with former student Erica Kinsman over allegations that she was raped by quarterback Jameis Winston in December 2012. Florida Sexual Assault Case Settled The settlement of the federal Title IX lawsuit comes a year after Kinsman initial filed her complaint in federal court.\n\n"
+tags = ["Blog", "Criminal Law"]
 title = "Sexual Assault Case Settled in Florida"
 url = "/assault/sexual-assault-case-settled-florida/"
 

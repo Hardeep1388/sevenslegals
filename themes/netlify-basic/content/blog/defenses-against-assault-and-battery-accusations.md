@@ -1,8 +1,9 @@
 +++
-categories = "Assault,Battery"
+categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Being accused of assault and battery can be a frightening experience, especially if you’re not guilty. In situations such as this a number of defenses can be used to prove you are innocent of the charges. Hire an Assault and Battery Defense Attorney A criminal defense attorney experienced with assault and battery can help prepare"
+tags = ["Battery", "Blog"]
 title = "Defenses Against Assault and Battery Accusations"
 url = "/assault//defenses-against-assault-and-battery-accusations/"
 
