@@ -1,5 +1,5 @@
 +++
-categories = "Assault,Battery,"
+categories = "Assault,Battery, Blog ,Criminal Law, Domestic Violence"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "Anthony Michael Hall, the actor best known for his role in the ’80s teen movie “The Breakfast Club,” was recently arrested for felony battery of his neighbor. Actor is Facing Charges of Felony Battery Hall was recently arrested for felony battery after allegedly breaking his neighbor’s wrist and injuring the man’s back. The September altercation "
