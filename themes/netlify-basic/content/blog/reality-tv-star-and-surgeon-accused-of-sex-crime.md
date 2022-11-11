@@ -1,6 +1,7 @@
 +++
-categories = "Assault"
+categories = "Assault,Blog,Criminal law,Sexual Assault"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "A Former Bravo reality TV star and his girlfriend have been charged with multiple counts of a sex crime. The women who have stepped forward so far allege the attractive couple got them drunk and lured them back to the surgeon’s apartment before making sexual advances. Reality Star Robicheaux and Surgeon Riley Accused of Sex Crime […]"
 title = "Reality TV Star and Surgeon Accused of Sex Crime"
 url = "/assault/reality-tv-star-and-surgeon-accused-of-sex-crime/"
