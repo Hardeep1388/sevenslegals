@@ -1,7 +1,7 @@
 ---
 title: "Samantha Greene Receives an Award from NADC"
 date: 2022-11-08
-categories: Awards
+categories: ['Awards']
 url: "/awards/samantha-greene-receives-an-award-from-ndca"
 summary: THE NATIONAL ASSOCIATION OF DISTINGUISHED COUNSEL PRESS RELEASE Samantha Greene, of Sevens Legal, APC, has been selected to the 2015 list as a member of the Nation’s Top One Percent by the National Association of Distinguished Counsel.  NADC is an organization dedicated to promoting the highest standards of legal excellence.  Its mission is to objectively
 pdf_url: 
