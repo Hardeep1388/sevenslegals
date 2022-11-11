@@ -1,6 +1,7 @@
 +++
-categories = "Assault"
+categories = "Assault, Blog, Criminal Law,  Sexual Assault"
 date = 2022-11-08T18:30:00Z
+pfd_file = ""
 summary = "Dr. Christine Blasey Ford has come forward with sexual assault allegations against Supreme Court nominee Brett Kavanaugh. Kavanaugh has since denied the allegations, which allegedly occurred when the two were teenagers. Brett Kavanaugh Accused of Sexual Assault Professor of clinical psychology in Palo Alto, California, Dr. Ford, described the alleged sexual assault in a recent"
 title = "Sexual Assault Allegations Against Brett Kavanaugh"
 url = "/assault/sexual-assault-allegations-against-brett-kavanaugh/"
