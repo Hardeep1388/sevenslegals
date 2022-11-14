@@ -1,9 +1,9 @@
 +++
-categories = "Blog  "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The 20th century of American history has seen organized crime play out in movies and television, bringing their story into the consciousness of the nation. Older Americans who remember the beginnings of the TV age may remember Senator Estes Kefauver and the “Special Committee to Investigate Crime in Interstate Commerce” he had that repeatedly questioned "
-tags = ["Criminal Law", "Drug Crimes", "Federal Crime", "State Crime"]
+tags = ["Drug Crimes", "Federal Crime", "State Crime", "Blog"]
 title = "The History of Organized Crime in America"
 url = "/blog/criminal-attorney/history-organized-crime-america/"
 
@@ -69,3 +69,13 @@ The Department of Justice has created the Organized Crime and Gang Section (i.e.
 The State Threat Assessment Center ( i.e., “STAC”) is California’s clearing house when it comes to gathering strategic intelligence in order to warn and give information to California’s policy makers and public safety personnel about the varous threats the state faces every day. In addition, they also perform analysis on various trans-national crimes which include human trafficking and narcotics trafficking, that criminal gangs are involved in.
 
 The State Threat Assessment System (i.e., “STAS”) helps investigate, detect, prevent, and mount responses to terrorist and criminal activity, distributes intelligence and helps facilitate communications between local, federal, state, private sector partners, and tribal agencies, to order to help them take action relating to various threat and public safety issues.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
