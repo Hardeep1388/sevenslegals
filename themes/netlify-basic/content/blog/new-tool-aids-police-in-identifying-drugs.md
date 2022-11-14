@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Drug Crimes"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "With just a small scanner, and in less than a minute, San Diego police are able to determine just what kind of drugs they are looking at. The new tool is aiding officers in determining what they are dealing with without ever having to open a package. Identifying Drugs Has a New Tool for Police \n\n"
+tags = ["Criminal Law"]
 title = "New Tool Aids Police in Identifying Drugs"
 url = "/blog/new-tool-aids-police-in-identifying-drugs/"
 
