@@ -1,8 +1,9 @@
 +++
-categories = "Blog, Criminal Law, Drug Crimes"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A lawsuit has been brought against Jim Carrey that alleges that used his “immense wealth and celebrity status” to obtain and distribute deadly substances to his girlfriend Cathriona White. White was found dead of an apparent suicidal overdose last year. Drug Charges Against Jim Carrey? The lawsuit has been brought by White’s estranged husband, Mark "
+tags = ["Criminal Law", "Drug Crimes"]
 title = "Drug Charges for Jim Carrey?"
 url = "/blog/drug-charges-jim-carrey/"
 
