@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, Sexual Assault"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "An underage former employee of Chipotle recently received a $7.65 million settlement following the sexual harassment lawsuit she and her mother brought against an adult supervisor of the restaurant chain. Underage Chipotle Employee Receives $7.65 in Sexual Assault Settlement A 16-year-old former employee of Chipotle has won a settlement of $7.65 million after she was "
+tags = ["Criminal Law"]
 title = "Underage Chipotle Employee Awarded $7.65 in Sexual Assault Settlement"
 url = "/blog/underage-chipotle-employee-awarded-765-sexual-assault-settlement/"
 
