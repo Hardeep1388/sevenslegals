@@ -8,7 +8,7 @@ title = "October is Domestic Violence Awareness Month"
 url = "/battery/october-domestic-violence-awareness-month/"
 
 +++
-[Domestic violence](http://sevenslegal.com/) affects millions across the world. Bringing awareness to the issue is one the main ways to defeat this terrible problem. That’s why Octoer has been declared [Domestic Violence Awareness Month](http://sevenslegal.com/).
+[Domestic violence](http://sevenslegal.com/) affects millions across the world. Bringing awareness to the issue is one the main ways to defeat this terrible problem. That’s why October has been declared [Domestic Violence Awareness Month](http://sevenslegal.com/).
 
 ## October is Domestic Violence Awareness Month
 
