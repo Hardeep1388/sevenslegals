@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law ,Domestic Violence, Identity Theft ,State Crime"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Most people probably think the slave trade in the United States ended in 1807. That year the congress put legislation into place that prohibited new slaves to come into the country. When the Act Prohibiting Importation of Slaves was past, the practice of importing slaves into America should have become history. Most Americans today would "
+tags = ["Criminal Law", "Domestic Violence", " Identity Theft", "State Crime"]
 title = "Human Trafficking: The Modern Slave Trade"
 url = "/blog//criminal-attorney/human-trafficking-modern-slave-trade/"
 
