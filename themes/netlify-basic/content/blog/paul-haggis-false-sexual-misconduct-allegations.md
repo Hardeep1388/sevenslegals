@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Sexual Assault"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Could the sexual misconduct allegations facing Paul Haggis just be a means of getting back at him for leaving the Church of Scientology? And what do you do if you’re facing false allegations of sexual misconduct? Are the Allegations Against Paul Haggis False? Last week, writer Paul Haggis joined the list of men in Hollywood "
+tags = ["Criminal Law"]
 title = "Paul Haggis False Sexual Misconduct Allegations?"
 url = "/blog/paul-haggis-false-sexual-misconduct-allegations/"
 
