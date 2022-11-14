@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Federal Crime"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Poway was, once again, named as the safest city in San Diego County. Safest San Diego County City is Still Poway According to recently released FBI crime statistics for 2016, Poway had a 7 percent decrease in crime in 2016, thus marking it the safest city in the San Diego region for the fourth year "
+tags = ["Criminal Law"]
 title = "Poway Still Safest City in San Diego County"
 url = "/blog/poway-safest-city-san-diego-county/"
 
