@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Recently Assemblyman Rob Bonta (D-Oakland) led a discussion with attorneys and advocates regarding the need to reform the California bail system and how judges award those bail amounts. Bonita believes the current bail system not only criminalizes the poor, but also doesn’t protect communities. Assemblyman Bonta Tries to Change California’s Bail Bond System Bail Bond "
+tags = []
 title = "Assemblyman Bonta Trying to Change the Bail Bond System"
 url = "/blog/blogassemblyman-bonta-change-bail-system526/"
 
