@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law"
+categories = "Blog"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "Homicide rates from domestic violence situations in San Diego are on the decline. A recent article reported that the city is leading the way in reducing deaths from domestic violence. San Diego has the fewest number of deaths from domestic abuse. Domestic Violence Homicide Declines in San Diego A resource called the Family Justice Center "
+tags = []
 title = "Homicide Rates for Domestic Violence Declines"
 url = "/blog/homicide-rates-for-domestic-violence-declines/"
 
