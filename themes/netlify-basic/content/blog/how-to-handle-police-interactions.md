@@ -1,9 +1,9 @@
 +++
-categories = "Blog "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Whether it be criminal charges, or simply being pulled over for speeding, chances are if you haven’t had an interaction with a police officer, at some point you will. It can be scary, and often feel as if you are assumed guilty – even for minor infractions. Because of that, it’s important to know that"
-tags = ["Criminal Law", "Sexual Assault"]
+tags = ["Sexual Assault"]
 title = "How To Handle Police Interactions"
 url = "/blog/criminal-attorney/handle-police-interactions/"
 
@@ -110,3 +110,13 @@ Criminal charges can be complex, requiring much gathering of evidence and inform
 If you or loved ones is accused or charged with any type of crime call us. Let us support and help you during this tough time. Our firm award winning attorneys provides hope and peace of mind. The Sevens Legal, APC office is located in both San Diego and Escondido. We have time and time again helped Southern California residents get their cases dismissed or penalties reduced.
 
 Contact[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
