@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Most people think eyewitness testimony is the “Gold Standard” when it comes to putting together the event details when it comes to documenting facts about a case. This idea becomes questionable when the various eyewitnesses to a crime report substantially different details as to what they saw about the same event. Obvious details such as "
+tags = []
 title = "Is Eyewitness Testimony Really the Gold Standard?"
 url = "/blog/eyewitness-testimony-gold-standard/"
 
