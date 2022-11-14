@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Juveline Crime"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Last week a 16-year-old teen boy was arrested for allegedly robbing a Shell gas station at gunpoint. Gas Station Held Up by 16-Year-Old Teen As a clerk at the Shell gas station on South Main Avenue near South Mission Road told the police, a suspect wearing a mask held him at gunpoint and demanded cash "
+tags = ["Criminal Law"]
 title = "16-Year-Old Teen Holds Up Gas Station"
 url = "/blog/blogprotecting-defending-teen584/"
 
