@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Federal Crime,Sexual Assault"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "DNA gathering and testing is an important tool to ensure the innocent remain free and the guilty are punished. With the increased use of DNA testing, which began in 1986, it has helped to determine the guilt or innocence of perpetrators in capital cases. As of September 2011 in the US, 273 people have been "
+tags = ["Criminal Law", "Federal Crime"]
 title = "DNA Testing and Exoneration"
 url = "/blog/dna-testing-exoneration/"
 
