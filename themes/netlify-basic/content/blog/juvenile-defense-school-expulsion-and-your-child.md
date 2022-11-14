@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, Juvenile Crime"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "For a parent, having your child arrested and charged with an alleged crime is one of the most traumatic experiences you could have. Having an experienced Juvenile Defense Attorney can help turn a possible negative outcome into a positive one.   Juvenile Defense and Criminal Defense Attorneys A Criminal Defense Attorney who also specializes in"
+tags = ["Criminal Law", "Juvenile Crime"]
 title = "Juvenile Defense, School Expulsion, and Your Child"
 url = "/blog/criminal-attorney/juvenile-defense-school-expulsion-child/"
 
