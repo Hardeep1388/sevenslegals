@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, Juvenile Crime"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Brendan Dassey, one of the main subjects in Netflix’s hit documentary series “Making a Murderer,” conviction has been overturned by a federal judge. The 27-year-old was implicated in connection to a crime that was ruled to have been committed by his uncle, Steven Avery. Dassey and “Making a Murderer” The show focuses on Steven Avery,"
+tags = ["Criminal Law", "Juvenile Crime"]
 title = "Conviction Overturned for Dassey of “Making a Murderer”"
 url = "/blog/conviction-overturned-dassey-making-murderer/"
 
