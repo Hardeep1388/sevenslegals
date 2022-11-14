@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,DMV Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Being involved in a hit and run accident is a very serious situation. You need to recognize that if you are involved in an accident that causes either injury to a person or property damage (including car damage, or other physical property), and you leave the scene of the accident you run the risk of "
+tags = ["Criminal Law"]
 title = "Hit and Run"
 url = "/blog/p506/"
 
