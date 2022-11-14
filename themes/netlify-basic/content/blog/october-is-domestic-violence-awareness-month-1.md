@@ -59,3 +59,15 @@ Over the years legislators have been given opportunities to address certain aspe
 Even though California does a fair job overall when it comes to enforcing domestic violence cases, there is considerable work still to be done in order to make the laws for domestic violence effective when in order to protect victims and their children.
 
 It is also recommended that judges and law enforcement personnel receive better education and training.
+
+If you are a victim of domestic violence you need the expert advice and support of a domestic violence attorney such as Sevens Legal, APC. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
