@@ -1,9 +1,9 @@
 +++
-categories = "Blog "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The United States is coming to terms with the realization that criminalizing illicit drugs and treating offenders in a purely judicial way has little if any effectiveness in dealing with the drug problem. The U.S. drug problem causes our government to spend millions of dollars, with the result being the largest prison population in the"
-tags = ["Criminal Law", "Drug Crimes", "Federal Crime"]
+tags = ["Drug Crimes", "Federal Crime", "Blog"]
 title = "Reasons to Decriminalize Drugs"
 url = "/blog/criminal-attorney/reasons-decriminalize-drugs"
 
@@ -63,3 +63,13 @@ When looked at objectively, its easy to realize the health issues about drug use
 Decriminalizing drugs means getting rid of the criminal penalties associated with drug possession for personal use. People would no longer be arrested, prosecuted, jailed, or have a criminal record just for using or possessing drugs for personal use. The result is that there would be a substantial reduction in the number of people in the criminal justice system. The motivation behind Proposition 47 in California was to reduce or eliminate the harsh criminal penalties that resulted in prison and jail overpopulation that began in the 1980s. The effect after it passed resulted in decriminalization where the possession of small amounts of drugs were concerned. It’s passing immediately helped to reduce populations in prison and highlighted the needs of drug users due to the fact that the drug court system wasn’t being used much by those who are eligible for relief under Prop 47. Because of jail overpopulation, this means many who are incarcerated are released early, so people arrested for drug possession would rather spend time in jail and be released early rather than go to rehab and have to deal with all the therapy and monitoring associated with it.
 
 It’s time for the U.S. to critically look into the decriminalization of drugs. In spite of the criminal aspect of drugs, it’s time to realize that our current way of dealing with it simply doesn’t work, and the cost of criminalizing it is increasing both monetarily and in prison overcrowding. It’s time to treat it as the health issue that it is.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
