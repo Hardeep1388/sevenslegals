@@ -94,3 +94,13 @@ While a criminal defense lawyer isn’t a therapist, they may help you deal with
 When it comes to evidence and witness statements, a criminal defense lawyer is better able to procure the necessary evidence and statements in order to help build your case. Witnesses may fear for their safety if speaking openly, but discussions with a criminal defense lawyer can help alleviate their fears in order to provide the testimony necessary to help clear your case.
 
 If you are faced with criminal charges and possible jail time, you need to consult a criminal defense lawyer as soon as possible. Contact Sevens Legal, APC today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
