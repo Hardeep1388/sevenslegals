@@ -1,9 +1,9 @@
 +++
-categories = "Blog "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "For a parent, having your child arrested and charged with an alleged crime is one of the most traumatic experiences you could have. Having an experienced Juvenile Defense Attorney can help turn a possible negative outcome into a positive one.   Juvenile Defense and Criminal Defense Attorneys A Criminal Defense Attorney who also specializes in"
-tags = ["Criminal Law", "Juvenile Crime"]
+tags = ["Juvenile Crime", "Blog"]
 title = "Juvenile Defense, School Expulsion, and Your Child"
 url = "/blog/criminal-attorney/juvenile-defense-school-expulsion-child/"
 
@@ -80,3 +80,13 @@ The second step in the expulsion process is for the student to appear in front o
 If the student and their family are not happy with the school board’s decision, they can appeal it to the county board. A Juvenile Defense Attorney can help you and your child through this difficult and traumatic process.
 
 If your child has been arrested for an alleged crime or faces school expulsion, you need the expertise of a Juvenile Defense Attorney such as Sevens Legal, APC. Contact[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
