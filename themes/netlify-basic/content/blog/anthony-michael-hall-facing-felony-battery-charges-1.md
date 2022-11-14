@@ -8,7 +8,7 @@ title = "Anthony Michael Hall Facing Felony Battery Charges"
 url = "/battery/assaultanthony-michael-hall-facing-felony-battery-charges/"
 
 +++
-[Anthony Michael Hall](https://www.sevenslegal.com/), the actor best known for his role in the ’80s teen movie “The Breakfast Club,” was recently arrested for felony battery of his neighbor
+[Anthony Michael Hall](https://www.sevenslegal.com/), the actor best known for his role in the ’80s teen movie “The Breakfast Club,” was recently arrested for felony battery of his neighbo
 
 ## Anthony Michael Hall Facing Felony Battery Charges
 
