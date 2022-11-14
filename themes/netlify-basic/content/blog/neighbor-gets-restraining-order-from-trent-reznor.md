@@ -1,9 +1,9 @@
 +++
-categories = "Blog "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Trent Reznor, founder of band Nine Inch Nails and noted composer, has filed for a restraining order against his neighbor. Trent Reznor Gets Restraining Order Against Neighbor 52-year-old Reznor has filed for a restraining order against his neighbor, claiming “there have been a series of escalating and increasingly hostile, threatening, irrational and harassing encounters.” Reznor "
-tags = ["Criminal Law"]
+tags = []
 title = "Neighbor Gets Restraining Order From Trent Reznor"
 url = "/blog/criminal-attorney/neighbor-gets-restraining-order-trent-reznor/"
 
@@ -49,3 +49,13 @@ Legal defenses that can be used if you are charged with violating a protective r
 3\. False Accusation: A person who has been issued a protected order may falsely accuse you of attempting to contact them in violation of the order. They may also try to arrange a meeting with you in order to make you violate a restraining order. These are some ways a protected person can try to falsely accuse you of violating their protective restraining order.
 
 If you have been accused of violating a protective restraining order, you need the expert legal assistance of[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"). Schedule a consultation today!
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
