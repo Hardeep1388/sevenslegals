@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "DNA gathering and testing is an important tool to ensure the innocent remain free and the guilty are punished. With the increased use of DNA testing, which began in 1986, it has helped to determine the guilt or innocence of perpetrators in capital cases. As of September 2011 in the US, 273 people have been "
-tags = ["Criminal Law", "Federal Crime"]
+tags = ["Federal Crime", "Blog", " Sexual Assault"]
 title = "DNA Testing and Exoneration"
 url = "/blog/dna-testing-exoneration/"
 
@@ -70,3 +70,15 @@ The DPIC’s innocence list lists Blair as the fourth person in 2008 to be exone
 DPIC’s innocence list is made up of former death row inmates acquitted of all the charges that was related to the crime that put them on death row. The charges were either dismissed, or they were granted complete pardons based on the new “evidence of innocence” from DNA testing.
 
 Dallas County District Attorney Craig Watkins has stated he intends to re-examine almost 40 death penalty convictions and if necessary would stop their executions in order to review the cases. After he exonerated an innocent man in the first week in his office, and exonerated 19 non-death penalty DNA-based cases in the county, he wanted to assert that no innocent person would be executed during his time in office. “I don’t want someone to be executed on my watch for something they didn’t do,” he said. Currently Texas leads all the other states with 414 executions, including 9 this year.
+
+If you’ve been wrongfully accused of a crime and would like to have it re-investigated, you need the expert advice and experience of a criminal defense lawyer such as Sevens Legal, APC. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
