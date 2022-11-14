@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law ,Federal Crime, State Crime"
+categories = "Blog  "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "During the presidential debates this week Donald Trump touted the tactics of “stop-and-frisk” as a way of combating urban crime. The controversial policing tactic was actually deemed unconstitutional by a federal judge. Below we discuss the stop-and-frisk laws that exist in California and what to do if you are stopped and arrested or held by"
+tags = ["Criminal Law", "Federal Crime", "State Crime"]
 title = "Donald Trump and Stop-and-Frisk Laws in California"
 url = "/blog/donald-trump-stopandfrisk-laws-california/"
 
