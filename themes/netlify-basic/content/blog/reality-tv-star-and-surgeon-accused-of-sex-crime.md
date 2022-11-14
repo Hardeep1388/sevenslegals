@@ -10,7 +10,7 @@ url = "/assault/reality-tv-star-and-surgeon-accused-of-sex-crime/"
 +++
 A Former Bravo reality TV star and his girlfriend have been charged with multiple counts of a sex crime. The women who have stepped forward so far allege the attractive couple got them drunk and lured them back to the surgeon’s apartment before making sexual advances.
 
-## Reality TV Star and Surgeon Accused of Sex Crime   
+## Reality TV Star and Surgeon Accused of Sex Crime
 
 Reality Star Robicheaux and Surgeon Riley Accused of Sex Crime
 
@@ -106,3 +106,15 @@ When faced with serious penalties or spending time in jail or prison, you need t
 ### Working with Sevens Legal, APC
 
 After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests.
+
+Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 494-3440. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
