@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A man attempting to evade Chula Vista police had to be rescued from his car after it crashed through a guardrail and over railroad tracks, plummeted down an embankment and burst into flames. Police Rescue Man Evading Police From His Burning Car Details of the chase were not immediately available, but video from the site "
-tags = ["Criminal Law", "DMV Law"]
+tags = ["DMV Law", "Blog", "DUI"]
 title = "Man Evading Police Rescued from Burning Car"
 url = "/blog/man-evading-police-rescued-burning-car/"
 
@@ -91,3 +91,13 @@ Additionally, if an officer has reasonable suspicion that you might be armed or 
 ### Working with a Criminal Defense Lawyer
 
 At the Law Offices of Sevens Legal, APC, we represent drivers of all kinds in the traffic courts of Southern California. We also advise drivers with commercial licenses who need help with violations ranging from speeding to DUI.Our law firm offers free consultations and flexible payment plans for drivers whose traffic violation problems have gotten out of hand. To discuss how our Los Angeles traffic violation lawyers can help you manage your traffic fines and resolve license suspension problems. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
