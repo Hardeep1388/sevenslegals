@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Drug Crime"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Each year, thousands of people return to San Diego County jail after committing a new drug crime while out on bail. Most often, that new crime is drug related. Drug Crimes Convicts Go Back to Jail According to data from the District Attorney’s Office almost 4,150 people were charged with committing a new felony after "
+tags = ["Criminal Law"]
 title = "Drug Crimes Land Past Convicts Back in Jail"
 url = "/blog/drug-crimes-land-past-convicts-back-in-jail"
 
