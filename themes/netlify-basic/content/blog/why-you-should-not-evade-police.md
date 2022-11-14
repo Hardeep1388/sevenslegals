@@ -1,5 +1,5 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "If you live in Los Angeles, you’ve probably gotten used to reports of high speed, or low speed police chases. They seemingly happen every single day. Evading arrest is a highly punishable crime that carries various sentences. If you are committed of evading arrest, you’ll want to know what punishment you face. And after reading "
@@ -115,3 +115,13 @@ Criminal charges can be complex, requiring much gathering of evidence and inform
 ### Working with Sevens Legal, APC
 
 If you or loved ones is accused or charged with any type of crime call us. Let us support and help you during this tough time. Our firm award winning attorneys provides hope and peace of mind. The Sevens Legal, APC office is located in both San Diego and Escondido. We have time and time again helped Southern California residents get their cases dismissed or penalties reduced.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
