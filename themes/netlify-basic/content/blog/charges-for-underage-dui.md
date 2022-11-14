@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,DUI,Juvenile crime"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "When an early Tuesday morning multiple car DUI accident occurred, resulting in five injuries, two critically, the alleged driver was only 19. Accidents from DUI The police were called just after midnight to the scene of the accident. The 19-year old driver and the 15-year old passenger had been traveling southbound on a four-lane highway "
+tags = ["Criminal Law", "DUI"]
 title = "Charges for Underage DUI"
 url = "/blog/charges-underage-dui/"
 
