@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law ,Drug Crimes"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "This past April, gang member Randy Alton Graves was convicted of conspiracy to distribute more than 50 grams of methamphetamine, conspiracy to distribute more than 1,000 kilograms of marijuana and possession with intent to distribute meth. He received a sentence of life in federal prison. Below we discuss what the addition of “conspiracy” means when "
+tags = ["Criminal Law"]
 title = "Conspiracy to Distribute and Other Drug Charges"
 url = "/blog/conspiracy-distribute-drug-charges/"
 
