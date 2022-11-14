@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "If you get pulled over for a “Marijuana DUI” you should know there’s no established way to tell when a driver is impaired by marijuana. No “Breathalyzer” for Marijuana Impairment When a person is pulled over for suspected alcohol impairment, an officer will do a field sobriety test which usually includes a Breathalyzer. Blow over"
-tags = ["Criminal Law", "Drug Crimes", "DUI", "Federal Crime"]
+tags = ["Drug Crimes", "DUI", "Federal Crime"]
 title = "Marijuana DUI"
 url = "/blog/criminal-attorney/marijuana-dui"
 
@@ -94,3 +94,13 @@ Although these laws are specific to California, the same DUI laws are similar in
 If you are arrested and face a conviction for DUI, you need to work with a criminal defense lawyer such as Sevens Legal, APC. Once you have discussed the specifics of your cast with a Sevens Legal, APC, attorney they will let you know about your case’s strengths and weaknesses, as well as the punishment you may face and your risk of conviction. Your defense attorney will also be able to discuss any plea deal as well as whether it would be best to move forward to a trial, taking into consideration your best interests.
 
 The criminal defense attorneys at Sevens Legal, APC, believe every client has a right to the best defense possible. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
