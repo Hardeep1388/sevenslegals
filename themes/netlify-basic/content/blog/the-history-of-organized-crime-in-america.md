@@ -1,8 +1,9 @@
 +++
-categories = "Blog Criminal Law ,Drug Crimes ,Federal Crime ,State Crime"
+categories = "Blog  "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The 20th century of American history has seen organized crime play out in movies and television, bringing their story into the consciousness of the nation. Older Americans who remember the beginnings of the TV age may remember Senator Estes Kefauver and the “Special Committee to Investigate Crime in Interstate Commerce” he had that repeatedly questioned "
+tags = ["Criminal Law", "Drug Crimes", "Federal Crime", "State Crime"]
 title = "The History of Organized Crime in America"
 url = "/blog/criminal-attorney/history-organized-crime-america/"
 
