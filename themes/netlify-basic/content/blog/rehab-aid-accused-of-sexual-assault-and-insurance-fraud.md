@@ -8,7 +8,7 @@ title = "Rehab Aid Accused of Sexual Assault and Insurance Fraud"
 url = "/assault/rehab-aid-accused-sexual-assault-insurance-fraud/"
 
 +++
-Prosecutors in Los Angeles have charged  self-described “rehab mogul” with multiple [sexual assault](https://www.sevenslegal.com/) offenses as well as defrauding insurers as part of a $175-million billing scheme.
+Prosecutors in Los Angeles have charged a self-described “rehab mogul” with multiple [sexual assault](https://www.sevenslegal.com/) offenses as well as defrauding insurers as part of a $175-million billing scheme.
 
 ## Rehab Aid Accused of Sexual Assault and Insurance Fraud
 
