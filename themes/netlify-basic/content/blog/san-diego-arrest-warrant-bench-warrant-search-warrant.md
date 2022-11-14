@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "We Only Handle Warrant Cases in San Diego, CA There are three types of warrants that can be issued against you in California: an arrest warrant, bench warrant, and search warrant. While they have some similarities, they are used for different reasons. Differences of Arrest Warrant, Bench Warrant, and Search Warrant   In California, both "
+tags = []
 title = "San Diego Arrest Warrant, Bench Warrant & Search Warrant"
 url = "/blog/arrest-warrant-bench-warrant-search-warrant/"
 
