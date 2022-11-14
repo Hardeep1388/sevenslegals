@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "It’s not uncommon for the San Diego Police Department to issue weekend DUI crackdowns. When this happens, it’s important for you to be aware of your rights. DUI and St. Patrick’s Day Typically over big weekends such as St. Patrick’s day weekend the San Diego County Sheriff’s Department will team up with the National Highway "
-tags = ["Criminal Law", "DUI"]
+tags = ["DUI", "Blog"]
 title = "St. Patrick’s Day and DUI"
 url = "/blog/saint-patricks-day-dui/"
 
@@ -74,3 +74,13 @@ Beating a DUI charge is never easy, even if you have a strong defense, which is 
 In DUI cases there can be numerous possible police errors, all of which can add up to helping reduce your charges. After reviewing the facts of your DUI case, our attorneys will concentrate on helping seek a dismissal or reduction by preparing a secure case that will cast doubt on any evidence the police may have obtained against you.
 
 The criminal defense lawyers at Sevens Legal, APC, believe every defendant deserves a zealous defense. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
