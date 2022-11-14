@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Over the past few years, hundreds of teens arrested at the California border have learned the hard way – drug trafficking is not the answer. Teens Being Recruited by Drug Smugglers In fiscal 2017, Customs and Border Protection arrested 84 juveniles smuggling narcotics across the San Diego border. Within the first six months of this "
-tags = ["Criminal Law", "Drug Crimes", "Federal Crime", "Juvenile Crime"]
+tags = ["Drug Crimes", "Federal Crime", "Juvenile Crime", "Blog"]
 title = "Drug Smugglers Recruiting Teens"
 url = "/blog/drug-smugglers-recruiting-teens/"
 
@@ -92,3 +92,15 @@ The first step in the expulsion process is for the student to appear at a hearin
 The second step in the expulsion process is for the student to appear in front of the school board. The school board usually only allows limited testimony, giving weight to the school district panel’s decision. If appropriate, your attorney may try to enter as much testimony as possible, including statements indicating the student’s remorse for the alleged offense. If an attorney is representing the student, they are then given an opportunity to give their closing arguments. After the school board has heard all the testimony they will deliberate and give their decision in approximately 24 hours or so.
 
 If the student and their family are not happy with the school board’s decision, they can appeal it to the county board. A Juvenile Defense Attorney can help you and your child through this difficult and traumatic process.
+
+If your child has been arrested for an alleged crime or faces school expulsion, you need the expertise of a Juvenile Defense Attorney such as Sevens Legal, APC. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
