@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "During a criminal trial a jury examines the evidence presented by the defense and prosecution to decide whether, “beyond a reasonable doubt,” a defendant committed a crime. A fair trial allows for the government and the defendant to argue their sides of the case. And a fair trial starts with the selection of a fair"
+tags = ["Criminal Law"]
 title = "The Steps of a Criminal Trial"
 url = "/blog/steps-criminal-tria"
 
