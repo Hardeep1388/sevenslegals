@@ -79,3 +79,15 @@ Legal defenses that can be used if you are charged with violating a protective r
 1. **Lack of Intent:** If a person is unaware that a protective order has been issued, and therefore violates it, they cannot be convicted of a violation. An example is if you accidentally have a chance encounter with somebody in a public place or at a social function who has had a protective restraining order issued against you.
 2. **Lack of Knowledge:** To be convicted of a restraining order violation, the court must prove you had knowledge of the protective order. If you are unaware that a protective order has been issued, you cannot be convicted for violating it.
 3. **False Accusation:** A person who has been issued a protected order may falsely accuse you of attempting to contact them in violation of the order. They may also try to arrange a meeting with you in order to make you violate a restraining order. These are some ways a protected person can try to falsely accuse you of violating their protective restraining order.
+
+   If you have been accused of violating a protective restraining order, you need the expert legal assistance of Sevens Legal, APC. Schedule a consultation today!
+
+   [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+   Criminal Defense Attorneys
+
+   3555 4th Ave.
+
+   San Diego, CA 92103
+
+   Phone: (619) 430-2355
