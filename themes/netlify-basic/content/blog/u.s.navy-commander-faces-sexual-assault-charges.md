@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Sexual Assault"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "In a recent sexual assault case against a former U.S. Navy Commander, the presiding judge dismissed what could be crucial evidence after deeming it inadmissible. The evidence? Video that captured the U.S. Navy Commander allegedly attempting to rape a colleague. Sexual Assault Charges Brought Against U.S. Navy Commander Former Commander John M. Neuhart II, 39, "
+tags = ["Criminal Law"]
 title = "U.S. Navy Commander Faces Sexual Assault Charges"
 url = "/blog/navy-commander-faces-sexual-assault-charges/"
 
