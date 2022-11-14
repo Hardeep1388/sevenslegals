@@ -1,8 +1,9 @@
 +++
-categories = "Blog, Criminal Law, DUI"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "With Halloween right around the corner, its the perfect time to remember that driving under the influence (i.e., “DUI“) or driving recklessly can end up with you in jail. CHP Press Release About Halloween and DUI Recently the California Highway Patrol released a press release to remind us of the following: Halloween is often recognized \n\n"
+tags = ["Criminal Law"]
 title = "Halloween DUI is Not Trick or Trea"
 url = "/blog/criminal-attorney/halloween-dui-trick-treat/"
 
