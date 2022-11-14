@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, DUI"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "As Labor Day approaches you’ll want to prepare for any celebrations – as well as the consequences of celebrating too much. Drunk Driving on Labor Day If you get pulled over for impaired driving, you’ll want to know what you are facing. Below we outline the steps of a DUI investigation in addition to what"
+tags = ["Criminal Law"]
 title = "Labor Day Drunk Driving"
 url = "/blog/criminal-attorney/labor-day-drunk-driving/"
 
