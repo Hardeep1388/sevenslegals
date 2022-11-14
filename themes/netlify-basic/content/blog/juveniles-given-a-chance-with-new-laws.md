@@ -1,8 +1,9 @@
 +++
-categories = "Blog, Criminal Law, Juvenile Crime"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The treatment of juveniles in the justice system has been debated for years. New laws in California will end life sentencing for children and teens and allow them the opportunity for parole after 25 years. New Laws Give Juveniles a Chance For juveniles entering the justice system at a young age, it can feel as"
+tags = ["Criminal Law", "Juvenile Crime"]
 title = "Juveniles Given a Chance with New Laws"
 url = "/blog/juveniles-given-chance-new-laws"
 
