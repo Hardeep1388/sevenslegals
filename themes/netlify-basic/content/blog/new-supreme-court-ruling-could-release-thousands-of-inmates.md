@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The Supreme Court ruling announced they will allow those inmates who were sentenced as individuals that are currently serving life-without-parole sentences will have a chance to argue their release from prison. New Supreme Court Ruling Could Release Thousands of Inmates The new ruling will expand a 2012 Supreme Court decision. That decision struck down mandatory "
-tags = []
+tags = ["Blog"]
 title = "New Supreme Court Ruling Could Release Thousands of Inmates"
 url = "/blog/supreme-court-ruling-release-thousands-inmates/"
 
@@ -87,4 +87,18 @@ A minor has the same constitutional rights in the Juvenile Court System as an ad
 
 One note to consider is the fact that school officials, counselors, and teachers are not required to advise a juvenile of their constitutional Miranda rights prior to their being questioned, unless they are doing the advising at the direction of the police.
 
-### Whenever a minor has been accused of a juvenile crime an attorney should be retained to represent them in all juvenile court proceedings. Unlike adult court, in juvenile court a minor is not entitled to have a trial by jury, instead they have an “adjudication” which is trial before a judge. The burden of proof is still the same for a minor as for an adult, which means there must be “proof beyond a reasonable doubt” that the alleged crime was committed by the minor. Due to the potential serious and life-altering circumstances of being accused of a crime, you should immediately consult a Juvenile Defense Attorney.
+Whenever a minor has been accused of a juvenile crime an attorney should be retained to represent them in all juvenile court proceedings. Unlike adult court, in juvenile court a minor is not entitled to have a trial by jury, instead they have an “adjudication” which is trial before a judge. The burden of proof is still the same for a minor as for an adult, which means there must be “proof beyond a reasonable doubt” that the alleged crime was committed by the minor. Due to the potential serious and life-altering circumstances of being accused of a crime, you should immediately consult a Juvenile Defense Attorney.
+
+If your child has been arrested for an alleged crime you need the expertise of a Juvenile Defense Attorney such as Sevens Legal, APC. Contact Sevens Legal, APC, today for a free consultation.
+
+### 
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
