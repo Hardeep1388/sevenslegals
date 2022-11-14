@@ -1,9 +1,9 @@
 +++
-categories = "Blog "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "San Francisco 49ers linebacker Aldon Smith can confirm the fact that DUI charges have lasting impacts on a person’s life. Aldon Smith Was Arrested for Vandalism, Hit and Run, and DUI After San Francisco 49ers linebacker Aldon Smith was arrested recently for allegedly driving under the influence (“DUI”), as well as hit and run and"
-tags = ["Criminal Law", "DUI"]
+tags = ["DUI"]
 title = "DUI Charges Have Lasting Impacts"
 url = "/blog/criminal-attorney/dui-charges-lasting-impacts/"
 
@@ -74,24 +74,34 @@ Although you can’t be forced to take a chemical blood test, if you refuse the 
 
 The Law Offices of Sevens Legal, APC, understands DUI cases inside and out, and they are committed to uncovering contradictory evidence, procedural errors, or violations of your rights. We determine the correct defense strategy based on the facts pertaining to your case. Sevens Legal, APC, handles all DUI cases such as:
 
-**First DUI Offense DUI:**Almost 80% of our clients who are first offenders have their cases resolved without a DUI conviction.
+\**First DUI Offense DUI:**Almost 80% of our clients who are first offenders have their cases resolved without a DUI conviction.
 
-**Underage DUI:**Underage juvenile DUI offenders have unique challenges relating to these charges, and respond according to these challenges.
+\**Underage DUI:**Underage juvenile DUI offenders have unique challenges relating to these charges, and respond according to these challenges.
 
-**Felony DUI:**Felony charges involving DUI require immediate attention. These DUI charges include injury or a 4th offense in a 10-year period.
+\**Felony DUI:**Felony charges involving DUI require immediate attention. These DUI charges include injury or a 4th offense in a 10-year period.
 
-**DUI and Drugs:**If the drugs are prescription drugs or banned (“street drugs”) substances, they carry the same penalty as a DUI involving alcohol.
+\**DUI and Drugs:**If the drugs are prescription drugs or banned (“street drugs”) substances, they carry the same penalty as a DUI involving alcohol.
 
-**Multiple DUI Charges:**These types of charges involve higher penalties depending on the number of times you have been convicted previously for DUI. Many times we can successfully reduce the statutory jail time by seeking treatment options.
+\**Multiple DUI Charges:**These types of charges involve higher penalties depending on the number of times you have been convicted previously for DUI. Many times we can successfully reduce the statutory jail time by seeking treatment options.
 
-**DUI Resulting in an Accident:**This also includes injury and/or death, or property damage. These require an experienced criminal defense attorney. These charges may involve possible time in a state prison, so it’s imperative to hire a skilled and diligent criminal defense attorney.
+\**DUI Resulting in an Accident:**This also includes injury and/or death, or property damage. These require an experienced criminal defense attorney. These charges may involve possible time in a state prison, so it’s imperative to hire a skilled and diligent criminal defense attorney.
 
-**Boating and DUI:**Operating a boat while under the influence of drugs or alcohol carry the same negative consequences as driving a vehicle and being intoxicated.
+\**Boating and DUI:**Operating a boat while under the influence of drugs or alcohol carry the same negative consequences as driving a vehicle and being intoxicated.
 
-**DMV DUI Hearing:**It is imperative to act promptly in order to protect driving privileges. The hearing must be requested within 10 days of your arrest, otherwise the DMV will automatically suspend your driver’s license.
+\**DMV DUI Hearing:**It is imperative to act promptly in order to protect driving privileges. The hearing must be requested within 10 days of your arrest, otherwise the DMV will automatically suspend your driver’s license.
 
 Beating a DUI charge is never easy, even if you have a strong defense, which is why it’s important to hire an experienced DUI Defense Attorney.
 
 In DUI cases there can be numerous possible police errors, all of which can add up to helping reduce your charges. After reviewing the facts of your DUI case, our attorneys will concentrate on helping seek a dismissal or reduction by preparing a secure case that will cast doubt on any evidence the police may have obtained against you.
 
 The criminal defense lawyers at Sevens Legal, APC, believe every defendant deserves a zealous defense. Contact[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
