@@ -3,11 +3,13 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "“Homicide” is the term used when one person kills another person. Homicides fall into two different distinctions – manslaughter and murder. Differences Between Manslaughter and Murder When dealing with the difference between “manslaughter” and “murder” it depends on the state of mind of the killer as well as the various degrees relating to murder. Definition "
-tags = ["Blog"]
+tags = ["Blog", "Criminal Law"]
 title = "The Differences Between Manslaughter and Murder"
 url = "/assault/difference-murder-manslaughter/"
 
 +++
+“Homicide” is the term used when one person kills another person. Homicides fall into two different distinctions – [manslaughter and murder](https://www.sevenslegal.com/homicide-attorney-san-diego/ "Sevens Legal, APC").
+
 ## Differences Between Manslaughter and Murder
 
 When dealing with the difference between “manslaughter” and “[murder](https://www.sevenslegal.com/murder-lawyer-san-diego/ "Sevens Legal, APC")” it depends on the state of mind of the killer as well as the various degrees relating to murder.
@@ -26,6 +28,14 @@ A “heat of passion” is defined as a killing resulting from a person being pr
 
 Basically, a jury must decide the person was provoked to the point where he was acting under intense emotion instead of pre-meditated anger.
 
-### 
-
 If you have been arrested and accused of [murder or manslaughter](https://www.sevenslegal.com/ "Sevens Legal, APC") you need the expert advice of a criminal defense attorney such as Sevens Legal, APC. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
