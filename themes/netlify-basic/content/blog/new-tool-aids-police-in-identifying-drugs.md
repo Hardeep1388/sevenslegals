@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "With just a small scanner, and in less than a minute, San Diego police are able to determine just what kind of drugs they are looking at. The new tool is aiding officers in determining what they are dealing with without ever having to open a package. Identifying Drugs Has a New Tool for Police \n\n"
-tags = ["Criminal Law"]
+tags = ["Blog"]
 title = "New Tool Aids Police in Identifying Drugs"
 url = "/blog/new-tool-aids-police-in-identifying-drugs/"
 
@@ -68,3 +68,13 @@ Driving under the influence of marijuana is a crime in California under Vehicle 
 ### Experience that matters
 
 At Sevens Legal you will find a knowledgeable group of attorneys that will help with any drug related charge(s) you may be facing. Sevens Legal has decades of experience in criminal defense and great criminal defense attorneys that will support you through the technical aspects of law and offer guidance regarding your case. If you find yourself in a position where you have been charged with a drug related crime, please call Sevens Legal for a free consultation and allow us to begin working on your behalf.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
