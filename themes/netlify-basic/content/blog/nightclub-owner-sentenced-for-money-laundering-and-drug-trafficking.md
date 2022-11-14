@@ -1,8 +1,9 @@
 +++
-categories = "Blog, Criminal Law ,Drug Crimes"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A Pico Rivera nightclub owner has been sentenced to prison for laundering money as part of a drug-trafficking ring. Edgar Fragoso Sentenced in Money Laundering and Drug Trafficking Case According to authorities, Edgar Fragoso, the owner and general manager of El Rodeo nightclub has been arrested for his involvement in a drug-trafficking ring operating throughout "
+tags = ["Criminal Law"]
 title = "Nightclub Owner Sentenced for Money Laundering and Drug Trafficking"
 url = "/blog/nightclub-owner-sentenced-money-laundering-drug-trafficking/"
 
