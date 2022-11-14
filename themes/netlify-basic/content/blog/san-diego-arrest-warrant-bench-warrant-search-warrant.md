@@ -1,5 +1,5 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "We Only Handle Warrant Cases in San Diego, CA There are three types of warrants that can be issued against you in California: an arrest warrant, bench warrant, and search warrant. While they have some similarities, they are used for different reasons. Differences of Arrest Warrant, Bench Warrant, and Search Warrant   In California, both "
@@ -16,7 +16,7 @@ There are three types of warrants that can be issued against you in California:[
 
 Differences of Arrest Warrant, Bench Warrant, and Search Warrant
 
- In California, both arrest, bench, and search warrants are court orders issued by a court or judge. Police can go to a person’s last known address in order to find them. Once law enforcement finds the person who the warrant has been issued for, they can immediately arrest and jail them so they can appear in the court that issued the arrest warrant. Having an experienced criminal attorney can assist you with having the warrant recalled or quashed.
+In California, both arrest, bench, and search warrants are court orders issued by a court or judge. Police can go to a person’s last known address in order to find them. Once law enforcement finds the person who the warrant has been issued for, they can immediately arrest and jail them so they can appear in the court that issued the arrest warrant. Having an experienced criminal attorney can assist you with having the warrant recalled or quashed.
 
 As a result of arrest and bench warrants, police can hold you in custody until you have your next hearing in court. Although they are issued for different circumstances, failure to comply results in serious consequences. But that’s where the similarities of an arrest warrant and bench warrant end.
 
@@ -82,3 +82,15 @@ An attorney can request that a beach warrant be recalled. If the warrant was iss
 A bench warrant can also be issued if a judge feels the person is in contempt of court, possibly because of their failure to appear at the time and place mandated for their appearance. Bench warrants are typically issued in civil or criminal court proceedings.
 
 Many times a bench warrant is issued for a person who has intentionally avoided their court appearance in order to escape the possible consequences of being found guilty. If on bail, the person will forfeit their bail and have a higher bail amount set that they must pay or else they will be re-arrested. Normally the person is just held in custody. If there’s a bench warrant out for their arrest and they are stopped by an enforcement officer, they can remain in jail until their hearing is held. The hearing may set a new bail amount with new conditions and a new date to appear in court. Many times in this situation the court will declare them to be a flight risk and will order them to remain in jail without bail until further notice.
+
+If you discover that you have an arrest warrant or bench warrant issued against you or a loved one, it is imperative to contact and speak with an experienced criminal defense attorney such as Sevens Legal, APC, as quickly as possible. We can help you fight for the best possible outcome for your case. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
