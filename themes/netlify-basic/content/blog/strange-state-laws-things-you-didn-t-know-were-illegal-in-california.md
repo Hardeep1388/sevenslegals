@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Welcome to the California edition of Strange State Laws! The purpose of this series of posts is lots a fun, and a little education. If you know of any wacky laws that should be added to this list, let us know and look forward to our future posts. Strange Law by City: Carmel: In Carmel"
-tags = ["Criminal Law"]
+tags = ["Blog"]
 title = "Strange State Laws: Things You Didn’t Know Were Illegal in California"
 url = "/blog/criminal-attorney/strange-state-laws-illegal-california/"
 
