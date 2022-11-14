@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, DUI"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "It’s not uncommon for the San Diego Police Department to issue weekend DUI crackdowns. When this happens, it’s important for you to be aware of your rights. DUI and St. Patrick’s Day Typically over big weekends such as St. Patrick’s day weekend the San Diego County Sheriff’s Department will team up with the National Highway "
+tags = ["Criminal Law", "DUI"]
 title = "St. Patrick’s Day and DUI"
 url = "/blog/saint-patricks-day-dui/"
 
