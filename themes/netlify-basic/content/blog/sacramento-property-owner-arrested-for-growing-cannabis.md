@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Drug Crimes"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A Sacramento property owner is now facing criminal charges and $2 million in civil penalties for illegally growing cannabis. Property Owner Growing Cannabis Arrested in Sacramento According to city officials Lisa Ung, 63, allegedly maintained eight homes across Sacramento for the purpose of growing more than 4,000 marijuana plants. Ung was arraigned on five counts "
+tags = ["Criminal Law"]
 title = "Sacramento Property Owner Arrested for Growing Cannabis"
 url = "/blog/sacramento-property-owner-arrested-growing-cannabis/"
 
