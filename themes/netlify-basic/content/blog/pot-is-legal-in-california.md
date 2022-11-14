@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Come January 1, 2018, pot will be legal for adult-use in California. As a result of the passing of Proposition 64, the state will be opening its dispensaries to the general public. California Legalizes Pot The fact that marijuana will be legal in California is something that even state regulators are excited for. “I know "
-tags = ["Criminal Law"]
+tags = []
 title = "Pot is Legal in California"
 url = "/blog/pot-legal-california/"
 
@@ -96,4 +96,14 @@ Sevens Legal is well versed in a variety of drug charges that you may be convict
 
 After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests.
 
-####
+#### Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 494-3440. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
