@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Drug Crimes,Federal Crime,Juvenile Crime"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Over the past few years, hundreds of teens arrested at the California border have learned the hard way – drug trafficking is not the answer. Teens Being Recruited by Drug Smugglers In fiscal 2017, Customs and Border Protection arrested 84 juveniles smuggling narcotics across the San Diego border. Within the first six months of this "
+tags = ["Criminal Law", "Drug Crimes", "Federal Crime", "Juvenile Crime"]
 title = "Drug Smugglers Recruiting Teens"
 url = "/blog/drug-smugglers-recruiting-teens/"
 
