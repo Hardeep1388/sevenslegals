@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A lawsuit has been brought against Jim Carrey that alleges that used his “immense wealth and celebrity status” to obtain and distribute deadly substances to his girlfriend Cathriona White. White was found dead of an apparent suicidal overdose last year. Drug Charges Against Jim Carrey? The lawsuit has been brought by White’s estranged husband, Mark "
-tags = ["Criminal Law", "Drug Crimes"]
+tags = ["Drug Crimes"]
 title = "Drug Charges for Jim Carrey?"
 url = "/blog/drug-charges-jim-carrey/"
 
@@ -98,3 +98,12 @@ Drug charges can stem from minor to more serious offenses and at Sevens legal yo
 * Drug Trafficking or smuggling
 * Juvenile or student drug offenses
 * Unauthorized possession or sale of prescription drugs
+* [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+  Criminal Defense Attorneys
+
+  3555 4th Ave.
+
+  San Diego, CA 92103
+
+  Phone: (619) 430-2355
