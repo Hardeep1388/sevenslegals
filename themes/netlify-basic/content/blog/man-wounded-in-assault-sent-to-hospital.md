@@ -8,7 +8,7 @@ title = "Man Wounded in Assault Sent to Hospital"
 url = "/assault/man-wounded-assault-hospital/"
 
 +++
-A man wounded during an attack in Oceanside was sent to the hospital in critical condition. It’s still unclea what the [assault](http://sevenslegal.com/) was about and who it involved.
+A man wounded during an attack in Oceanside was sent to the hospital in critical condition. It’s still unclear what the [assault](http://sevenslegal.com/) was about and who it involved.
 
 ## Man Wounded in Assault Sent to Hospital
 
