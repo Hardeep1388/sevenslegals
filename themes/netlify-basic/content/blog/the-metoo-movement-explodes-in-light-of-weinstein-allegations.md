@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Sexual Assault"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "This past week, following the allegations of sexual misconduct by Harvey Weinstein, a new kind of movement emerged: The “#MeToo” Movement. Weinstein Allegations Make #MeToo Movement Explode Social media feeds like Facebook and Twitter have been filled with the #MeToo hashtag. The hashtag serves as a way of survivors to share their own personal stories "
+tags = ["Criminal Law"]
 title = "The #MeToo Movement Explodes in Light of Weinstein Allegations"
 url = "/blog/metoo-movement-explodes-light-weinstein-allegations/"
 
