@@ -8,7 +8,7 @@ title = "Harvey Weinstein Fired After Sexual Misconduct Allegations"
 url = "/assault/harvey-weinstein-fired-sexual-misconduct-allegations/"
 
 +++
-Co-founder of The Weinstein Company, [Harvey Weinstein](http://sevenslegal.com/), was recently fired after allegations of [sexual misconduct](http://sevenslegal.com/).
+Co-founder of The Weistein Company, [Harvey Weinstein](http://sevenslegal.com/), was recently fired after allegations of [sexual misconduct](http://sevenslegal.com/).
 
 ## Harvey Weinstein Fired After Sexual Misconduct Allegations
 
