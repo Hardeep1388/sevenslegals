@@ -3,7 +3,7 @@ categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Whether it be criminal charges, or simply being pulled over for speeding, chances are if you haven’t had an interaction with a police officer, at some point you will. It can be scary, and often feel as if you are assumed guilty – even for minor infractions. Because of that, it’s important to know that"
-tags = ["Criminal Law"]
+tags = ["Criminal Law", "Sexual Assault"]
 title = "How To Handle Police Interactions"
 url = "/blog/criminal-attorney/handle-police-interactions/"
 
