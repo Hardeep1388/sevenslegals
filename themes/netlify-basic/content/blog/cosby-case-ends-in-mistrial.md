@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, Sexual Assault"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "After years of facing allegations, comedian Bill Cosby is going to court. If convicted, Cosby, who is 79, faces going to prison for the rest of his life. Cosby in Court to Face Sexual Allegations Bill Cosby’s sexual assault trail began on June 5, 2017. Previous allegations have not been able to be prosecuted due "
+tags = ["Criminal Law", "Sexual Assault"]
 title = "Cosby Case Ends in Mistrial"
 url = "/blog/cosby-case-ends-mistrial/"
 
