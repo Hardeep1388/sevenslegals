@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "For the third straight year, violent crime has increased in Los Angeles, as the result of a growing amount of homicides and gang-related shootings, in addition to a growing homeless population. Los Angeles Violent Crime Has Increased According to statistics from the Los Angeles Police Department released at the end of 2016, robberies were up "
+tags = ["Criminal Law"]
 title = "Violent Crime Has Increased in Los Angeles"
 url = "/blog/violent-crime-increased-los-angeles/"
 
