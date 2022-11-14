@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Recently, California lawmakers agreed to a bill that would close a loophole in the state’s sexual assault laws. Sexual Assault Laws in California 20-year-old Stanford student, Brock Turner, was recently convicted of sexual assault on an unconscious woman behind a dumpster in early 2015. During the Turner case, it came to public attention that under "
-tags = ["Sexual Assault", "Criminal Law"]
+tags = ["Sexual Assault", "Criminal Law", "Blog"]
 title = "An Update to California’s Sexual Assault Laws"
 url = "/blog/assault/update-californias-sexual-assault-laws/"
 
