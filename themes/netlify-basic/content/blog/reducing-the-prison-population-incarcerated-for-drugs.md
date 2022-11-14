@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
-date = ""
+categories = "Criminal Law"
+date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "Drugs have been a part of all areas of American culture for years, including social and political. A large segment of the population seems to spend their time on the desire to get high! From looking at history, this isn’t a recent occurrence. As long as people have existed, drugs have also existed as a "
-tags = ["Criminal Law", "Drug Crimes", "Federal Crime"]
+tags = ["Drug Crimes", "Federal Crime", "Blog", " State Crime"]
 title = "Reducing the Prison Population Incarcerated for Drugs"
 url = "/blog/reducing-prison-population-incarcerated-drugs/"
 
@@ -57,3 +57,13 @@ Many arguments and ideas have been discussed about the decriminalization of mari
 Due to the high demand in the U.S. for drugs, Mexico is deep in a state of crisis. The drug market in the U.S. is driven by demand, with millions of people demanding illegal drugs. Due to the fact that production and supply of some of these drugs is illegal, a huge market for them exists, introducing violent crime cartels that are way too eager to exploit the demand.
 
 With the American political climate today, the decriminalization of drugs appears to be extremely unlikely, even if it was considered. The treatment of drug addiction in prisons may have a chance of impacting the recidivism rate and help to reduce prison overcrowding. Unfortunately, with the lack of funding, this may not be able to be accomplished. What is more likely will be the continuation of the current piecemeal, stop-gap approach that is currently being used. Perhaps with the current civil unrest throughout America, it will lead to some genuine reforms dealing with the incarceration of illegal drug offenders.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
