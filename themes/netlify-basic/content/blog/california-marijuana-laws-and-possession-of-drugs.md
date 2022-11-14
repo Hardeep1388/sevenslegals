@@ -1,8 +1,9 @@
 +++
-categories = "Blog Criminal Law Drug Crimes Federal Crime State Crime"
+categories = "Blog  "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "California’s laws pertaining to marijuana are complex and vast from legal possession for medical justifications to criminalized sales, including the cultivation as well as the importing of the plant.   The War for Marijuana Over the past few years there has been a war between federal and state governments about the legal and illegal use \n\n"
+tags = ["Criminal Law ", "Drug Crimes ", "Federal Crime", "State Crime"]
 title = "California Marijuana Laws and Possession of Drugs"
 url = "/blog/criminal-attorney/california-marijuana-laws-drug-possession/3"
 
