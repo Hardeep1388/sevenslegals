@@ -3,7 +3,7 @@ categories = " Burglary"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "The holiday season is often the crime season. If you’ve been accused of committing a crime this holiday season, you’ll want to know just what you’ll need to avoid jail time next year. The Holidays Can Be a Season of Crime The most common crimes that occur during the holiday season are the following: Identity "
-tags = ["Blog"]
+tags = ["Blog", "Criminal Law"]
 title = "The Holiday Crime Season"
 url = "/burglary/holiday-crime-season/"
 
