@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "A 17-year-old from San Diego was shot during a routine traffic stop after police identified he was driving a stolen car. Shooting Results from Alleged Theft of Car The suspect was stopped during a routine traffic stop when police identified the car he was driving as stolen. According to Lt. Jeff Davis, “Detectives transitioned to "
-tags = ["Criminal Law", "Juveline Crime"]
+tags = ["Juveline Crime", "Blog", "Theft"]
 title = "Alleged Car Theft Leads to Shooting"
 url = "/blog/alleged-car-theft-leads-to-shooting/"
 
@@ -11,8 +11,6 @@ url = "/blog/alleged-car-theft-leads-to-shooting/"
 A 17-year-old from San Diego was shot during a routine traffic stop after police identified he was driving a stolen car.
 
 ## Alleged Car Theft Leads to Shooting
-
-Shooting Results from Alleged Theft of Car
 
 The suspect was stopped during a routine traffic stop when police identified the car he was driving as stolen.
 
@@ -92,3 +90,15 @@ This is where you’ll also get notices of future hearings, including dates for 
 4\. Readiness. The “readiness hearing” is when both parties let the court know their “readiness” for trial. This step is scheduled anywhere from several days to several weeks before the beginning of trial. During this step your case can be either continued or resolved.
 
 5\. Trial. Although most cases are resolved beforehand, if your case goes to trial you can decide whether you want a trail by jury, where a jury decides your case, or a bench trial, where a judge will decide your case.
+
+If you have been arrested and accused of theft, it’s imperative that you contact a criminal defense attorney such as Sevens Legal, APC. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
