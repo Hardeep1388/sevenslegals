@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Drug Crimes,Federal Crime,State Crime"
+categories = "Blog"
 date = ""
 pfd_file = ""
 summary = "Drugs have been a part of all areas of American culture for years, including social and political. A large segment of the population seems to spend their time on the desire to get high! From looking at history, this isn’t a recent occurrence. As long as people have existed, drugs have also existed as a "
+tags = ["Criminal Law", "Drug Crimes", "Federal Crime"]
 title = "Reducing the Prison Population Incarcerated for Drugs"
 url = "/blog/reducing-prison-population-incarcerated-drugs/"
 
