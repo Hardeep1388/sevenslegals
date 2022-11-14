@@ -8,7 +8,7 @@ title = "California’s Domestic Violence"
 url = "/battery/californias-domestic-violence/"
 
 +++
-[Domestic violence](https://www.sevenslegal.com/san-diego-domestic-violence-lawyer/ "San Diego Domestic Violence Lawyer") maintains a high place on the hot topics list in national conversations. Players in professional sports add to the multiple stories every day in the news for the public to scrutinize. Ordinary citizens are also in the news, committing acts of domestic violence against their partners. While some victims go unnoticed, others pay the ultimate price by losing their lives when domestic violence goes unchecked. Public officials, responsible for the enforcement of domestic violence laws, frequently go about business as usual, overwhelmed by the daily exposure to the domestic violence resulting from the fundamental lack of respect people have to the ones who are closest to them.
+[Domestic violence](https://www.sevenslegal.com/san-diego-domestic-violence-lawyer/ "San Diego Domestic Violence Lawyer") maintains a high place o the hot topics list in national conversations. Players in professional sports add to the multiple stories every day in the news for the public to scrutinize. Ordinary citizens are also in the news, committing acts of domestic violence against their partners. While some victims go unnoticed, others pay the ultimate price by losing their lives when domestic violence goes unchecked. Public officials, responsible for the enforcement of domestic violence laws, frequently go about business as usual, overwhelmed by the daily exposure to the domestic violence resulting from the fundamental lack of respect people have to the ones who are closest to them.
 
 ## California’s Domestic Violence
 
