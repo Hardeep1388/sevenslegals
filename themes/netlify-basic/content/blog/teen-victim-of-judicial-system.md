@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A New York City teen is stuck in limbo after a procedural issue has landed him behind bars. New York City Teen Stuck in Judicial System Pedro Hernandez, 18, of the Bronx, is a standout student with a full college scholarship. The only problem? He’s found himself in jail while an investigation is waged against "
-tags = ["Criminal Law"]
+tags = ["Blog"]
 title = "Teen Victim of Judicial System"
 url = "/blog/teen-victim-judicial-system/"
 
@@ -107,3 +107,17 @@ So what is the best way to locate a good criminal defense attorney that can help
 Green suggests that parents ask their friends and colleagues to get referrals. You can also contact and consult your local state bar association. You should locate a criminal defense attorney in your state that has experience handling criminal defense issues.
 
 Once you have a list of names, call and request to interview them. Make sure you ask any and all questions to help make a decision on which one would be best. Some questions include how much their services cost (which can vary), who handles the work, and what’s their philosophy when it comes to teenagers’ rights and the law.
+
+“You may or may not end up being friends afterwards, but that’s not as important as feeling secure that your attorney is approaching the situation in a way that feels right for you.”
+
+If you’re in the market for a criminal defense attorney for your teenager, feel free to contact Sevens Legal, APC, to answers all your questions. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
