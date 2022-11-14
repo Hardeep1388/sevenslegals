@@ -3,11 +3,12 @@ categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The Supreme Court ruling announced they will allow those inmates who were sentenced as individuals that are currently serving life-without-parole sentences will have a chance to argue their release from prison. New Supreme Court Ruling Could Release Thousands of Inmates The new ruling will expand a 2012 Supreme Court decision. That decision struck down mandatory "
+tags = []
 title = "New Supreme Court Ruling Could Release Thousands of Inmates"
 url = "/blog/supreme-court-ruling-release-thousands-inmates/"
 
 +++
-The Supreme Court ruling announced they will allow those [inmates](https://www.sevenslegal.com/) who were sentenced as individuals that are currently serving life-without-parole sentences will have a chance to argue their release from prison.
+The Supreme Court ruling announced they will allow those [inmates](https://www.sevenslegal.com/) who were sentenced  individuals that are currently serving life-without-parole sentences will have a chance to argue their release from prison.
 
 ## New Supreme Court Ruling Could Release Thousands of Inmates
 
