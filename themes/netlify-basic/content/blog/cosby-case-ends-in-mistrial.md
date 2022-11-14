@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "After years of facing allegations, comedian Bill Cosby is going to court. If convicted, Cosby, who is 79, faces going to prison for the rest of his life. Cosby in Court to Face Sexual Allegations Bill Cosby’s sexual assault trail began on June 5, 2017. Previous allegations have not been able to be prosecuted due "
-tags = ["Criminal Law", "Sexual Assault"]
+tags = ["Sexual Assault"]
 title = "Cosby Case Ends in Mistrial"
 url = "/blog/cosby-case-ends-mistrial/"
 
@@ -61,3 +61,13 @@ When faced with serious penalties or spending time in jail or prison, you need t
 ### Working with Sevens Legal, APC
 
 After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests. Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 494-3440. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
