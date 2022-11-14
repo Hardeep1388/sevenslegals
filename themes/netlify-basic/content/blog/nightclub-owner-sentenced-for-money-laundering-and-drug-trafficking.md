@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A Pico Rivera nightclub owner has been sentenced to prison for laundering money as part of a drug-trafficking ring. Edgar Fragoso Sentenced in Money Laundering and Drug Trafficking Case According to authorities, Edgar Fragoso, the owner and general manager of El Rodeo nightclub has been arrested for his involvement in a drug-trafficking ring operating throughout "
-tags = ["Criminal Law"]
+tags = ["Blog'", "Drug Crime"]
 title = "Nightclub Owner Sentenced for Money Laundering and Drug Trafficking"
 url = "/blog/nightclub-owner-sentenced-money-laundering-drug-trafficking/"
 
@@ -87,3 +87,13 @@ Being convicted of any drug crime is a serious matter. Most drug charges can car
 After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests.
 
 Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 430-2355. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
