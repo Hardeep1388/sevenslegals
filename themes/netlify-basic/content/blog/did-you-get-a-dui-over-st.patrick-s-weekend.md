@@ -1,8 +1,9 @@
 +++
-categories = "Blog Criminal Law"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "St. Patrick’s Day is a big day for cops to hand out a DUI, but if you find yourself driving home from a St. Patrick’s Day celebration with those police lights behind you, you’re going to want to hire a DUI attorney as soon as possible. Celebrating St. Patrick’s Weekend With a DUI? Typically over "
+tags = ["Criminal Law"]
 title = "Did You Get a DUI Over St. Patrick’s Weekend?"
 url = "/blog/criminal-attorney/dui-st-patricks-weekend/"
 
