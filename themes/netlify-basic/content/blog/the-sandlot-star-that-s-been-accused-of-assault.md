@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "According to authorities, Mike Vitar, who played Benny “The Jet” Rodriguez from the 1993 movie, “The Sandlot” has been charged with a Halloween night assault. The Incident of Assault Vitar, who is now a Los Angeles firefighter, along with two other men – fellow firefighter Eric Carpenter, and Thomas Molnar have been accused with assaulting "
-tags = ["Battery", "Blog"]
+tags = ["Battery", "Blog", "Criminal Law"]
 title = "“The Sandlot” Star That’s Been Accused of Assault"
 url = "/assault/sandlot-star-accused-assault/"
 
@@ -125,3 +125,13 @@ Assault and battery charges can be complex, requiring much gathering of evidence
 ### Working with Sevens Legal, APC
 
 If you or loved ones is accused or charged with any type of crime call us. Let us support and help you during this tough time. Our firm award winning attorneys provides hope and peace of mind. The Sevens Legal, APC office is located in both San Diego and Escondido. We have time and time again helped Southern California residents get their cases dismissed or penalties reduced.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
