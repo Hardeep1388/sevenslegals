@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The woman charged with murder and driving under the influence (“DUI”) has pleaded not guilty. The March 29 crash for which she is accused killed three teenagers. DUI Crash Killed Three – Duarte Pleading Not Guilty Bani Duarte, 27, was charged with three counts of murder and one count of driving under the influence causing "
-tags = ["Criminal Law"]
+tags = ["Blog", "DUI"]
 title = "Pleading Not Guilty for DUI Crash that Killed Three"
 url = "/blog/pleading-not-guilty-for-dui-crash-that-killed-three/"
 
@@ -83,3 +83,15 @@ Although these laws are specific to California, the same DUI laws are similar in
 ### Working with Sevens Legal, APC
 
 If you are arrested and face a conviction for DUI, you need to work with a criminal defense lawyer such as Sevens Legal, APC. Once you have discussed the specifics of your cast with a Sevens Legal, APC, attorney they will let you know about your case’s strengths and weaknesses, as well as the punishment you may face and your risk of conviction. Your defense attorney will also be able to discuss any plea deal as well as whether it would be best to move forward to a trial, taking into consideration your best interests.
+
+The criminal defense attorneys at Sevens Legal, APC, believe every client has a right to the best defense possible. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
