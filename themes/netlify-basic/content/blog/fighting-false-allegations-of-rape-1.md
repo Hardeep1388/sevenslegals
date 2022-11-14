@@ -72,3 +72,15 @@ As a defendant, you will need to closely work with your criminal defense attorne
 ### Working with a Sevens Legal, APC, Criminal Defense Attorney
 
 After you and your criminal defense attorney discuss specifics of the rape allegations against you, you’ll learn what your case’s strengths and weaknesses are, including risks about the possible conviction and punishment you may face if found guilty. Your criminal defense attorney will be able to negotiate a plea deal for you or decide whether the best course is to move forward to trial. Your criminal defense attorney will constantly work to ensure your best interests are met.
+
+The criminal defense attorneys at Sevens Legal, APC, will use our experience to zealously defend you against your rape allegations. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
