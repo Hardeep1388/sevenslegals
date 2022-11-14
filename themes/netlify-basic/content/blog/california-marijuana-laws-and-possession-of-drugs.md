@@ -1,9 +1,9 @@
 +++
-categories = "Blog  "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "California’s laws pertaining to marijuana are complex and vast from legal possession for medical justifications to criminalized sales, including the cultivation as well as the importing of the plant.   The War for Marijuana Over the past few years there has been a war between federal and state governments about the legal and illegal use \n\n"
-tags = ["Criminal Law ", "Drug Crimes ", "Federal Crime", "State Crime"]
+tags = ["Drug Crimes ", "Federal Crime", "State Crime", "Blog"]
 title = "California Marijuana Laws and Possession of Drugs"
 url = "/blog/criminal-attorney/california-marijuana-laws-drug-possession/3"
 
@@ -80,3 +80,13 @@ In California most drug charges are felonies. If convicted of a felony, you may 
 There are numerous ways to fight drug charges in order to get an early disposition using diversion and alternative sentencing agreements which may permit a case to be dismissed following drug counseling, a drug treatment program, or drug treatment classes.
 
 If a drug charge is dismissed, it means the person does not need to disclose a possible criminal conviction on a job or employment application, thus saving them from a lifelong stigma, as well as embarrassment, of a drug conviction. If you have been arrested or accused of[drug possession](https://www.sevenslegal.com/)for prescription pills, marijuana, concentrated cannabis, medical marijuana, Ecstasy, heroin, methamphetamine, heroin, or Ecstasy, you need the expert criminal defense attorneys at Sevens Legal, APC, on your side. Contact[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
