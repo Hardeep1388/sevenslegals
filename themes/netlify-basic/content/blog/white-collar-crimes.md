@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "in the 1930’s the term “White Collar Crime” was first used to refer to non-violent crimes that were being prosecuted. Frequently crimes were charged as a white collar crime if a more serious, violent crime, wasn’t able to be proved. Over the years several crimes have fallen into this category.   What Are White Collar"
-tags = ["Criminal Law", "State Crime", "Federal Crime"]
+tags = ["State Crime", "Federal Crime", "Blog", " White Collar Crime"]
 title = "White Collar Crimes"
 url = "/blog/white-collar-crimes/"
 
@@ -120,3 +120,13 @@ Perjury has recently been classified as a white collar crime. It’s committed w
 ### White Collar Crime of Tax Evasion or Tax Fraud
 
 The crime of tax evasion is when somebody intentionally fails to claim property or income of a certain value on their income tax return. This crime can be prosecuted either at the Federal or state level, and can result in lengthy prison sentences if convicted. If you think you’re being investigated for a white collar crime, or have been arrested and accused of a white collar crime, it’s imperative that you retain a white collar crime criminal defense attorney such as Sevens Legal, APC. Contact[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
