@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "The life of former National Football League star Aaron Hernandez, convicted of murder, has taken a detour to jail. Formerly a tight end with the New England Patriots, he has been convicted of first-degree murder for shooting and killing Odin L. Lloyd. Hernandez, 25, allegedly killed Lloyd after he made the fatal error of angering"
-tags = ["Battery", "Blog"]
+tags = ["Battery", "Blog", "Criminal Law"]
 title = "First-Degree Murder Conviction for NFL Star Aaron Hernandez"
 url = "/assault/firstdegree-murder-conviction-nfl-star-aaron-hernandez/"
 
@@ -93,3 +93,13 @@ In addition to the conviction for Lloyd’s murder, Hernandez faces a double-mur
 Safiro’s father, Salvador Furtado, has stated that he wants the alleged killer of his son pay, “Justice in America is very strong. I believe in justice in America.
 
 If you’ve been accused of manslaughter or homicide, you need an expert criminal defense attorney who will ensure your protection from these consequences, such as Sevens Legal, APC. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
