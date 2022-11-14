@@ -1,5 +1,5 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Most people think eyewitness testimony is the “Gold Standard” when it comes to putting together the event details when it comes to documenting facts about a case. This idea becomes questionable when the various eyewitnesses to a crime report substantially different details as to what they saw about the same event. Obvious details such as "
@@ -79,3 +79,15 @@ The decay of memory is both inevitable and irreversible, and as more time passes
 Based on scientific evidence and practical experience, it’s increasingly apparent that judicial system and American public needs to rethink the value of visual identifications and eyewitness testimony. However, totally dismissing them would also discard the valuable information they can still provide in many situations.
 
 Judges, juries, and the general public must recognize that eyewitness accounts have limits and we need to take this into account. Recent calls for body cameras on police appears to be an attempt to have a more reliable source for eyewitness accounts. However, the bottom line is that even this technology must be interpreted by a person. The human variable has always been and always will be the determining factor no matter what technology or methodology is used in order to deal with problems where eyewitness evidence is involved.
+
+Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
