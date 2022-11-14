@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "According to a recently released report, the violent crime rate in San Diego is the lowest it’s been in 47 years. Crime Rate in San Diego at a New Low According to a recently release report, the overall crime rate decreased by 2.3 percent in 2016 and violent crime was down by 4.5 percent. According "
+tags = []
 title = "San Diego’s Crime Rate at a New Low"
 url = "/blog/san-diegos-crime-rate/"
 
