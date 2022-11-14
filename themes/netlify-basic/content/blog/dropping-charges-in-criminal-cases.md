@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "It’s a phrase that gets thrown around a lot on TV and in movies: “the charges were dropped.” But what exactly does that mean? And what does that mean for you if you have been accused of committing a crime? Criminal Cases and Dropping Charges The most important thing that needs to be defined when"
-tags = [" Criminal Law"]
+tags = []
 title = "Dropping Charges in Criminal Cases"
 url = "/blog/dropping-charges-criminal-cases"
 
@@ -130,3 +130,13 @@ Criminal charges can be complex, requiring much gathering of evidence and inform
 If you or loved ones is accused or charged with any type of crime call us. Let us support and help you during this tough time. Our firm award winning attorneys provides hope and peace of mind. The Sevens Legal, APC office is located in both San Diego and Escondido. We have time and time again helped Southern California residents get their cases dismissed or penalties reduced.
 
 Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
