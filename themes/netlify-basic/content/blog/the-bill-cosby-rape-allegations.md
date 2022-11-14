@@ -104,7 +104,7 @@ The minimum sentence for federal sex abuse crimes is twenty years to life.
 
 ### Working with Sevens Legal, APC
 
-If you have been charged with sexual abuse, you and your Sevens Legal, APC, attorney will discuss the specifics of the allegations, inform you of your case’s strengths and weaknesses, and the risks associated with conviction and punishment. Your criminal defense attorney will help negotiate a plea deal or help decide whether it’s in your best interest to move forward to trial. Contact[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+If you have been charged with sexual abuse, you and your Sevens Legal, APC, attorney will discuss the specifics of the allegations, inform you of your case’s strengths and weaknesses, and the risks associated with conviction and punishment. Your criminal defense attorney will help negotiate a plea deal or help decide whether it’s in your best interest to move forward to trial. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
 
 [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
 
