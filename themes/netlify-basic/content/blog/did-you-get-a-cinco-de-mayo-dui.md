@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,DUI"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Typically over big weekends like Cinco de Mayo (commonly referred to as Cinco de Drinko) the San Diego County Sheriff’s Department will team up with the National Highway Traffic Safety Administration to keep impaired drivers off San Diego’s roads. If you received a DUI this past holiday weekend, you’ll want to know what your next "
+tags = ["Criminal Law"]
 title = "Did You Get a Cinco de Mayo DUI?"
 url = "/blog/cinco-de-mayo-dui/"
 
