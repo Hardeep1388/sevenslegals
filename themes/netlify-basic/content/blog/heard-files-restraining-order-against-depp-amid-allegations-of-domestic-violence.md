@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Recently, actor Johnny Depp was hit with a restraining order from estranged wife Amber Heard. Heard filed for divorce in May, with Heard requesting temporary and long-term spousal support, to which Depp has refused. Depp’s lawyers are now questioning if Heard’s allegations of domestic violence are simply a way to ensure a solid financial footing "
-tags = ["Criminal Law", "Domestic Violence"]
+tags = ["Domestic Violence", "Blog"]
 title = "Heard Files Restraining Order Against Depp Amid Allegations of Domestic Violence"
 url = "/blog/heard-files-restraining-order-depp-allegations-domestic-violence/"
 
@@ -95,3 +95,13 @@ Criminal charges can be complex, requiring much gathering of evidence and inform
 ### Working with Sevens Legal, APC
 
 If you or loved ones is accused or charged with any type of crime call us. Let us support and help you during this tough time. Our firm award winning attorneys provides hope and peace of mind. The Sevens Legal, APC office is located in both San Diego and Escondido. We have time and time again helped Southern California residents get their cases dismissed or penalties reduced.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
