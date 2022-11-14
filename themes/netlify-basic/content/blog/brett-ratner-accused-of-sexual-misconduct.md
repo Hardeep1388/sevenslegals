@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, Sexual Assault"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Director Brett Ratner has joined the list of Hollywood men to be accused of sexual misconduct. Sexual Misconduct Allegations Against Director Brett Ratner Six different women have stepped forward with accusation against director Brett Ratner. Ratner is known for directing movies Rush Hour and X Men: The Last Stand. Among that six women, two accusers"
+tags = ["Criminal Law", " Sexual Assault"]
 title = "Brett Ratner Accused of Sexual Misconduct"
 url = "/blog/sexual-assault/brett-ratner-accused-sexual-misconduct/"
 
