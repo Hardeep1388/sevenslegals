@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Shailene Woodley is speaking out via her Instagram after being arrested for trespassing in North Dakota during a peaceful protest against the construction of the Dakota Access Pipeline. Shailene Woodley Arrested in North Dakota for Trespassing “One day, baby, we’ll sing our poetry. The words dripping from our tongues wet with ripened patience,” The Fault "
+tags = []
 title = "Shailene Woodley Arrested for Trespassing"
 url = "/blog/shailene-woodley-arrested-trespassing/"
 
