@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Former NBA star Dennis Rodman has checked into an alcohol rehabilitation center after being arrested for a DUI over the weekend. NBA Star Dennis Rodman DUI Arrest According to Rodman’s agent, Darren Prince, the basketball Hall of Famer checked into a rehab facility on Wednesday to address his longtime struggle with alcoholism. Rodman was arrested \n\n"
-tags = ["Criminal Law", "DUI"]
+tags = ["DUI", "Blog"]
 title = "Dennis Rodman Arrested for DUI"
 url = "/blog/dennis-rodman-arrested-dui"
 
@@ -106,3 +106,13 @@ Beating a DUI charge is never easy, even if you have a strong defense, which is 
 In DUI cases there can be numerous possible police errors, all of which can add up to helping reduce your charges. After reviewing the facts of your DUI case, our attorneys will concentrate on helping seek a dismissal or reduction by preparing a secure case that will cast doubt on any evidence the police may have obtained against you.
 
 The criminal defense lawyers at Sevens Legal, APC, believe every defendant deserves a zealous defense. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
