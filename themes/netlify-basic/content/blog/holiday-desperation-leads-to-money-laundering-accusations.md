@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "During the holidays money can get tight. If you’ve been accused of money laundering to pay for your holiday presents you’ll want to contact a criminal defense attorney. Money Laundering Accusations for the Holiday Season Money laundering, often referred to as a “white collar crime” is the act by which criminals disguise the original ownership "
-tags = ["Criminal Law"]
+tags = ["Blog"]
 title = "Holiday Desperation Leads to Money Laundering Accusations"
 url = "/blog/holiday-desperation-leads-to-money-laundering-accusations/"
 
