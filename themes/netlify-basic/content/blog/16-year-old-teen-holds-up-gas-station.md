@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Last week a 16-year-old teen boy was arrested for allegedly robbing a Shell gas station at gunpoint. Gas Station Held Up by 16-Year-Old Teen As a clerk at the Shell gas station on South Main Avenue near South Mission Road told the police, a suspect wearing a mask held him at gunpoint and demanded cash "
-tags = ["Criminal Law"]
+tags = ["Blog", "Juvenile Crime"]
 title = "16-Year-Old Teen Holds Up Gas Station"
 url = "/blog/blogprotecting-defending-teen584/"
 
@@ -92,3 +92,15 @@ When dealing with parental liability you must remember that as a parent or legal
 ### Working with Sevens Legal, APC
 
 After discussing the specifics of your case and the allegations you and/or your child may be facing, your[criminal defense attorney](http://sevenslegal.com/)will let you know the strengths and weaknesses of your case, as well as any risks of conviction or punishment you may face. A criminal defense attorney may be able to negotiate a plea deal or move forward to a trial, whichever is in your or your child’s best interest.
+
+If you or your teenager have been arrested and charged with an alleged crime, it’s imperative that you contact Sevens Legal, APC, to begin discussing your case and it’s options. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
