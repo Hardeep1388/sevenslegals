@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law,Sexual Assault"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Another sexual assault lawsuit has been filed against Fox New Channel’s Roger Ailes, this time by Fox News contributor Julie Roginsky. Another Sexual Assault Case Against Ailes Julie Roginsky is just the latest Fox News contributor to wage a sexual assault lawsuit against Roger Ailes. The lawsuit alleges that Ailes made unwanted sexual advances towards"
+tags = ["Criminal Law", "Sexual Assault"]
 title = "Ailes Faces Another Sexual Assault Case"
 url = "/blog/ailes-faces-sexual-assault-case"
 
