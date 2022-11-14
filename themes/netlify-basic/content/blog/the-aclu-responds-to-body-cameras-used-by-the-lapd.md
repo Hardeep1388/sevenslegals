@@ -79,3 +79,13 @@ The chief information officer of the LAPD informed the Police Commission in earl
 I addition to the positive side effects of body cameras, there are also negative ones. One negative effect is the impact they’ll have on the effectiveness of police. Even though complaints by citizens decline when body cameras are used, another way of looking at this is that it could be due to police officers being reluctant, or even willing, to engage the public, especially if everything is going to be recorded. Citizens also may be reluctant or unwilling to report crimes they are witnesses to if they are also aware they are going to be recorded.
 
 On the other side, the benefits of body cameras may influence how both police officers and civilians behave if they’re aware that they’re being recorded. However, if body cameras on police officers become the norm, the results could be seen as questionable. For example, eyewitness accounts of crimes aren’t always as reliable as we may think. In time we may discover that body camera video is just as unreliable as the testimony of eyewitnesses. What if the camera isn’t reliable, or the events occur off camera, or only part of the video can be used as evidence? In spite of the positives and negatives, the use of body cameras will no doubt become an integral part of the way law enforcement operates. Only time will determine if their use is either effective or harmful.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
