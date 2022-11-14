@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Recently Assemblyman Rob Bonta (D-Oakland) led a discussion with attorneys and advocates regarding the need to reform the California bail system and how judges award those bail amounts. Bonita believes the current bail system not only criminalizes the poor, but also doesn’t protect communities. Assemblyman Bonta Tries to Change California’s Bail Bond System Bail Bond "
-tags = []
+tags = ["Blog"]
 title = "Assemblyman Bonta Trying to Change the Bail Bond System"
 url = "/blog/blogassemblyman-bonta-change-bail-system526/"
 
@@ -66,15 +66,15 @@ Like most defendants, you will probably agree that these precautions are a small
 
 Some of the different bail bonds that are available include:
 
-**Surety Bond:**This type of bail bond is secured by an insurance company. It’s common for bail bondsmen to work with insurance companies in order to provide financial backing for their bonds.
+\**Surety Bond:**This type of bail bond is secured by an insurance company. It’s common for bail bondsmen to work with insurance companies in order to provide financial backing for their bonds.
 
-**Property Bond:**If you own property (i.e., a house), the bail bondsman may be able to use this as collateral instead of putting down cash. With this type of bond the court places a lien on your property and can sell it if you do not appear for your court date(s).
+\**Property Bond:**If you own property (i.e., a house), the bail bondsman may be able to use this as collateral instead of putting down cash. With this type of bond the court places a lien on your property and can sell it if you do not appear for your court date(s).
 
-**Release on Own Recognizance:**Sometimes a judge will agree to release you without setting any bail amount. This normally happens only if you are accused of a low level crime and the judge doesn’t consider you to be a flight risk.
+\**Release on Own Recognizance:**Sometimes a judge will agree to release you without setting any bail amount. This normally happens only if you are accused of a low level crime and the judge doesn’t consider you to be a flight risk.
 
-**Cite Out:**This would be if you are caught doing something illegal and the officer then decides to issue a citation to appear in court instead of booking you into jail.
+\**Cite Out:**This would be if you are caught doing something illegal and the officer then decides to issue a citation to appear in court instead of booking you into jail.
 
-**Immigration Bond:**If you are detained by Immigration and Customs Enforcement (ICE), an immigration bond will permit you to be released from jail until your hearing is completed.
+\**Immigration Bond:**If you are detained by Immigration and Customs Enforcement (ICE), an immigration bond will permit you to be released from jail until your hearing is completed.
 
 ### Bail and Bounty Hunters
 
@@ -95,3 +95,13 @@ In addition to bail bond feeds, there are also court and attorney fees you need 
 ### Working with a Sevens Legal, APC, Defense Attorney
 
 If you have been arrested and accused of a crime, you needs to acquire and work with a criminal defense attorney such as Sevens Legal, APC. Once you have discussed the specifics of the allegations against you with your attorney, they will inform you of the strengths and weaknesses pertaining to your case, as well as any risk of conviction and punishment you may be facing. A criminal defense attorney such as Sevens Legal, APC, can also negotiate a plea deal as well as decide to move forward with trial, while working constantly to make sure your best interests are served. At Sevens Legal, APC, every defendant has a right to our zealous defense. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
