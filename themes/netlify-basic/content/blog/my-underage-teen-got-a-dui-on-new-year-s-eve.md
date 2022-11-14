@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,DUI"
+categories = "Blog"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "Being a parent can be hard. And that only gets harder as your sweet baby boy or girl grows up and becomes an adult. Without a doubt, your children will stumble. But if that stumble found them in jail with a DUI arrest on New Year’s Eve, you’ll want to know what you should do "
+tags = ["Criminal Law"]
 title = "My Underage Teen Got a DUI on New Year’s Eve"
 url = "/blog/my-underage-teen-got-a-dui-on-new-years-eve/"
 
