@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, Federal Crime ,Sexual Assault"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Former Rep. Anthony Weiner has pleaded guilty of charges that he transferred obscene material to a minor. Weiner will now be required to register as a sex offender. Anthony Weiner Has Pleaded Guilty As Weiner, 52, made an emotional statement, he also mentioned he has been seeking treatment. “I accept full responsibility for my conduct. "
+tags = ["Criminal Law", "Federal Crime ", "Sexual Assault"]
 title = "Weiner Pleads Guilty"
 url = "/blog/weiner-pleads-guilty/"
 
