@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Burglary,Grand Theft"
+categories = "Blog"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "Delivery drivers working in December know they must be careful. That was exactly the case for a Redondo Beach delivery driver making his rounds during the busy holiday season. His van, filled with parcels, was stolen by two people. Van Stolen From Delivery Van Driver Lucky for the driver, officers were able to stop the "
+tags = ["Criminal Law", "Burglary"]
 title = "Delivery Driver’s Van Stolen"
 url = "/blog/delivery-drivers-van-stolen/"
 
