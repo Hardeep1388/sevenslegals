@@ -1,8 +1,9 @@
 +++
-categories = "Blog, Criminal Law ,Drug Crime"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Illegal drugs have always had a negative image in the culture of modern America. They’re usually thought of as only used by the fringes of society, and definitely not used by what society considers upstanding citizens. However, history has proven that the doors in America have long been held open by all levels of society "
+tags = ["Criminal Law", "Drug Crime"]
 title = "Prescription Drugs in America Today"
 url = "/blog/prescription-drugs-america-today"
 
