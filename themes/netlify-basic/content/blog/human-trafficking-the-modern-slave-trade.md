@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Most people probably think the slave trade in the United States ended in 1807. That year the congress put legislation into place that prohibited new slaves to come into the country. When the Act Prohibiting Importation of Slaves was past, the practice of importing slaves into America should have become history. Most Americans today would "
-tags = ["Criminal Law", "Domestic Violence", " Identity Theft", "State Crime"]
+tags = ["Domestic Violence", " Identity Theft", "State Crime", "Blog"]
 title = "Human Trafficking: The Modern Slave Trade"
 url = "/blog//criminal-attorney/human-trafficking-modern-slave-trade/"
 
@@ -71,3 +71,13 @@ When it comes to eliminatnig human trafficking, California looks like it’s hea
 While that has been much done, the fight for human rights isn’t over yet.
 
 For questions and help related to human trafficking, you need the expert advice and experience of a criminal defense attorney such as Sevens Legal, APC. Contact[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
