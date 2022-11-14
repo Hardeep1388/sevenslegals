@@ -99,3 +99,15 @@ When faced with serious penalties or spending time in jail or prison, you need t
 ### Your Criminal Defense Lawyer and Emotional Help
 
 While a criminal defense lawyer isn’t a therapist, they may help you deal with the emotions that accompany criminal trials. They can help by explaining the realities of the legal system and discuss what you may be up against during trial. Since they are well versed in the system, your criminal defense lawyer can also go over court rules and regulations, and the best way to navigate through the system. Also critical in negotiating a reduced sentence are the “unwritten rules” which a criminal defense lawyer is also well versed in.
+
+If you are faced with criminal charges and possible jail time, you need to consult a criminal defense lawyer as soon as possible. Contact Sevens Legal, APC today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
