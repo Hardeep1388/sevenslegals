@@ -1,8 +1,9 @@
 +++
-categories = "Blog, Criminal Law ,Sexual Assault"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Democratic Sen. Al Franken of Minnesota has announced he will be resigning following allegations of sexual misconduct. Franken took to the Senate floor to make his announcement, saying, “I am announcing that in the coming weeks I will be resigning as a member of the United States Senate.” Al Franken Resigns After Sexual Assault Allegations "
+tags = ["Criminal Law ", "Sexual Assault"]
 title = "Franken Resigns After Sexual Misconduct Allegations"
 url = "/blog/franken-resigns-sexual-misconduct-allegations"
 
