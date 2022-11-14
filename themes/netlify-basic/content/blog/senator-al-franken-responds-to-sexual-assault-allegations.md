@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "In light of the sexual misconduct allegations he is facing, Minnesota Senator Al Franken delivered a statement Monday morning. Al Franken Makes Statement About Sexual Assault Allegations Monday morning, Minnesota Senator Al Franken delivered a statement in which he said he is “embarrassed and ashamed,” of his behavior. Multiple women, including radio anchor Leeann Tweeden "
-tags = [" Blog ", "Criminal Law"]
+tags = [" Blog ", "Criminal Law", "Sexual Assault"]
 title = "Senator Al Franken Responds to Sexual Assault Allegations"
 url = "/blog//assault/senator-al-franken-responds-sexual-assault-allegations/"
 
