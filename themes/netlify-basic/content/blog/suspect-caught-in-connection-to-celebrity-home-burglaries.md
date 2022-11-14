@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Burglary,"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "19-year old Tyress Williams has been arrested by Los Angeles police on suspicion of burglaries and theft of the homes of numerous celebrity homes. Celebrity Home Burglaries Suspect Caught According to police, Williams was detained and a search of his car turned up stolen items from the home of Rams receiver Robert Woods, Rihanna, and "
+tags = ["Criminal Law"]
 title = "Suspect Caught in Connection to Celebrity Home Burglaries"
 url = "/blog/suspect-caught-in-connection-to-celebrity-home-burglaries/"
 
