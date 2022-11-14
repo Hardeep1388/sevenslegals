@@ -1,9 +1,9 @@
 +++
-categories = "Blog "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "This past April, gang member Randy Alton Graves was convicted of conspiracy to distribute more than 50 grams of methamphetamine, conspiracy to distribute more than 1,000 kilograms of marijuana and possession with intent to distribute meth. He received a sentence of life in federal prison. Below we discuss what the addition of “conspiracy” means when "
-tags = ["Criminal Law"]
+tags = ["Blog", "Drug Crime"]
 title = "Conspiracy to Distribute and Other Drug Charges"
 url = "/blog/conspiracy-distribute-drug-charges/"
 
@@ -89,3 +89,13 @@ Drug charges can stem from minor to more serious offenses and at Sevens legal yo
 * Drug Trafficking or smuggling
 * Juvenile or student drug offenses
 * Unauthorized possession or sale of prescription drugs
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
