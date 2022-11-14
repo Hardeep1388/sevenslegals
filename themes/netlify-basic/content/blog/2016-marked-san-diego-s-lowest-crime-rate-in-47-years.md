@@ -1,5 +1,5 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "According to city officials, San Diego‘s crime rate in 2016 year was the second-lowest in 47 years. And the violent crime rate had dropped by close to 5 percent, marking it the lowest it has ben in four decades. Police Chief Shelley Zimmerman credited police-community partnerships and focused crime-fighting for the decrease in crime. San "
@@ -120,3 +120,13 @@ If you are detained in jail, remember there are still ways to incriminate yourse
 Criminal charges can be complex, requiring much gathering of evidence and information. It’s highly advised that you work with an experience criminal defense attorney that will be able to advise you on the best defense. If you have been arrested and accused of a crime, you need to acquire and work with a criminal defense attorney such as Sevens Legal, APC. Once you have discussed the specifics of the allegations against you with your attorney, they will inform you of the strengths and weaknesses pertaining to your case, as well as any risk of conviction and punishment you may be facing.
 
 A criminal defense attorney such as Sevens Legal, APC, can also negotiate a plea deal as well as decide to move forward with trial, while working constantly to make sure your best interests are served. At Sevens Legal, APC, every defendant has a right to our zealous defense. Contact Sevens Legal, APC, today for a free consultation. Our firm award winning attorneys provides hope and peace of mind. The Sevens Legal, APC office is located in both San Diego and Escondido. We have time and time again helped Southern California residents get their cases dismissed or penalties reduced. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
