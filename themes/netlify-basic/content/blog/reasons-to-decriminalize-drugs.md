@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, Drug Crimes ,Federal Crime ,State Crime"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The United States is coming to terms with the realization that criminalizing illicit drugs and treating offenders in a purely judicial way has little if any effectiveness in dealing with the drug problem. The U.S. drug problem causes our government to spend millions of dollars, with the result being the largest prison population in the"
+tags = ["Criminal Law", "Drug Crimes", "Federal Crime"]
 title = "Reasons to Decriminalize Drugs"
 url = "/blog/criminal-attorney/reasons-decriminalize-drugs"
 
