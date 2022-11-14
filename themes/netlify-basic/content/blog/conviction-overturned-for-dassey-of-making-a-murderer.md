@@ -1,9 +1,9 @@
 +++
-categories = "Blog "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Brendan Dassey, one of the main subjects in Netflix’s hit documentary series “Making a Murderer,” conviction has been overturned by a federal judge. The 27-year-old was implicated in connection to a crime that was ruled to have been committed by his uncle, Steven Avery. Dassey and “Making a Murderer” The show focuses on Steven Avery,"
-tags = ["Criminal Law", "Juvenile Crime"]
+tags = ["Juvenile Crime", "Blog"]
 title = "Conviction Overturned for Dassey of “Making a Murderer”"
 url = "/blog/conviction-overturned-dassey-making-murderer/"
 
@@ -54,13 +54,13 @@ As we’ve written about before, detectives will employ a number of techniques t
 
 Within the**Reid Technique**, there are three concepts police rely on to convince a suspect that it is in his or her best interested to confess to a crime, regardless of if they are guilty or not.
 
-**1. Isolation.**Interrogators will isolate the suspect from family and friends in an attempt to make that person feel alone. As in Dassey’s case, we saw him in multiple windowless interrogation rooms.
+\**1. Isolation.**Interrogators will isolate the suspect from family and friends in an attempt to make that person feel alone. As in Dassey’s case, we saw him in multiple windowless interrogation rooms.
 
-**2. Maximization.**An interrogating officer will start out stating that the suspect is guilty and that the suspect and all the other people on the case know that the suspect is guilty. An officer will present the theory of how the crime went down. Often times this is based on evidence, and other times the officer is simply grappling for straws and fabricating the story in an attempt to get the actual full story.
+\**2. Maximization.**An interrogating officer will start out stating that the suspect is guilty and that the suspect and all the other people on the case know that the suspect is guilty. An officer will present the theory of how the crime went down. Often times this is based on evidence, and other times the officer is simply grappling for straws and fabricating the story in an attempt to get the actual full story.
 
 We can see this in Dassey’s case when the interrogators lead him with unreleased details about the case. Then, when Dassey disputes the detectives’ claims and version of events, they tell him to stop lying. During this presentation of the “theory,” an officer will essentially “drop breadcrumbs,” or offer details that a suspect will then parrot back to the officer. Claims for innocence by the suspect are ignored or refuted by the interrogator. Hence, the “bad cop” role. The “bad cop” knows the suspect is lying, knows the suspect committed the crime, and knows that the suspect is only wasting everyone’s time by refusing to come clean.
 
-**3. Minimization.**After the “maximization” part of the interview is complete, the officer will move on to the “good cop” role of “minimization.” This is when the interrogator tells the suspect that they believe the motives behind the crime, and that everyone else will also understand the motives, so why not just confess? Oftentimes individuals will be lured with promises of a lesser charge or the ability to go home if they confess. Throughout Dassey’s entire case it is clear that all he wants to do is go home. In fact, after “confessing” to raping Teresa Halbach, slitting her throat, and helping burn her body, Dassey then asks detectives how much longer the interrogation will take because he has a school project in one of his afternoon periods that he has to return to.
+\**3. Minimization.**After the “maximization” part of the interview is complete, the officer will move on to the “good cop” role of “minimization.” This is when the interrogator tells the suspect that they believe the motives behind the crime, and that everyone else will also understand the motives, so why not just confess? Oftentimes individuals will be lured with promises of a lesser charge or the ability to go home if they confess. Throughout Dassey’s entire case it is clear that all he wants to do is go home. In fact, after “confessing” to raping Teresa Halbach, slitting her throat, and helping burn her body, Dassey then asks detectives how much longer the interrogation will take because he has a school project in one of his afternoon periods that he has to return to.
 
 The best way to defend yourself against the Reid Technique is to avoid saying anything and asking for a lawyer. Unfortunately for Dassey, on watching the videotape of his interrogation, it’s obvious that the intellectually challenged teen was it was unaware of this technique, and was thus unable to defend himself against his interrogators.
 
@@ -87,3 +87,13 @@ Criminal charges can be complex, requiring much gathering of evidence and inform
 ### Working with Sevens Legal, APC
 
 If you or loved ones is accused or charged with any type of crime call us. Let us support and help you during this tough time. Our firm award winning attorneys provides hope and peace of mind. The Sevens Legal, APC office is located in both San Diego and Escondido. We have time and time again helped Southern California residents get their cases dismissed or penalties reduced. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
