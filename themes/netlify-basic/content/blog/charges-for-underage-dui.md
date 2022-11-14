@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "When an early Tuesday morning multiple car DUI accident occurred, resulting in five injuries, two critically, the alleged driver was only 19. Accidents from DUI The police were called just after midnight to the scene of the accident. The 19-year old driver and the 15-year old passenger had been traveling southbound on a four-lane highway "
-tags = ["Criminal Law", "DUI"]
+tags = ["DUI", "Blog", " Juvenile Crime"]
 title = "Charges for Underage DUI"
 url = "/blog/charges-underage-dui/"
 
@@ -73,14 +73,10 @@ Based on your blood alcohol content and driving history, below are some things y
 Additional charges in California for underage drinking and driving apply. For a typical arrest for underage DUI you will be charged with each applicable law, even if they appear to be duplicates. Some of the more common laws for violating underage drivers include:
 
 * Vehicle Code 23136 covers drivers under 21 with BAC of 0.01% or more. Violating this isn’t a crime, but the penalty is a suspension of your driver’s license of one year.
-
-
 * Vehicle Code 23140 covers drivers under 21 with BAC of 0.05% or more. This is an infraction but doesn’t include jail time. Penalties include:
   * Driver’s license suspension of one year if it’s a first offense,
   * $100 fine if it’s a first offense, and
   * Mandatory alcohol education program for three or more months if you’re over 18.
-
-
 * Vehicle Code 23152 covers driving at any age while:
   * impaired by alcohol and/or drugs, or
   * having a BAC of 0.08% or more;
@@ -90,8 +86,6 @@ Additional charges in California for underage drinking and driving apply. For a 
     * $390 to $1,000 fine,
     * 3 to 9 month education program for drug and/or alcohol, and
     * Up to six months in custody.
-
-
 * Vehicle Code 23224 – If under 21 you are not permitted to carry alcohol inside a vehicle except in the following situations:
   * the container is full, sealed, and unopened, and
   * they are:
@@ -124,3 +118,14 @@ You need to immediately call a[DUI](https://www.sevenslegal.com/san-diego-dui-de
 * Your traffic stop was unlawful,
 * Your arrest was unlawful,
 * The officer did not advise you of your rights.
+* If you’ve been accused and charged with [DUI](https://www.sevenslegal.com/san-diego-dui-defense-lawyer/ "San Diego DUI Defense Lawyer"), an experience DUI defense lawyer such as Sevens Legal, APC, can help negotiate to get your charges reduced. A DUI charge has many complications making it difficult to navigate without the help of an experienced and skilled DUI lawyer. A DUI lawyer can also help remove the stress and difficulty relating to being accused of a DUI. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+  [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+  Criminal Defense Attorneys
+
+  3555 4th Ave.
+
+  San Diego, CA 92103
+
+  Phone: (619) 430-2355
