@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law ,Drug Crimes"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "This week President Obama pardoned or commuted the sentences of 231 people, the largest single-day clemency announcement since he became president. The majority of the pardons and commutations over the past years have been given to people with non-violent drug convictions. President Obama Pardons 231 Non-Violent Drug Convictions Over the past few years the United "
+tags = ["Drug Crimes", "Blog", "Drug Crime"]
 title = "President Obama Pardons Non-Violent Drug Convictions"
 url = "/blog/president-obama-pardons-nonviolent-drug-convictions/"
 
@@ -48,3 +49,13 @@ Decriminalizing drugs means getting rid of the criminal penalties associated wit
 The motivation behind Proposition 47 in California was to reduce or eliminate the harsh criminal penalties that resulted in prison and jail overpopulation that began in the 1980s. The effect after it passed resulted in decriminalization where the possession of small amounts of drugs were concerned. It’s passing immediately helped to reduce populations in prison and highlighted the needs of drug users due to the fact that the drug court system wasn’t being used much by those who are eligible for relief under Prop 47. Because of jail overpopulation, this means many who are incarcerated are released early, so people arrested for drug possession would rather spend time in jail and be released early rather than go to rehab and have to deal with all the therapy and monitoring associated with it.
 
 It’s time for the U.S. to critically look into the decriminalization of drugs. In spite of the criminal aspect of drugs, it’s time to realize that our current way of dealing with it simply doesn’t work, and the cost of criminalizing it is increasing both monetarily and in prison overcrowding. It’s time to treat it as the health issue that it is.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
