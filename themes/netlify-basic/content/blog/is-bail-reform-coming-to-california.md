@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "It appears there’s new momentum for reforming how California’s bail system works. If the system is overhauled, as proposed, bail will no longer be based on a cash amount. Will California Have Bail Reform? This past week, the movement to reform how bail is set in California gained momentum. A proposal to eliminate cash bail"
+tags = []
 title = "Is Bail Reform Coming to California?"
 url = "/blog/bail-reform-coming-california/"
 
