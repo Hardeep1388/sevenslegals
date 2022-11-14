@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law, DUI"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Former NBA star Dennis Rodman has checked into an alcohol rehabilitation center after being arrested for a DUI over the weekend. NBA Star Dennis Rodman DUI Arrest According to Rodman’s agent, Darren Prince, the basketball Hall of Famer checked into a rehab facility on Wednesday to address his longtime struggle with alcoholism. Rodman was arrested \n\n"
+tags = ["Criminal Law", "DUI"]
 title = "Dennis Rodman Arrested for DUI"
 url = "/blog/dennis-rodman-arrested-dui"
 
