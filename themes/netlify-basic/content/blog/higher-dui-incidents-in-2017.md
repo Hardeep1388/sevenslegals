@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "According to the California Highway Patrol, arrests for DUI during the holiday season were markedly higher in 2017 than in 2016. Higher Incidents of DUI in 2017 The CHP reported DUIs spiked dramatically during the 2017 holiday season. Across California, the CHP arrested 936 people for driving under the influence between the evening of Dec"
-tags = ["Criminal Law"]
+tags = ["Blog", "DUI"]
 title = "Higher DUI Incidents in 2017"
 url = "/blog/higher-dui-incidents-2017/"
 
@@ -85,3 +85,15 @@ Although these laws are specific to California, the same DUI laws are similar in
 ### Working with Sevens Legal, APC
 
 If you are arrested and face a conviction for DUI, you need to work with a criminal defense lawyer such as Sevens Legal, APC. Once you have discussed the specifics of your cast with a Sevens Legal, APC, attorney they will let you know about your case’s strengths and weaknesses, as well as the punishment you may face and your risk of conviction. Your defense attorney will also be able to discuss any plea deal as well as whether it would be best to move forward to a trial, taking into consideration your best interests.
+
+The criminal defense attorneys at Sevens Legal, APC, believe every client has a right to the best defense possible. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
