@@ -1,5 +1,5 @@
 +++
-categories = "Blog"
+categories = "Crimianl Law"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "Homicide rates from domestic violence situations in San Diego are on the decline. A recent article reported that the city is leading the way in reducing deaths from domestic violence. San Diego has the fewest number of deaths from domestic abuse. Domestic Violence Homicide Declines in San Diego A resource called the Family Justice Center "
@@ -51,3 +51,15 @@ Over the years legislators have been given opportunities to address certain aspe
 Even though California does a fair job overall when it comes to enforcing domestic violence cases, there is considerable work still to be done in order to make the laws for domestic violence effective in order to protect victims and their children.
 
 Recommendations by the American Bar Association (ABA) is to make legal assistance more accessible and affordable for domestic violence victims and their children by encouraging pro bono work by lawyers in domestic violence cases, increasing legal services and programs that represent parents and children in domestic violence cases, establish legal clinics specializing in domestic violence, and requiring the abusers in domestic violence cases to pay the court costs and attorney’s fees. It is also recommended that judges and law enforcement personnel receive better education and training.
+
+If you are a victim of domestic violence you need the expert advice and support of a domestic violence attorney such as Sevens Legal, APC. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
