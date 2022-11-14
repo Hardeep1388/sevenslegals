@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Florida State University has settled a sexual assault claim with former student Erica Kinsman over allegations that she was raped by quarterback Jameis Winston in December 2012. Florida Sexual Assault Case Settled The settlement of the federal Title IX lawsuit comes a year after Kinsman initial filed her complaint in federal court.\n\n"
-tags = ["Blog", "Criminal Law"]
+tags = ["Blog", "Criminal Law", " Sexual Assault"]
 title = "Sexual Assault Case Settled in Florida"
 url = "/assault/sexual-assault-case-settled-florida/"
 
@@ -85,3 +85,13 @@ Sexual assault crimes are taken very seriously by the law. If you have been fals
 After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests.
 
 Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 430-2355. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
