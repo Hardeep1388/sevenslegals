@@ -8,7 +8,7 @@ title = "Football Player Found Guilty of Rape Sex Crimes"
 url = "/assault/football-player-guilty-rape-sex-crimes/"
 
 +++
-Former Vanderbilt football player Brandon Vandenburg has been found guilty on five counts of aggravated rape, two counts of aggravated sexual battery, and one count of unlawful photography.
+Former Vanderbilt football player Brando Vandenburg has been found guilty on five counts of aggravated rape, two counts of aggravated sexual battery, and one count of unlawful photography.
 
 ## Football Player Found Guilty of Rape Sex Crimes
 
