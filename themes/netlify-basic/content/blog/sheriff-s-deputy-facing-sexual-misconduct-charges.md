@@ -82,3 +82,19 @@ In 1966, the U.S. Supreme Court ruled in Miranda v. Arizona, that individuals ar
 ### Why Work with a Criminal Defense Lawyer?
 
 When faced with serious penalties or spending time in jail or prison, you need to retain a criminal defense lawyer to represent you in court. If you are facing an assault or battery charge, or a theft charge, a criminal defense attorney will investigate your case’s specifics and determine if you were wrongfully charged. They also will be able to identify if there are any other existing reasons for why the case should be dismissed before it goes to trial. If the charges are not dismissed before trial, a criminal attorney may be able negotiate a plea bargain with the prosecutor on your behalf. If a plea bargain cannot be negotiated, a criminal defense attorney will prepare your defense and represent you at trial.
+
+Working with Sevens Legal, APC
+
+After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests.
+
+Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 494-3440. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
