@@ -1,8 +1,9 @@
 +++
-categories = "Blog Criminal Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "It’s a phrase that gets thrown around a lot on TV and in movies: “the charges were dropped.” But what exactly does that mean? And what does that mean for you if you have been accused of committing a crime? Criminal Cases and Dropping Charges The most important thing that needs to be defined when"
+tags = [" Criminal Law"]
 title = "Dropping Charges in Criminal Cases"
 url = "/blog/dropping-charges-criminal-cases"
 
