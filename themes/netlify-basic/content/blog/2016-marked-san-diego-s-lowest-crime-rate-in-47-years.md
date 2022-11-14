@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "According to city officials, San Diego‘s crime rate in 2016 year was the second-lowest in 47 years. And the violent crime rate had dropped by close to 5 percent, marking it the lowest it has ben in four decades. Police Chief Shelley Zimmerman credited police-community partnerships and focused crime-fighting for the decrease in crime. San "
+tags = []
 title = "2016 Marked San Diego’s Lowest Crime Rate in 47 Years"
 url = "/blog/2016-marked-san-diegos-lowest-crime-rate-47-years/"
 
