@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A Sacramento property owner is now facing criminal charges and $2 million in civil penalties for illegally growing cannabis. Property Owner Growing Cannabis Arrested in Sacramento According to city officials Lisa Ung, 63, allegedly maintained eight homes across Sacramento for the purpose of growing more than 4,000 marijuana plants. Ung was arraigned on five counts "
-tags = ["Criminal Law"]
+tags = ["Blog", "Drug Crime"]
 title = "Sacramento Property Owner Arrested for Growing Cannabis"
 url = "/blog/sacramento-property-owner-arrested-growing-cannabis/"
 
@@ -69,3 +69,15 @@ Driving under the influence of Marijuana is a crime in California under vehicle 
 At Sevens Legal we maintain a high level of professionalism and passion for defending our clients. Sevens Legal has decades of experience and knowledge in dealing with criminal charges and will see that you are given the best defense possible. Most oftentimes, charges are reduced or dropped and you will find that we make the legal process as comfortable as possible for all our clients. If you have any questions regarding a marijuana conviction, please call for a free consultation.
 
 After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests.
+
+Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 494-3440. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
