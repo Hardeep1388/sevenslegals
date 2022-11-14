@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,DUI"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "This past weekend the San Diego police enforced a number of Saturday night DUI and license checkpoints. Did San Diego DUI Crackdown Weekend Get You? Checkpoints were set up at undisclosed locations within the city limits. Officers were searching for signs of alcohol or drug impairment and checking drivers for proper licensing. Drivers arrested at "
+tags = ["Criminal Law"]
 title = "Did You Get a DUI This Weekend?"
 url = "/blog/dui-weekend/"
 
