@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "It appears there’s new momentum for reforming how California’s bail system works. If the system is overhauled, as proposed, bail will no longer be based on a cash amount. Will California Have Bail Reform? This past week, the movement to reform how bail is set in California gained momentum. A proposal to eliminate cash bail"
-tags = []
+tags = ["Blog"]
 title = "Is Bail Reform Coming to California?"
 url = "/blog/bail-reform-coming-california/"
 
@@ -79,3 +79,15 @@ In addition to bail bond feeds, there are also court and attorney fees you need 
 ### Working with a Sevens Legal, APC, Defense Attorney
 
 If you have been arrested and accused of a crime, you needs to acquire and work with a criminal defense attorney such as Sevens Legal, APC. Once you have discussed the specifics of the allegations against you with your attorney, they will inform you of the strengths and weaknesses pertaining to your case, as well as any risk of conviction and punishment you may be facing. A criminal defense attorney such as Sevens Legal, APC, can also negotiate a plea deal as well as decide to move forward with trial, while working constantly to make sure your best interests are served.
+
+At Sevens Legal, APC, every defendant has a right to our zealous defense. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
