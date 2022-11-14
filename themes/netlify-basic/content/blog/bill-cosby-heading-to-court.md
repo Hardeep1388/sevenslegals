@@ -3,7 +3,7 @@ categories = "Assault    "
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "it’s been more than decade since comedian Bill Cosby was first accused of sexual misconduct and assault. And now it appears he will finally be going to trial. Bill Cosby Will Stand Trial for Assault A Pennsylvania has determined that there is enough evidence to proceed with a criminal trail against Cosby. The comedian faces"
-tags = ["Blog", "Criminal Law", "Drug Crimes "]
+tags = ["Blog", "Criminal Law", "Drug Crimes ", "Sexual Assault"]
 title = "Bill Cosby Heading to Court"
 url = "/assault/bill-cosby-heading-court/"
 
