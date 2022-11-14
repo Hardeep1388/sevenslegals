@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Illegal drugs have always had a negative image in the culture of modern America. They’re usually thought of as only used by the fringes of society, and definitely not used by what society considers upstanding citizens. However, history has proven that the doors in America have long been held open by all levels of society "
-tags = ["Criminal Law", "Drug Crime"]
+tags = ["Drug Crime"]
 title = "Prescription Drugs in America Today"
 url = "/blog/prescription-drugs-america-today"
 
@@ -71,3 +71,13 @@ When people use drugs obtained through family and friends, they’re more likely
 A quick observation relating to America’s prescription drug epidemic is the fact that it’s involved with what we value as a nation. Americans tend to value easy fixes and convenience. What is easier than popping a few pills? As the cliche goes, it’s “just what the doctor ordered,” in more ways than one.
 
 In many circumstances prescription drugs are necessary and lifesaving, but the fact is increasingly apparent that there’s a strong correlation between taking prescription drugs and becoming addicted to prescription drugs.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
