@@ -1,9 +1,9 @@
 +++
-categories = "Blog "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A few months ago a newspaper article about the Los Angeles Police Department gave an interesting insight into the controversy about how Prop 47 has changed the day-to-day procedures of police departments.   Prop 47 Changes Felonies to Misdemeanors With the passage of Prop 47, certain felonies, such as drug possession, became misdemeanors instead. This"
-tags = ["Criminal Law", "Drug Crimes", "State Crime"]
+tags = ["Drug Crimes", "State Crime"]
 title = "Drug Diversion Program Participation and Prop 47"
 url = "/blog//criminal-attorney/drug-diversion-program-participation-prop-47"
 
@@ -30,7 +30,7 @@ Drug offenders realize that since 1988 early jail release has been a common prac
 
 Law enforcement officials believe they’ve lost their ability to deal with drug offenders, many of whom steal in order to support their drug habits. An investigation by the LA Times in 2006 discovered almost 16,000 drug offenders were rearrested due to committing new offenses during the time period of their sentences, if they had not been released early. To support this viewpoint, offenders released early have contributed to a noticeable increase in property crime rates since Prop 47 was passed.
 
-Although it may be debatable as far as how much of this increased crime rate can be attributable directly to drug addicts, this is a frequently used arguments by Prop 47 critics. 
+Although it may be debatable as far as how much of this increased crime rate can be attributable directly to drug addicts, this is a frequently used arguments by Prop 47 critics.
 
 ### Diversion Drug System in California and Prop 47
 
@@ -63,3 +63,13 @@ Considering these drops in participation, some drug courts have been considering
 Many analysis and practitioners are afraid that Prop 47 will create a new class of addicts who evade incarceration as well as treatment, with the result that they will be arrested for further, and perhaps more violent, offenses. These individuals are representative of the high probability that they’ll be involved in ongoing criminal behavior in order to facilitate their drug addiction. Addicts frequently engage in illegal behavior and crimes such as petty theft, major crimes such as armed robbery, and even murder, to financially support their drug habit.
 
 Without drug intervention programs and treatments that drug courts provides, the potential for the commission of more serious crimes exist as addicts who don’t go to jail or has reduced sentences due to overcrowding increases.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
