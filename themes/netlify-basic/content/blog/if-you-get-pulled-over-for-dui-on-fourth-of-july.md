@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law, DUI"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Typically over big holidays like Fourth of July holiday, the San Diego County Sheriff’s Department will team up with the National Highway Traffic Safety Administration to keep impaired drivers off San Diego’s roads. If you are planning on celebrating the fourth with a few drinks, you’ll want to know your rights if you get pulled"
+tags = ["Criminal Law", "DUI"]
 title = "If You Get Pulled Over for DUI on Fourth of July"
 url = "blog/blogpulled-dui-fourth-july"
 
