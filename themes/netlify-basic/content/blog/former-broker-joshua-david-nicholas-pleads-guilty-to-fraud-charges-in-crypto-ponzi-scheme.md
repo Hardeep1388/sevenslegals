@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Federal Crime"
+categories = "Blog"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators, were each charged with one count of conspiracy to commit wire fraud and one count of conspiracy to commit securities fraud by a South Florida federal grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud. Nicholas and his cohorts promoted him as the “head"
+tags = []
 title = "Former Broker Joshua David Nicholas Pleads Guilty to Fraud Charges in Crypto Ponzi Scheme"
 url = "/blog/former-broker-joshua-david-nicholas-pleads-guilty-to-fraud-charges-in-crypto-ponzi-scheme/"
 
