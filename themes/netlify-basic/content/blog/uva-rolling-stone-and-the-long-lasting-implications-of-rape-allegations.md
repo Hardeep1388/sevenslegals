@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Before the controversial Rolling Stone article, the University of Virginia was most known for its rigorous academics. But now it might best be known for the controversial swirl of rape allegations that surrounded the campus and the nation. Implications of Rape Allegations Last November Rolling Stone magazine published the feature “A Rape on Campus"
-tags = ["Battery", "Blog", "Criminal Law"]
+tags = ["Battery", "Blog", "Criminal Law", "Sexual Assault"]
 title = "UVA, Rolling Stone, and the Long-Lasting Implications of Rape Allegations"
 url = "/assault/uva-rolling-stone-longlasting-implications-rape-allegations/"
 
@@ -80,3 +80,17 @@ You will want to follow all the legal rules and precautions you can, and the bes
 ### Working with Sevens Legal, APC
 
 After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests.
+
+Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 430-2355. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+### 
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
