@@ -3,7 +3,7 @@ categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "While it might sound hard to believe, many people serve time behind bars before they are even convicted of a crime just because they can’t afford to post bail. It’s a fact that lawmakers in California are trying to change. Bail and Serving Time in Jail Before Being Conviction According to the Prison Policy Institutes, "
-tags = []
+tags = ["Criminal Law"]
 title = "Serving Time Before Conviction and Bail"
 url = "/blog/serving-time-conviction-bail/"
 
