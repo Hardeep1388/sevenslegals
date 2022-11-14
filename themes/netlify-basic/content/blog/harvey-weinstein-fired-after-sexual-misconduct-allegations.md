@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Co-founder of The Weinstein Company, Harvey Weinstein, was recently fired after allegations of sexual misconduct. Harvey Weinstein Fired From Company Following Sexual Misconduct Allegations In an article recently published by The New York Times, numerous women have come forward with allegations of sexual misconduct by Hollywood heavy-hitter Harvey Weinstein. One of those women is actress"
-tags = ["Blog", "Criminal Law"]
+tags = ["Blog", "Criminal Law", "Sexual Assault"]
 title = "Harvey Weinstein Fired After Sexual Misconduct Allegations"
 url = "/assault/harvey-weinstein-fired-sexual-misconduct-allegations/"
 
@@ -59,3 +59,15 @@ When faced with serious penalties or spending time in jail or prison, you need t
 ### Working with Sevens Legal, APC
 
 After you have discussed the specifics of your case, your Sevens Legal, APC, will let you know your case’s strengths and weaknesses, as well as any possible risks associated with punishment and convictions you may face. Your Sevens Legal, APC, defense attorney can help negotiate a plea deal or whether the best course of action is to move forward to trial, while working constantly for your best interests.
+
+Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 494-3440. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
