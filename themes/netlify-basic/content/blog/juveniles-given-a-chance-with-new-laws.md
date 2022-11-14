@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The treatment of juveniles in the justice system has been debated for years. New laws in California will end life sentencing for children and teens and allow them the opportunity for parole after 25 years. New Laws Give Juveniles a Chance For juveniles entering the justice system at a young age, it can feel as"
-tags = ["Criminal Law", "Juvenile Crime"]
+tags = ["Juvenile Crime"]
 title = "Juveniles Given a Chance with New Laws"
 url = "/blog/juveniles-given-chance-new-laws"
 
@@ -107,3 +107,13 @@ Once you have a list of names, call and request to interview them. Make sure you
 “You may or may not end up being friends afterwards, but that’s not as important as feeling secure that your attorney is approaching the situation in a way that feels right for you.”
 
 If you’re in the market for a criminal defense attorney for your teenager, feel free to contact Sevens Legal, APC, to answers all your questions. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
