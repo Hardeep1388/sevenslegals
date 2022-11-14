@@ -57,3 +57,15 @@ California Penal Code Section 836 has mandates for arrest for when defendant vio
 Over the years legislators have been given opportunities to address certain aspects, they still have not address crimes such as domestic violence, rape, and child abuse. The district attorney has absolute power to refuse to file charges even if there is solid the evidence for the charge. When this occurs, the victims have no legal remedy. This unrestricted prosecutorial discretion was shown in Sonoma County which has the lowest conviction rate in the state, and cases for violence against women and children tend to be systematically undercharged.
 
 Even though California does a fair job overall when it comes to enforcing domestic violence cases, there is considerable work still to be done in order to make the laws for domestic violence effective when in order to protect victims and their children.
+
+If you are a victim of domestic violence you need the expert advice and support of a domestic violence attorney such as Sevens Legal, APC. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
