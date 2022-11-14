@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Chances are you will have to get a bail bond to get out of jail if you or your loved one has been arrested for any type of serious crime. While you might imagine standing before a judge who is banging their gavel and announcing “Bail is set at 1 million,” bail bonds don’t quite "
+tags = ["Criminal Law"]
 title = "How Bail and Bail Bonds Work"
 url = "/blog/bail-bail-bonds-work/"
 
