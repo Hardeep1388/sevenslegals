@@ -1,8 +1,9 @@
 +++
-categories = "Blog ,Criminal Law ,Restraining Order"
+categories = "Blog "
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Trent Reznor, founder of band Nine Inch Nails and noted composer, has filed for a restraining order against his neighbor. Trent Reznor Gets Restraining Order Against Neighbor 52-year-old Reznor has filed for a restraining order against his neighbor, claiming “there have been a series of escalating and increasingly hostile, threatening, irrational and harassing encounters.” Reznor "
+tags = ["Criminal Law"]
 title = "Neighbor Gets Restraining Order From Trent Reznor"
 url = "/blog/criminal-attorney/neighbor-gets-restraining-order-trent-reznor/"
 
