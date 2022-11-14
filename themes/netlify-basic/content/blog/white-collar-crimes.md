@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,State Crimes,Federal Crime,White Collar Crime"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "in the 1930’s the term “White Collar Crime” was first used to refer to non-violent crimes that were being prosecuted. Frequently crimes were charged as a white collar crime if a more serious, violent crime, wasn’t able to be proved. Over the years several crimes have fallen into this category.   What Are White Collar"
+tags = ["Criminal Law", "State Crime", "Federal Crime"]
 title = "White Collar Crimes"
 url = "/blog/white-collar-crimes/"
 
