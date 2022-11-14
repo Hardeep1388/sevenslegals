@@ -1,8 +1,9 @@
 +++
-categories = "Blog Criminal Law Sexual Assault"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "An investigation is being launched by the Defense Department following reports that allege some Marines shared naked photographs of female Marines, veterans, as well as other women on a secret Facebook page. Marines Facing Potential Sexual Assault Charges The photographs, some of which were allegedly taken without the subject’s knowledge, were shared on the Facebook"
+tags = ["Criminal Law", " Sexual Assault"]
 title = "Potential Sexual Assault by Marines"
 url = "/blog/potential-sexual-assault-marines/"
 
