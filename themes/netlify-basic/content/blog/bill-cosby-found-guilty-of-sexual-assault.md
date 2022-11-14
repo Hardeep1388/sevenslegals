@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "A jury has found Bill Cosby guilty of three counts of aggravated indecent assault for drugging and sexually assaulting Andrea Constand at his home in a Philadelphia suburb in 2004. Jury Finds Bill Cosby Guilty Now that the 80-year-old comedian has been convicted, he faces up to 10 years in prison on each count. Cosby "
-tags = ["Blog", "Criminal Law"]
+tags = ["Blog", "Criminal Law", " Sexual Assault"]
 title = "Bill Cosby Found Guilty of Sexual Assault"
 url = "/assault/bill-cosby-found-guilty-of-sexual-assault/"
 

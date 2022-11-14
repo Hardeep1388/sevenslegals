@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,DUI"
+categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Typically over big weekends like Memorial Day weekend the San Diego County Sheriff’s Department will team up with the National Highway Traffic Safety Administration to keep impaired drivers off San Diego’s roads. If you received a DUI this past holiday weekend, you’ll want to know what your next steps are – namely how to contact "
+tags = ["Criminal Law"]
 title = "Memorial Day Drunk Driving Charges"
 url = "/blog/memorial-day-drunk-driving-charges/"
 
