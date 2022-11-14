@@ -1,9 +1,9 @@
 +++
-categories = "Blog "
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "For the third straight year, violent crime has increased in Los Angeles, as the result of a growing amount of homicides and gang-related shootings, in addition to a growing homeless population. Los Angeles Violent Crime Has Increased According to statistics from the Los Angeles Police Department released at the end of 2016, robberies were up "
-tags = ["Criminal Law"]
+tags = ["Blog"]
 title = "Violent Crime Has Increased in Los Angeles"
 url = "/blog/violent-crime-increased-los-angeles/"
 
@@ -95,3 +95,13 @@ Criminal charges can be complex, requiring much gathering of evidence and inform
 ### Working with Sevens Legal, APC
 
 If you or loved ones is accused or charged with any type of crime call us. Let us support and help you during this tough time. Our firm award winning attorneys provides hope and peace of mind. The Sevens Legal, APC office is located in both San Diego and Escondido. We have time and time again helped Southern California residents get their cases dismissed or penalties reduced.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
