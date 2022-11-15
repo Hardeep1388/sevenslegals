@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Recently, actor Johnny Depp was hit with a restraining order from estranged wife Amber Heard. Heard filed for divorce in May, with Heard requesting temporary and long-term spousal support, to which Depp has refused. Depp’s lawyers are now questioning if Heard’s allegations of domestic violence are simply a way to ensure a solid financial footing "
-tags = ["Domestic Violence", "Blog"]
+tags = ["Domestic Violence", "Blog", " Restraining Order"]
 title = "Heard Files Restraining Order Against Depp Amid Allegations of Domestic Violence"
 url = "/blog/heard-files-restraining-order-depp-allegations-domestic-violence/"
 
