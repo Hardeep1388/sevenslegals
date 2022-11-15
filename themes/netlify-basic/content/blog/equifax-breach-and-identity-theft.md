@@ -58,8 +58,6 @@ After you have discussed the specifics of your case, your Sevens Legal, APC, wil
 
 Sevens Legal, APC, criminal defense lawyers put our experience to work for you. Every defendant deserves a zealous defense. To schedule your free consultation with one of our Sevens Legal, APC, criminal defense lawyers, call (619) 494-3440. Contact Sevens Legal, APC, today for a free consultation.
 
-#### 
-
 [Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
 
 Criminal Defense Attorneys
