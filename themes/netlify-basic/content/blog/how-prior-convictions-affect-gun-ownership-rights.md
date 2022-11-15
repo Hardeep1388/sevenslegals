@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "The Second Amendment of the United States Constitution guarantees the right to bear arms, but there are various things that can forfeit a person’s gun ownership rights. California Penal Code 29800 and Gun Ownership Rights California Penal Code Section 29800 PC states that any person convicted under United States, California, or “any other state, government,"
-tags = ["Blog", "Domestic Violence", "Federal Crime", "Drug Crimes"]
+tags = ["Blog", "Domestic Violence", "Federal Crime", "Drug Crimes", " Juvenile Crime"]
 title = "How Prior Convictions Affect Gun Ownership Rights"
 url = "/criminal law/prior-convictions-affect-gun-ownership-rights/"
 
