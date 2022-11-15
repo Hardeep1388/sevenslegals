@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "The beach communities of Southern California are referred to by many as “partying” destinations. City officials, eager to enforce public intoxication laws, often target persons appearing to be publicly intoxicated for apprehension and prosecution. Police use the drunk in public “catch all” offense to invoke drunk and disorderly charges in order to arrest persons they "
-tags = ["Blog"]
+tags = ["Blog", "DUI"]
 title = "“Drunk in Public” Law in California"
 url = "/criminal law/drunk-public-law-california/"
 
