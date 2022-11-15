@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "With Halloween right around the corner, its the perfect time to remember that driving under the influence (i.e., “DUI“) or driving recklessly can end up with you in jail. CHP Press Release About Halloween and DUI Recently the California Highway Patrol released a press release to remind us of the following: Halloween is often recognized \n\n"
-tags = ["Blog"]
+tags = ["Blog", "DUI"]
 title = "Halloween DUI is Not Trick or Trea"
 url = "/blog/criminal-attorney/halloween-dui-trick-treat/"
 
@@ -75,3 +75,13 @@ Although these laws are specific to California, the same DUI laws are similar in
 If you are arrested and face a conviction for DUI, you need to work with a criminal defense lawyer such as Sevens Legal, APC. Once you have discussed the specifics of your cast with a Sevens Legal, APC, attorney they will let you know about your case’s strengths and weaknesses, as well as the punishment you may face and your risk of conviction. Your defense attorney will also be able to discuss any plea deal as well as whether it would be best to move forward to a trial, taking into consideration your best interests.
 
 The criminal defense attorneys at Sevens Legal, APC, believe every client has a right to the best defense possible. Contact[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+
+[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
