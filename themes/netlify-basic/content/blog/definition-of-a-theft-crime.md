@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "If you have been arrested and charged with a theft crime, you might be interested to know exactly what this charge means. Definition of a Theft Crime A theft crime is a criminal act and is defined as taking the personal property or money of another without their permission. A theft crime can either be "
-tags = ["Blog", "Grand Theft", "Petty Theft"]
+tags = ["Blog", "Grand Theft", "Petty Theft", "Theft"]
 title = "Definition of a Theft Crime"
 url = "/criminal law/definition-theft-crime/"
 
