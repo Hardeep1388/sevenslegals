@@ -1,9 +1,9 @@
 +++
-categories = "Blog"
+categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Ryan Joseph Pumar, 26, maintains that he was only trying to help his brother when he was caught with a bike that wasn’t his. He’s now facing charges for the theft."
-tags = ["Burglary", "Criminal Law", "Petty Theft", "Theft"]
+tags = ["Burglary", "Petty Theft", "Theft", "Blog"]
 title = "Accused Bike Thief Just Trying to Help Brother"
 url = "/blog/criminal-attorney/accused-bike-thief-just-trying-to-help-brother/"
 
@@ -106,3 +106,13 @@ This is where you’ll also get notices of future hearings, including dates for 
 5\. Trial. Although most cases are resolved beforehand, if your case goes to trial you can decide whether you want a trail by jury, where a jury decides your case, or a bench trial, where a judge will decide your case.
 
 If you have been arrested and accused of theft, it’s imperative that you contact a criminal defense attorney such as Sevens Legal, APC. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
