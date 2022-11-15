@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A New York City teen is stuck in limbo after a procedural issue has landed him behind bars. New York City Teen Stuck in Judicial System Pedro Hernandez, 18, of the Bronx, is a standout student with a full college scholarship. The only problem? He’s found himself in jail while an investigation is waged against "
-tags = ["Blog"]
+tags = ["Blog", " Juvenile Crime"]
 title = "Teen Victim of Judicial System"
 url = "/blog/teen-victim-judicial-system/"
 
