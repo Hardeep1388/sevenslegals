@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "This week President Obama pardoned or commuted the sentences of 231 people, the largest single-day clemency announcement since he became president. The majority of the pardons and commutations over the past years have been given to people with non-violent drug convictions. President Obama Pardons 231 Non-Violent Drug Convictions Over the past few years the United "
-tags = ["Drug Crimes", "Blog", "Drug Crime"]
+tags = ["Drug Crimes", "Blog"]
 title = "President Obama Pardons Non-Violent Drug Convictions"
 url = "/blog/president-obama-pardons-nonviolent-drug-convictions/"
 
