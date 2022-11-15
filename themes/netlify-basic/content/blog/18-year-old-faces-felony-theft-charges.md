@@ -99,8 +99,6 @@ This is where you’ll also get notices of future hearings, including dates for 
 
 If you have been arrested and accused of theft, it’s imperative that you contact a criminal defense attorney such as Sevens Legal, APC. Contact Sevens Legal, APC, today for a free consultation.
 
-#### 
-
 [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
 
 Criminal Defense Attorneys
