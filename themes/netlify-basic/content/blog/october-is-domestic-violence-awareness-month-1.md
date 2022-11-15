@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "Domestic violence affects millions across the world. Bringing awareness to the issue is one the main ways to defeat this terrible problem. That’s why October has been declared Domestic Violence Awareness Month. What is Domestic Violence? Domestic violence includes beating, threatening, sexual assault, or other harm to another person. Angry words can lead to a \n\n"
-tags = ["Battery", "Domestic Violence", "Criminal Law"]
+tags = ["Battery", "Domestic Violence", "Criminal Law", "Blog"]
 title = "October is Domestic Violence Awareness Month"
 url = "/battery/october-domestic-violence-awareness-month/"
 
