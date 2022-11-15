@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "According to San Diego police, a local man was beaten up, kicked, and smacked repeatedly with a bamboo stalk in a Logan Heights alley. Police are describing the incident a hate crime. Assault in San Diego Classified as Hate Crime Just after 7:30 p.m. on April 15, officers and paramedics responded to the alley in "
-tags = ["Blog"]
+tags = ["Blog", " Federal Crime"]
 title = "San Diego Assault Classified as a Hate Crime"
 url = "/blog/san-diego-assault-classified-hate-crime/"
 
