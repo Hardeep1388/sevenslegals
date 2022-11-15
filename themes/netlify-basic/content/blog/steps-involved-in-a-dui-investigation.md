@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "When a driver is pull over and is suspected of driving under the influence (“DUI”), their first thoughts might be on the officer’s question, “Have you had anything to drink today?” The First Step in a DUI Investigation is Being Pulled Over You cannot be forced to answer this or any other incriminating questions. The "
-tags = ["Blog"]
+tags = ["Blog", "DUI"]
 title = "Steps Involved in a DUI Investigation"
 url = "/criminal law/steps-involved-dui-investigation/"
 
