@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "In spite of the ACLU’s outcry about body cameras and their use, body cameras have become a part of the crime enforcement for the Los Angeles Police Department. Body Cameras Recently Used Recently two LAPD officers responded after receiving a call about a woman who was armed with some type of knife. After the police"
-tags = ["Battery", "Blog", " Criminal Law", "Domestic Violence", "Drug Crimes ", "DUI", "Federal Crime", "Sexual Assault"]
+tags = ["Battery", "Blog", " Criminal Law", "Domestic Violence", "Drug Crimes ", "DUI", "Federal Crime", "Sexual Assault", " State Crime"]
 title = "The ACLU Responds to Body Cameras Used by the LAPD"
 url = "/assault/aclu-responds-body-cameras-lapd/"
 
