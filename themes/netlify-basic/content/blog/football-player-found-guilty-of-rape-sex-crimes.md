@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Former Vanderbilt football player Brandon Vandenburg has been found guilty on five counts of aggravated rape, two counts of aggravated sexual battery, and one count of unlawful photography. Vandenburg Found Guilty of Rape During June 2013, Vanderbilt security cameras caught football player Brandon Vandenburg, 23, and several of his teammates carrying an unconscious 21-year-old neuroscience"
-tags = ["Blog", "Criminal Law"]
+tags = ["Blog", "Criminal Law", "Sexual Assault"]
 title = "Football Player Found Guilty of Rape Sex Crimes"
 url = "/assault/football-player-guilty-rape-sex-crimes/"
 
