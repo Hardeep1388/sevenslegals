@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "People covet the stuff of dreams every day. Stuff like designer handbags, watches, shoes, and clothes with high priced name tags on them. Enterprising entrepreneurs worldwide anxiously rush to fulfill those dreams with counterfeit merchandise, almost indistinguishable by the untrained eye from the originals. While you might think it’s harmless to buy a fake Gucci "
-tags = ["Blog"]
+tags = ["Blog", " Federal Crime"]
 title = "Counterfeit Merchandise is a Federal Offense"
 url = "/criminal law/counterfeit-merchandise-federal-offense/"
 
