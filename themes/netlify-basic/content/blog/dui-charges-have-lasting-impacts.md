@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "San Francisco 49ers linebacker Aldon Smith can confirm the fact that DUI charges have lasting impacts on a person’s life. Aldon Smith Was Arrested for Vandalism, Hit and Run, and DUI After San Francisco 49ers linebacker Aldon Smith was arrested recently for allegedly driving under the influence (“DUI”), as well as hit and run and"
-tags = ["DUI"]
+tags = ["DUI", "Blog"]
 title = "DUI Charges Have Lasting Impacts"
 url = "/blog/criminal-attorney/dui-charges-lasting-impacts/"
 
