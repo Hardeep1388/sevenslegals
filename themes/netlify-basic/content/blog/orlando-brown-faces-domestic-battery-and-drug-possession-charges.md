@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Actor Orlando Brown was recently arrested in Los Angeles on suspicion of battery, drug possession and resisting arrest. Brown rose to fame for his role as Eddie Thomas on Disney’s “That’s So Raven.” Orlando Brown Faces Charges for Domestic Battery and Drug Possession According to the Los Angeles District Attorney’s Office, Brown, 28, was arrested"
-tags = ["Blog", "Battery", "Criminal Law"]
+tags = ["Blog", "Battery", "Criminal Law", "Drug Crimes"]
 title = "Orlando Brown Faces Domestic Battery and Drug Possession Charges"
 url = "/assault/orlando-brown-faces-domestic-battery-drug-possession-charges/"
 
