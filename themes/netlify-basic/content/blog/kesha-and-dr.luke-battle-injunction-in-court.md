@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "Last week, New York judge Justice Shirley Werner Kornreich denied Kesha’s movement for a court injunction that would have allowed her to record music without producer Dr. Luke, a man Kesha alleges abused her for many years. The denial of the court injunction (and order issued by a court that forces a defendant to stop "
-tags = ["Blog"]
+tags = ["Blog", "White Collar Crime"]
 title = "Kesha and Dr. Luke Battle Injunction in Court"
 url = "/criminal law/kesha-dr-luke-battle-court/"
 
