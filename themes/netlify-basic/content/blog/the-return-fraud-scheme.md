@@ -4,7 +4,7 @@ date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "Fraud comes in many forms and ingenious schemes. Merchants are now becoming victims of “Return Fraud,” where thieves are stealing from them without leaving the store. How “Return Fraud” Works With the “Return Fraud” scheme, people will bring back stolen goods, counterfeit receipts, and merchandise that has been used or work and exchange them for"
 tags = [" Grand Theft", "Blog", " Petty Theft", "  Theft"]
-title = "The “Return Fraud” Scheme"
+title = "The Return Fraud Scheme"
 url = "/criminal-attorney/return-fraud-scheme/"
 
 +++
