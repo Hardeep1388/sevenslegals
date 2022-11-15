@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "Prosecutors in Los Angeles have charged a self-described “rehab mogul” with multiple sexual assault offenses as well as defrauding insurers as part of a $175-million billing scheme. “Rehab Mogul” Accused of Money Laundering and Sexual Assault According to the Los Angeles County district attorney’s office, 55-year-old Christopher Bathum is facing accusations in two separate cases"
-tags = ["Blog"]
+tags = ["Blog", "Sexual Assault"]
 title = "Rehab Aid Accused of Sexual Assault and Insurance Fraud"
 url = "/assault/rehab-aid-accused-sexual-assault-insurance-fraud/"
 
