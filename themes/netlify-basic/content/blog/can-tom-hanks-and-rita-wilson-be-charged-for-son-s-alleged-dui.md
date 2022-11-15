@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "Tom Hanks and Rita Wilson have been sued for their “involvement” in their 25-year-old son’s alleged DUI. But can they legally be charged? Can Actor Tom Hanks and Wife Rita Wilson Be Charged for Their Son’s Alleged DUI? Terry Moogan has filed court papers against actor Tom Hanks and his wife Rita Wilson for their "
-tags = ["Blog"]
+tags = ["Blog", "DUI"]
 title = "Can Tom Hanks and Rita Wilson Be Charged for Son’s Alleged DUI?"
 url = "/criminal law/tom-hanks-rita-wilson-charged-sons-alleged-dui/"
 
