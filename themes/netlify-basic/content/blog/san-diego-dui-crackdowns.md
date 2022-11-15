@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "It’s not uncommon for the San Diego Police Department to issue weekend DUI crackdowns. When this happens, it’s important for you to be aware of your rights. DUI Crackdowns in San Diego Typically over big weekends such as holiday weekends or even Super Bowl weekend the San Diego County Sheriff’s Department will team up with "
-tags = []
+tags = ["Blog", "DUI"]
 title = "San Diego DUI Crackdowns"
 url = "/blog/blogsan-diego-dui-crackdowns582/"
 
