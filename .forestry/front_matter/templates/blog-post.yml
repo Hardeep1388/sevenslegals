@@ -27,6 +27,7 @@ fields:
   name: summary
   label: summary
 pages:
+- themes/netlify-basic/content/blog/18-year-old-faces-felony-theft-charges.md
 - themes/netlify-basic/content/blog/aggravated-indecent-assault-charges-for-cosby.md
 - themes/netlify-basic/content/blog/ailes-faces-another-sexual-assault-case.md
 - themes/netlify-basic/content/blog/aiocla-s-10-best-in-california-for-client-satisfaction.md
@@ -34,8 +35,6 @@ pages:
 - themes/netlify-basic/content/blog/alleged-car-theft-leads-to-shooting.md
 - themes/netlify-basic/content/blog/american-institute-of-criminal-law-attorneys-award.md
 - themes/netlify-basic/content/blog/an-overview-of-the-drug-possession-laws-in-california.md
-- themes/netlify-basic/content/blog/another-great-review-for-sevens-legal-apc.md
-- themes/netlify-basic/content/blog/anthony-michael-hall-facing-felony-battery-charges-1.md
 - themes/netlify-basic/content/blog/bill-cosby-s-sexual-assault-allegations.md
 - themes/netlify-basic/content/blog/blog-criminal-defense-attorney-teen.md
 - themes/netlify-basic/content/blog/book-and-release-process-in-san-diego.md

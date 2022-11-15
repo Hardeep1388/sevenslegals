@@ -4,7 +4,7 @@ date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "There are many Californians who can’t get a job or move on with their lives due to damaged reputations because they’ve served time for their criminal mistakes. One way for some people to clear their record is a court order called a California Certificate of Rehabilitation. Although the individual’s criminal record isn’t erased, the Certificate \n\n"
 tags = ["Blog"]
-title = "California “Certificate of Rehabilitation”"
+title = "California Certificate of Rehabilitation"
 url = "/criminal-attorney/california-certificate-rehabilitation/"
 
 +++

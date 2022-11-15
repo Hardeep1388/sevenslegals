@@ -4,7 +4,7 @@ date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "Over the past year some states pushed for what’s referred to as “no refusal” DUI stops. But what is a “no refusal” DUI stop and does the National Highway Traffic Safety Administration support it? Suspicion of DUI When a person is stopped for suspicion of DUI, an officer will usually administer a group of field "
 tags = ["Blog", "DUI"]
-title = "“No Refusal” DUI Weekend"
+title = "No Refusal DUI Weekend"
 url = "/criminal law/refusal-dui-weekend/"
 
 +++

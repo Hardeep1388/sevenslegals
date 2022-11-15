@@ -4,7 +4,7 @@ date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "If you are a “permanent resident” or have a visa or “green card” which permits you to work and live in the United States, then you also enjoy most rights and privileges of other U.S. citizens. “Deportable crimes” can strip you of your status as a “permanent resident” or take away your visa or “green "
 tags = ["Blog", "Drug Crimes", " Federal Crime"]
-title = "You Can Be Deported for “Deportable Crimes” in California"
+title = "You Can Be Deported for Deportable Crimes in California"
 url = "/criminal-attorney/deported-deportable-crimes-california/"
 
 +++
