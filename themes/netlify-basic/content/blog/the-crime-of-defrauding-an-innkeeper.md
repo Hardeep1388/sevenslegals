@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "The term of “defrauding an innkeeper” refers to not paying after eating at restaurants or drinks at bars, buying fuel at gas stations, or staying at hotels or motels. While it may seem like a minor “prank,” it’s a serious crime that can be prosecuted as either a misdemeanor or felony, some of which carry "
-tags = ["Blog", "Grand Theft"]
+tags = ["Blog", "Grand Theft", "Theft"]
 title = "The Crime of “Defrauding an Innkeeper”"
 url = "/criminal law/crime-defrauding-an-innkeeper/"
 
