@@ -3,7 +3,7 @@ categories = "Drug Crime"
 date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "On December 10, 2014, East Los Angeles homes were raided by law enforcement officers searching for 38 gang members allegedly tied to the Big Hazard gang and Mexican Mafia. Individuals were arrested for federal racketeering for crimes ranging from theft to drug dealing and murder. 28 Federal Crime Arrests The raid was led jointly by"
-tags = []
+tags = ["Federal Crime", "Blog"]
 title = "Mexican Mafia Members Targeted by FBI for Federal Crime"
 url = "/drug crime/mexican-mafia-members-targeted-fbi-federal-crime/"
 
