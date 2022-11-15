@@ -4,7 +4,7 @@ date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "You hear the word “indictment” in the news and on shows about attorneys, but what does it mean, especially for a person who has been indicted? Definition of “Indictment” An indictment is when a person is formally accused and charged with committing a crime. While there are other ways a person can be accused of"
 tags = ["Blog", "Federal Crime", "State Crime"]
-title = "Meaning of “Indictment”"
+title = "Meaning of Indictment"
 url = "/criminal law/meaning-indictment/"
 
 +++
