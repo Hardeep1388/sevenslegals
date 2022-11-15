@@ -4,7 +4,7 @@ date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "Chances are that unless you’ve been hiding under a rock you’ve heard about Netflix’s “Making a Murderer.” If you haven’t, or are in the process of watching it, don’t worry, we’re not going to spoil anything. If you have seen the show, then you’ve witnessed an example of blatant police discrimination and just how two "
 tags = ["blog"]
-title = "Making a Murderer” – Another Chance for Brendan Dassey"
+title = "Making a Murderer – Another Chance for Brendan Dassey"
 url = "criminal-attorney/chance-brendan-dassey"
 
 +++
