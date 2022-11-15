@@ -3,7 +3,7 @@ categories = " Burglary"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "When most people think of theft, they think of shoplifting clothes or jewelry, or perhaps robbery, burglary, assault, or fraud. When animals are stolen, chances are they are a high-priced dog from a pet store or breeder. But a lemur? Lemur Ransomed After Theft Julie Harris, the owner of Gizmo the lemur, was burglarized by "
-tags = ["Blog", "Criminal Law"]
+tags = ["Blog", "Criminal Law", "Theft"]
 title = "Theft of Lemur Not a Bad Disney Movie"
 url = "/burglary/theft-lemur-bad-disney-movie/"
 
