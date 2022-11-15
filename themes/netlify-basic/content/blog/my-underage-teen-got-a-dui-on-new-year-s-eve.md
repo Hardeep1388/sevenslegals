@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "Being a parent can be hard. And that only gets harder as your sweet baby boy or girl grows up and becomes an adult. Without a doubt, your children will stumble. But if that stumble found them in jail with a DUI arrest on New Year’s Eve, you’ll want to know what you should do "
-tags = []
+tags = ["DUI", "Blog"]
 title = "My Underage Teen Got a DUI on New Year’s Eve"
 url = "/blog/my-underage-teen-got-a-dui-on-new-years-eve/"
 
@@ -107,11 +107,9 @@ You need to immediately call a[DUI](https://www.sevenslegal.com/san-diego-dui-de
 * Your arrest was unlawful,
 * The officer did not advise you of your rights.
 
-   
-
   If you’ve been accused and charged with [DUI](https://www.sevenslegal.com/san-diego-dui-defense-lawyer/ "San Diego DUI Defense Lawyer"), an experience DUI defense lawyer such as Sevens Legal, APC, can help negotiate to get your charges reduced. A DUI charge has many complications making it difficult to navigate without the help of an experienced and skilled DUI lawyer. A DUI lawyer can also help remove the stress and difficulty relating to being accused of a DUI. Contact [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
 
-  [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+* [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
 
   Criminal Defense Attorneys
 
