@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "If you get pulled over for a “Marijuana DUI” you should know there’s no established way to tell when a driver is impaired by marijuana. No “Breathalyzer” for Marijuana Impairment When a person is pulled over for suspected alcohol impairment, an officer will do a field sobriety test which usually includes a Breathalyzer. Blow over"
-tags = ["Drug Crimes", "DUI", "Federal Crime"]
+tags = ["Drug Crimes", "DUI", "Federal Crime", "Blog"]
 title = "Marijuana DUI"
 url = "/blog/criminal-attorney/marijuana-dui"
 
