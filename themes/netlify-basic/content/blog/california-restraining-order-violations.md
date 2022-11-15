@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "Restraining Order Violations and Contempt of Court When a civil court order, such as restraining orders, are violated, this is considered “Contempt of Court.” A violation such as this happens if you intentionally ignore a legal restraining order, also known as a “protective order,” issued by a judge. Under California Penal Code Section 273.6, contempt "
-tags = ["Blog"]
+tags = ["Blog", " Restraining Order"]
 title = "California Restraining Order Violations"
 url = "/criminal law/california-restraining-order-violations/"
 
