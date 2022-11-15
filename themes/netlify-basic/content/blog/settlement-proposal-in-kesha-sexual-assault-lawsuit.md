@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "Two weeks after appealing a judge’s decision on a court injunction, it appears that Kesha might have received a settlement proposal in her sexual assault lawsuit. Unfortunately, it looks like it’s not something that the “TikTok” singer will be agreeing to. Freedom if Kesha Denies Sexual Assault Allegations Kesha recently took to Instagram to share "
-tags = ["Blog"]
+tags = ["Blog", "Sexual Assault"]
 title = "Settlement Proposal in Kesha Sexual Assault Lawsuit"
 url = "blog/settlement-proposal-kesha-sexual-assault-lawsuit/"
 
