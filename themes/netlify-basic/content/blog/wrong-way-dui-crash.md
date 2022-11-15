@@ -102,3 +102,15 @@ The Law Offices of Sevens Legal, APC, understands DUI cases inside and out, and 
 Beating a DUI charge is never easy, even if you have a strong defense, which is why it’s important to hire an experienced DUI Defense Attorney.
 
 In DUI cases there can be numerous possible police errors, all of which can add up to helping reduce your charges. After reviewing the facts of your DUI case, our attorneys will concentrate on helping seek a dismissal or reduction by preparing a secure case that will cast doubt on any evidence the police may have obtained against you.
+
+The criminal defense lawyers at Sevens Legal, APC, believe every defendant deserves a zealous defense. Contact Sevens Legal, APC, today for a free consultation.
+
+[Sevens Legal, APC](http://www.sevenslegal.com/ "Sevens Legal, APC")
+
+Criminal Defense Attorneys
+
+3555 4th Ave.
+
+San Diego, CA 92103
+
+Phone: (619) 430-2355
