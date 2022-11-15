@@ -1,8 +1,9 @@
 +++
-categories = "Blog,Criminal Law,Juvenile Crime,Theft"
+categories = "Criminal Law"
 date = 2022-11-09T18:30:00Z
 pfd_file = ""
 summary = "A 17-year-old from San Diego was shot during a routine traffic stop after police identified he was driving a stolen car. Shooting Results from Alleged Theft of Car The suspect was stopped during a routine traffic stop when police identified the car he was driving as stolen. According to Lt. Jeff Davis, “Detectives transitioned to"
+tags = ["Blog", ",Juvenile Crime", "Theft"]
 title = "Alleged Car Theft Leads to Shooting"
 url = "/blog/criminal-attorney/alleged-car-theft-leads-to-shooting/"
 
