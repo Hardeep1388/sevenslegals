@@ -3,7 +3,7 @@ categories = "Assault"
 date = 2022-11-08T18:30:00Z
 pfd_file = ""
 summary = "it seems that Johnny Manziel is once again back in the news – but not because of his football ability. Rather, Manziel’s girlfriend, Colleen Crowley has accused him of beating her up and has sought a protective order against the NFL quarterback. Protective Order Issued Against Johnny Manziel Manziel rose to fame as the first"
-tags = ["Battery", "Blog", " Criminal Law"]
+tags = ["Battery", "Blog", " Criminal Law", " Domestic Violence"]
 title = "Protective Order Taken Against Johnny Manziel"
 url = "/assault/protective-order-johnny-manziel/"
 
@@ -81,8 +81,7 @@ Legal defenses that can be used if you are charged with violating a protective r
 3. **False Accusation:** A person who has been issued a protected order may falsely accuse you of attempting to contact them in violation of the order. They may also try to arrange a meeting with you in order to make you violate a restraining order. These are some ways a protected person can try to falsely accuse you of violating their protective restraining order.
 
    If you have been accused of violating a protective restraining order, you need the expert legal assistance of Sevens Legal, APC. Schedule a consultation today!
-
-   [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
+4. [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
 
    Criminal Defense Attorneys
 
