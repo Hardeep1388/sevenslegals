@@ -8,9 +8,6 @@ title = "Definition of a Theft Crime"
 url = "/criminal law/definition-theft-crime/"
 
 +++
-If you have been arrested and charged with a [theft crime](https://www.sevenslegal.com/san-diego-theft-lawyer/ "San Diego Theft Lawyer"), you might be interested to know exactly what this charge means.
-
-## Definition of a Theft Crime
 
 If you have been arrested and charged with a [theft crime](https://www.sevenslegal.com/san-diego-theft-lawyer/ "San Diego Theft Lawyer"), you might be interested to know exactly what this charge means.
 
