@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "parental Punishment and Juvenile Crime The debate of whether parents should be blamed and held responsible for juvenile crime has been going on for quite some time. If they should, how extreme should the punishment be? Should it include fines and incarceration, or should it depend on the crime and perhaps age of the child? "
-tags = ["Blog"]
+tags = ["Blog", "Juvenile Crime"]
 title = "Should You Be Punished for Your Child’s Juvenile Crime?"
 url = "/criminal law/punished-childs-juvenile-crime/"
 
