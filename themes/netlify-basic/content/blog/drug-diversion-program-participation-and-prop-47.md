@@ -3,7 +3,7 @@ categories = "Criminal Law"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A few months ago a newspaper article about the Los Angeles Police Department gave an interesting insight into the controversy about how Prop 47 has changed the day-to-day procedures of police departments.   Prop 47 Changes Felonies to Misdemeanors With the passage of Prop 47, certain felonies, such as drug possession, became misdemeanors instead. This"
-tags = ["Drug Crimes", "State Crime"]
+tags = ["Drug Crimes", "State Crime", "Blog"]
 title = "Drug Diversion Program Participation and Prop 47"
 url = "/blog//criminal-attorney/drug-diversion-program-participation-prop-47"
 
