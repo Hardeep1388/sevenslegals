@@ -3,7 +3,7 @@ categories = "Blog"
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Ryan Joseph Pumar, 26, maintains that he was only trying to help his brother when he was caught with a bike that wasn’t his. He’s now facing charges for the theft."
-tags = ["Burglary", "Criminal Law", "Petty Theft"]
+tags = ["Burglary", "Criminal Law", "Petty Theft", "Theft"]
 title = "Accused Bike Thief Just Trying to Help Brother"
 url = "/blog/criminal-attorney/accused-bike-thief-just-trying-to-help-brother/"
 
