@@ -361,7 +361,7 @@ ul.nav.nav-pills.nav-stacked {
     text-transform: capitalize;
     
 }
-li {
+ul.nav.nav-pills.nav-stacked li {
     width: 100%;
 }
 h3.text-uppercase {
