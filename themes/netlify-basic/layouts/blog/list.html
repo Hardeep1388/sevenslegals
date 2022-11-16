@@ -35,16 +35,16 @@
                 <div class="col-8" style="margin: 30px;">
                     
                     {{ range .Paginator.Pages }}
-                    <div class="row">
+                    <div>
                         <section>
-                            <div class="row" style="margin-bottom: 30px;">
-                                <div class="col">
+                           
+                                <div class="box-wrap">
                                     <a href="{{ .Permalink }}" style="text-decoration: none;">
                                         <h3 class="ti">{{ .Title }}</h3>
                                     </a>
                                     <p style="border-color: rgb(0,0,0);color: rgb(68,68,68);margin-top: 10px;">{{ .Params.summary }} [...]</p>
                                 </div>
-                            </div>
+                            
                         </section>
                     </div>
                     {{ end }}
