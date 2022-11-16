@@ -227,7 +227,7 @@ textarea.form-control {
 .navigation-main {
     clear: both;
     background: #e2b164;
-}ul.navbar-nav .nav-item:nth-child(1) a {
+}ul.navbar-nav .nav-item  a.active {
     color: #fff !important;
     background: linear-gradient(to bottom,#bb8a3e 0,#a77423 100%) !important;
 }
