@@ -54,20 +54,20 @@
                     <div></div>
                     <h3 class="text-uppercase">Catagories</h3>
                     <div>
-{{ if isset .Site.Taxonomies "categories" }}
-{{ if not (eq (len .Site.Taxonomies.categories) 0) }}
+{{ if isset .Site.Taxonomies "tags" }}
+{{ if not (eq (len .Site.Taxonomies.tags) 0) }}
 <div class="panel panel-default sidebar-menu">
 
     <div class="panel-heading">
-        <h3 class="panel-title">{{ i18n "categoriesTitle" }}</h3>
+        <h3 class="panel-title">{{ i18n "tagsTitle" }}</h3>
     </div>
 
     <div class="panel-body">
         <ul class="nav nav-pills nav-stacked">
             {{ $current := . }}
-            {{ range $name, $items := .Site.Taxonomies.categories }}
-            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/categories/%s/") }} class="active"{{ end }}>
-                <a href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | upper }} ({{ len $items }})</a>
+            {{ range $name, $items := .Site.Taxonomies.tags }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/tags/%s/") }} class="active"{{ end }}>
+                <a href="{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | upper }} ({{ len $items }})</a>
             </li>
             {{ end }}
         </ul>
