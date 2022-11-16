@@ -32,7 +32,7 @@
         <section class="text-center blogs_sec">
         <div class="container text-start">
             <div class="row">
-                <div class="col-7" style="margin: 30px;">
+                <div class="col-8" style="margin: 30px;">
                     
                     {{ range .Paginator.Pages }}
                     <div>
@@ -50,7 +50,7 @@
                     {{ end }}
                     {{ template "_internal/pagination.html" . }}
                 </div>
-                <div class="col">
+                <div class="col-4">
                     <h2>Catagories</h2>
                             {{ if isset .Site.Taxonomies "tags" }}
 {{ if not (eq (len .Site.Taxonomies.tags) 0) }}
