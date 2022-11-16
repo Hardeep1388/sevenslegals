@@ -358,7 +358,14 @@ section.criminal_lawyers ul li {
     padding-bottom: 60px;
 }
 ul.nav.nav-pills.nav-stacked {
-    width: 80px;
+    text-transform: capitalize;
+    width: 97px;
+}
+li {
+    width: 100%;
+}
+h3.text-uppercase {
+    margin-top: 30px;
 }
 .container.modern-form h4 {
     font-size: 43px;
