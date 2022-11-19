@@ -1,6 +1,6 @@
 baseURL = 'https://new-sevenslegal.netlify.app'
 languageCode = 'en-us'
-title = 'Sevens Legal'
+title = 'Free Consultation | San Diego Criminal Defense Lawyer'
 theme = 'netlify-basic'
 [markup.goldmark.parser.attribute]
 block = true
